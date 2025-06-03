@@ -8,5 +8,5 @@
 import Foundation
 
 struct APIKey {
-    let key: String = "https://run.mocky.io/v3/b2f45ff8-8037-47d3-a32f-3626a726cdd4"
+    let key: String = "https://run.mocky.io/v3/4094e4b1-9cd3-4729-98b1-877fb2acd0da"
 }
