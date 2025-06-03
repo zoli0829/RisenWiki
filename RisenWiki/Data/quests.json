@@ -1,0 +1,1835 @@
+{
+  "quests": [
+    {
+      "name": "A bottle of beer for the drunkard",
+      "description": "Luis wants beer. You can trade him beer for information.",
+      "location": "Luis is on a small moon-shaped island in the middle of the swamp, you can find beer throughout the camp.",
+      "objectives": [],
+      "reward": [
+      	"100 Experience upon quest completion"
+      ],
+      "notes": [
+      	"Luis is a great source of information. For each beer given, you can ask one question.",
+      	"Beer can be found in the passageway leading from Beppo to Dwight, Brogar's hut, Oscar's hut, and Rachel's hut.",
+      	"Be careful when stealing beer from huts. If you are caught, the person you stole from will not talk to you again unless you use a joke scroll on them."
+      ]
+    },
+    {
+      "name": "A gathering of triplets",
+      "description": "",
+      "location": "This quest is started by speaking to Olf, located in Harbour Town.",
+      "objectives": [
+        "Locate Dytar who is found in Patty's tavern on the harbourside.",
+        "Locate Dirk who is found in the Gutters, in Josh's Tavern found South East of Flavio's house, near Cutter."
+      ],
+      "reward": [
+      	"300 XP",
+      	"Enable the tripets to escape from Harbour Town."
+      ],
+      "notes": []
+    },
+    {
+      "name": "A night with Olga",
+      "description": "Madam Sonya has been paid. Olga and a night of pleasure await.",
+      "location": "This quest can be started by talking to Madam Sonya within Harbour Town.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"1 Jest Scroll."
+      ],
+      "notes": [
+      	"It costs 50g to sleep with Olga."
+      ]
+    },
+    {
+      "name": "A package for the Don",
+      "description": "Take a package to Don Esteban for Scordo.",
+      "location": "This quest is started by speaking to Scordo, located within the Brothels secret passage in Harbour Town.",
+      "objectives": [
+        "Complete the quest An audience with Don Esteban.",
+        "Once you have gained access to Don Esteban, give him the package."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	"Completing this quest gives the Achievements: Fence (30 points) Xbox 360 only.",
+      	"You need to have sided with the Bandits and have completed their four main quests in Harbour Town."
+      ]
+	},
+	{
+      "name": "Access to the Cemetery",
+      "description": "Yoki is guarding the cemetery. He will forbid you to enter the cemetery. You can give him the following things to enter: 1: Harlok's stew (get it from Harlok) 2: An illusion scroll 3: Weed reefer (Give him for free in the Quest of Distributing the Weed Reefers, or you come to the Monastery by joining the bandit camp for negotiations) The Cemetery was divided into two parts: the Upper part and the lower part. The Upper part is the part you just get in from the entrance of Yoki. The Lower part could be enter by going down the stairs from the big entrance. (You could see it just in front of the Main entrance of the Cemetery) There are three things to do: 1: Kill chickens to get the achievement 'The Terror of Hens'. Also get bones from graves. 2: Open the chest inside and outside (next to Yoki) of the Cemetery. The Chest is just in a corner. 3: Go straight and turn left after entering the Cemetery. You will see a small corner at your left. There's the place that buried Hemlar's Chest, containing 250 Gold coins. You can see that soil of that part is slightly lighter that other parts of the soil. Dig it out to get the money.
+      Lower part of the Cemetery:
+      Go down the stairs right in front of the main entrance. Inside was dark so that a torch was suggested as there were no enemies down there now. Turn left after you finish the stair and you will see a bookstand on your right. The bookstand is called 'Heroes of the Ancient Days'. Read it and it mentioned the name Berengir. You should also see a Stone Plate that will increase your wisdom by 4 on a gravestone near the bookstand. Go through the passage you see and explore. Take things from the Skeletons because they have a lot of things, including money, scroll, lockpicks, and bones which you need to write scrolls. Go to the crossroad with benches and turn right. Take things from every skeleton. Go to the end and you will find a skeleton called Berengir on your left. The skeleton has a key on it. Go back to the crossroad and turn left. You will see a treasure chest that was needed to open by a key. Open the treasure chest if you've already taken the key from Berengir and you will find a book called 'Wisdom in Combat'. Take it to complete the Quest 'Wisdom in Combat found'. The book is a part of Master Vitus' test, since he said 'seek Wisdom in Combat'. You can give the book to Rufus, in the library, who was looking for this book too.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 XP, Access to the Cemetery"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Alone and Abandoned",
+      "description": "Quest giver: Sara / Quest ending: when you find Jan in the house to the north. Travel further north to discover more about the island and its inhabitants",
+      "location": "The abandoned house where you take Sara during the Take Sara to Safety quest. Jan is in the house to the north, you have to enter the house to speak with him.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"50 Experience"
+      ],
+      "notes": [
+      	"You can find a shield on a small elevated ridge near the little temple. It is at a grave. You can out run the mobs in the area and come back when you have Gut animals to maximize profits because gold is scarce at the start of the game."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "An audience with Don Esteban",
+      "description": "Rachel won't let anyone go in to see the Don unless they have important information or something of value to him. To be able to meet the Don find something he wants. The Don is interested in a fine golden sword that Oscar is supposed to reforge for him.",
+      "location": "This quest is started by speaking to Rachel within the Don's camp. The quest can also be started by talking to the guard on the way to Don before talking to Rachel, which however simply promts you to go and speak to her.",
+      "objectives": [
+        "Complete Golden fragments for Oscar.",
+        "Return to Rachel."
+      ],
+      "reward": [
+      	"400 Exp"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Anything that heals",
+      "description": "This quest is started by talking to Leonardo.",
+      "location": "",
+      "objectives": [
+        "10 Healing herbs",
+        "5 Healing plants",
+        "2 Healing roots"
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Artifact delivery",
+      "description": "Beppo wants to get the crates moving again.",
+      "location": "Beppo is near the entrance to the temple in the Bandit's camp. You can usually find him sitting at a table right at the entrance.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"150 Experience upon quest completion",
+      	"20 gold"
+      ],
+      "notes": [
+      	"Quest: Dwight is to get back to work"
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Beer for the gang",
+      "description": "Sell Rachel Rohbart's 10 bottles of beer for 50 gold coins.",
+      "location": "This quest is started by speaking to Rhobart, located in the swamp to the east in the Bandit Camp.",
+      "objectives": [
+        "Speak to Rachel within Don's bandit camp. You can either sell her the beers for 50 Gold, or for 100 Gold",
+        "Return to Rhobart and give him the 50 Gold.
+"
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Branon needs help",
+      "description": "Branon needs help. He wants Ricardo to clear out disgusting insects and to do his job of protecting the excavation site.",
+      "location": "Branon is at the excavation site if you finished Disgusting insects and the part that includes him in The workers are to work again, or he is above the arena.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"150 Experience upon quest completion",
+      	"25 Experience after you tell Branon no fighter will protect him"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Brogar's Lackey",
+      "description": "Quest giver: Brogar / Quest ending: Give some fried meat to Brogar.",
+      "location": "Brogar is usually sitting in front of his hut in the camp, you can get the meat from Rachel at the cauldron in the middle of the camp.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"50 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Bryn's Dangerous Monsters",
+      "description": "Bryn will tell you a story about really dangerous monsters nearby that turn out to be sly gnomes.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Gold",
+      	"50 XP"
+      ],
+      "notes": [
+      	"Kill the Sly Gnomes near the ruin and return to Bryn for 25 gold and 50 XP."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Clean out Dargel's chest",
+      "description": "Break into Dargel's personal chest and take everything from it.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	"This quest is given by Cid."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Collect from Konrad",
+      "description": "Talk to Alvaro and find out about his weaknesses then use them against him.",
+      "location": "This quest is started by speaking to Weasel after completing the quest Walter needs a break.",
+      "objectives": [
+        "Speak to Konrad and ask him about jobs.",
+        "Talk to Tilda about Konrad (outside Konrad's shop)",
+        "Return to Weasel",
+        "Travel to the Gutter's East gate and attack Berta the cow. (Easier at night as the closest guard is asleep) The farmer will attack you. Defeat them and loot the cows head from Berta.",
+        "Return to Konrad's shop at night and climb onto the room from the back. Drop down onto the balcony and place the head onto the bed.",
+        "Talk to Weasel, he will tell you to wait till morning. In the morning use a Joke spell on Konrad and talk to him."
+      ],
+      "reward": [
+      	"150 Exp",
+      	"250 Gold",
+      	"Return to Weasel for another 50 XP"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Dangerous prey",
+      "description": "Kill the Dangerous Rotworm in the swamp.",
+      "location": "South-west side of the swamp, near the bridge where you enter the swamp.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"150 Experience",
+      	"30 gold coins"
+      ],
+      "notes": [
+      	"It is best to first talk to Doug and complete this quest along with Go hunting with Doug."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Defeat Brogar in the arena",
+      "description": "Defeat Brogar in the arena.",
+      "location": "Brogar is in the middle of the camp, outside of his hut in the day, asleep inside at night. Follow him up to the arena.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"300 Experience upon quest completion",
+      	"100 Experience for defeating Brogar",
+      	"Items from Brogar when he is down and under",
+      	"400 gold if you bet on yourself before the fight, 200 gold profit."
+      ],
+      "notes": [
+      	"Brogar is the strongest fighter in the camp. You can only fight him if you defeated all other fighters in the arena. He has a gold sword fragment"
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Defeat Craig in the arena",
+      "description": "Defeat Craig in the arena",
+      "location": "Craig is in the middle of the camp, follow him to the arena.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"150 Experience for quest completion",
+      	"60 Experience for defeating Craig",
+      	"Items from Craig when he is down and out",
+      	"100 gold if you bet on yourself before the fight, 50 gold profit"
+      ],
+      "notes": [
+      	"If you loot him while he is unconscious you will not get the money you bet on yourself back nor the winnings of the bet."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Defeat Domingo in the arena",
+      "description": "Defeat Domingo in the arena",
+      "location": "Domingo is at the end of the bridge that leads to the camp, next to Ricardo, follow him to the arena.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience for quest completion",
+      	"70 Experience for defeating Domingo",
+      	"Items from Domingo when he is down and out",
+      	"200 gold if you bet on yourself before the fight, 100 gold profit"
+      ],
+      "notes": [
+      	"Domingo is the strongest fighter in the camp, except for Brogar, you should fight Ricardo, Lorenzo and Craig before you meet him."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Defeat Lorenzo in the arena",
+      "description": "Defeat Lorenzo in the arena",
+      "location": "Lorenzo is in the middle of the camp most of the time, follow him to the arena.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 Experience for quest completion",
+      	"80 Experience for defeating Lorenzo",
+      	"Items from Lorenzo when he is down and out",
+      	"40 gold if you bet on yourself before the fight, 20 gold profit"
+      ],
+      "notes": [
+      	"Lorenzo is stronger the Ricardo but weaker then Craig and Domingo, you should fight him after beating Ricardo. He will refuse to fight you in the arena if you beat him beforehand when he attacks you during the To the temple ruins with Lorenzo quest."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Defeat Ricardo in the arena",
+      "description": "Defeat Ricardo in the arena",
+      "location": "Ricardo is at the end of the long bridge that takes you to the camp, the arena is to the west of the camp. Just follow him as he runs there.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 Experience for quest completion",
+      	"50 Experience for defeating Ricardo",
+      	"Items from Ricardo when he is down and out",
+      	"20 gold if you bet on yourself before the fight, 10 gold profit"
+      ],
+      "notes": [
+      	"Ricardo is the weakest fighter in the camp, therefore he should be the first one you should fight."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Disgusting insects",
+      "description": "Ricardo wants you to kill the disgusting insects near the camp because they freak him out, and to fell safe while guarding the camp.",
+      "location": "Ricardo is at the end of the bridge leading into the camp, at the first campfire. The disgusting insects are south of him on the little island in the middle of the swamp at the excavation site.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"250 Experience for quest completion",
+      	"60 Experience per disgusting insect, 4 in total for 240 Experience",
+      	"30 gold from Ricardo",
+      	"50 Experience when you speak with Ricardo afterwards"
+      ],
+      "notes": [
+      	"If you are having trouble with the disgusting insects you can pull them into the camp, so that the fighters and hunters get rid of them, but you have to have a killing blow on them to get experience for them.",
+      	"Apprently there seems to be a glitch, where only 3 insects comes, and the last one can't be found anywhere. This can be solved via console command: spawn Dragonfly_Don_01"
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Distraction for the prison guard",
+      "description": "This quest is offered by Marek at the end of the pier past the boat. He said that if you wanted to see the VIP inside (Romanov) you need to have his key. Ensure one of Sonya's girls visits Marek. Then he'll allow contact with Romanov.",
+      "location": "",
+      "objectives": [
+        "Speak with Sonya in her brothel, pay her 50 Gold coins for Anika's service",
+        "Speak to Anika, she is near the warehouse of the Harbour, near Carasco",
+        "Talk to Mark, and he will give you the cell key. He and Anika will stay at the back of the house."
+      ],
+      "reward": [
+      	"Marek's key, a little experience, get access to the cell."
+      ],
+      "notes": [
+      	"As there are also two another ways to take his cell key, these two ways will make this quest fail but it also completes the Quest 'Marek's key'",
+      	"The other was: Defeat him, or even kill him or Pickpocket him."
+      ],
+      "other": [
+      	"Quests involved: 'Mareks Key'"
+      ]
+	},
+	{
+      "name": "Dorgan's list",
+      "description": "Brogar wants to see the list that you found on Dorgan's body. This quest starts after Gone with the gold.",
+      "location": "The quest starts after talking to Brogar and ends when giving Brogar the list, no traveling included in the quest.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 Experience upon quest completion",
+      	"50 Experience if you show the list to Rachel before giving it to Brogar"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Dwight is to get back to work",
+      "description": "Hawkins wants Dwight to go back to hauling crates to Beppo. You must threaten him to get him back to work.",
+      "location": "Hawkins is in the middle of the camp, near the hut at the swamp. Dwight is a bit further down next to a campfire.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience upon quest completion"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Everything that isnt nailed down",
+      "description": "This Quest is started by talking to Walter after the quest Walter needs a break has been completed. Walter thinks gnomes may have stolen scrap metal from the farms. Supplying this to Walter would give him the metal he needs.",
+      "location": "",
+      "objectives": [
+        "Walter wants you to find 15 tool bags."
+      ],
+      "reward": [
+      	"3 steel blanks (One handed sword Steel blank, Bastard sword Steel blank, Two-handed sword Steel lank)",
+      	"300 Gold coins"
+      ],
+      "notes": [
+      	"Kill gnomes to obtain these tool bags ( You could find about 5 of them near Gyrger, 4 of them after crossing the bridge near Stan and the Talon Moths, and 1 of them is located in a campfire with gnomes near Rudolf's men, about 3 of them in the East coast, actually there are over 20 tool bags in the island.)",
+      	""
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Find all the pieces of the Titan Armour",
+      "description": "Find the pieces of the Titan armour. There are a total of five pieces scattered around the island. Each one protected by their own enemies.",
+      "location": "You get this quest from Ursegor after the Inquisitor has locked himself inside The Golden Gate with the Titan.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	"See The Titan Hammer (Quest)",
+      	"West Coast: One of the pieces is on the West Coast. Hidden inside a cave behind a waterfall. You will have to go through the cave. You will find a blue barrier at the end, use your scroll on it so you can go through. Inside you will find a wide network of caves, explore these and you will eventually be able to open a gate using two bust. Inside here you will find the Shield of Ursegors armour.",
+      	"See The Titan Armour (Quest)",
+      	"Northern Volcano: The last two pieces are inside this volcano in two separate temples."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Find Hemlar's murderer",
+      "description": "
+This quest is given to the Castaway should he choose to join either The Inquisition or The Order of The Holy Flame. Upon arriving at your room you will find the Inquisitor waiting outside and the man who was supposed to share the room with you, Hemlar, lying dead within. The inquisitor will task the Castaway with finding the murderer, reasoning that, as the Castaway is a new arrival, he is the only one who couldn't have done it. Inquisitor Mendoza will give you this quest.
+Begin with talking to Master Vitus. He’ll tell you to talk with Caspar and allow trading with him.
+Head to your quarters and collect every item you can find. The important ones are: the kitchen knife, found by Hemlar’s body, a small packet of weed, found leaning against the bookcase, and Hemlar's purse, slipped under the bed with a wine jug beside it. You can also find a frying pan and a lock pick in the seaman's chest, a sausage laying on the bookcase and a bottle of wine by the bed. During the conversation with Caspar, mention about the task given to you by the Inquisitor. Afterwards list out every item you have found.
+Show Harlok the knife that killed Hemlar. He will just give you a stew and tell you to go away. Show Karlsen the knife and he will tell you the knife is Harlok's, and Karlsen had sharpen the blade before.
+Head to Master Pallas and ask for the list of people who can leave the keep. You won’t get it until you finish the Basic Training quest. The suspects of Hemlar's partner is Harlok, Caspar, Taylor, Ash, Enzo, Karlsen and Tucker.
+Now there’s a little running waiting for you. Ask about Hemlar each time. Begin with Ash, Karlsen, Tucker and then ask Harlok about everything you can.
+Tucker will tell you that Hemlar always stays in the kitchen, and he was close to Harlok. He will also tell you that Hemlar selling Brugleweed is no secret in the Monastery. Talk to Harlok to prove it. Harlok said that he and Hemlar were just talking about cooking. Now you can show the knife to Harlok, which belongs to him, that made him more suspicious. Find Enzo in the upper part of the Monastery, he said that he was punished to sweep the floor because he wanted to know what are the ingredients of an illusion scroll, and he thought that the Hall of the Holy Flame will have the answer, so he broke into it but got caught. He said that he would never touch Brugleweed. Find Ash who is sweeping the floor in the upper part of the rooms, he would tell you that Harlok was a chef in the ship of Elenor, the captain was Gregorius Steelbeard, which happened to be Patty's father. Actually you can find some Brugleweed on Ash if you pickpocket him. Talk to Taylor. He will deny himself in selling Brugleweed or helping Hemlar with them. Although he knew selling Brugleweed earns you a lot, getting them into the Monastery was very difficult. Talk to Harlok again. Ask him about the Chef of the Pirate ship, he will tell you the truth eventually. This completes the Quest 'What does Harlok know?' He was bored in the Monastery, and he saw Hemlar was selling Brugleweed, so he purchased Brugleweeds from Hemlar. Since selling Brugleweeds were prohibited in the Monastery, and the weapon which murderered Hemlar was a knife from his kitchen, so he seems odd while someone got into the kitchen. He will also tell you that Hemlar was trading with his partner in the cemetery, but he didn't know who he was. Yoki, who’s guarding the cemetery entrance, is a person who you must intimidate, telling him that he’ll lose his job. Then ask about the person who get into the cemetery with Hemlar. Yoki will tell you Enzo is not the person who got into the cemetery with Hemlar. Next in line is Caspar, he will tell you Hemlar and Tucker always fight against each other, so Tucker isn't the partner of Hemlar. It leaves out Taylor and Ash. After talking with Taylor, he will tell you that the suspect went to the upper level of the Monastery so he could not follow him. Talk to Caspar and he will point out it leaves out Ash. Talk to Ash and point out that he is the partner of Hemlar. There were two options: A - First you tell me the truth... B - But I can help you... Choose option B, Ash admit the fact that he is Hemlar's partner and he will tell you everything about him and Hemlar. This completes the Quest 'Who is Hemlar's Partner?' He will give you 10 weed reefers to sell and tempt the murderer to re-appear. First, talk to Vitus and ask for permission as selling weed reefers are prohibitted in the Monastery. Then, sell the weed reefers to:
+Caspar (50 Gold)
+Kalib (50 Gold)
+Karlsen (50 Gold)
+Harlok (50 Gold)
+Tucker (50 Gold)
+Dalman (50 Gold)
+Kato (50 Gold)
+Yoki (50 Gold) (give it to him for free if you still have not got access to the cemetery)
+Taylor (100 Gold) (He is a bit foolish, so you can ask for 100 Gold if you like, but the original price was 50, so it's okay to charge him 50 or 100, doesn't matter.)
+Actually, till now, you've only sold 9 of them, but it's already enough. Then, talk to Caspar about the sold weed reefers. Go into the bathroom (the door is next to Caspar when he is sweeping), go into a bathtub and choose the option 'Wait for the killer' Also, when you sleep, there is an option: Sleep with an eye open. Nothing happens if you choose this option. At last, you will see the murderer of Hemlar standing in front of you, he is Master Aric. There are two options: Help Aric or Fight against him again. Choose the option to fight.This will be a lot more difficult than before if you use the Fireflush, because he was still a 'Master' class trainer. Defeat him again (or kill him if you like, anyway he was a drug seller and murderer). The truth is, Aric wanted to get back to mainland which was free from the ruins, but he needed money, so he worked with his master, Cutter to deliver the weed reefers to the Monastery. The distribution was laid out like so: Ash: Delivers weed reefers to the Monastery Hemlar: Sells them Aric: Collects money from Hemlar But instead of giving the money to Aric, Hemlar hid it in the cemetery, and was murdered because of it.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Either Strength Potion (+5 Strength Permanently)",
+      	"Or Mana Potion (+5 Mana Permanently)",
+      	"Talk to other suspects that was on the list to get a little experience."
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Find survivors of the shipwreck",
+      "description": "This is the first quest in Risen. Check the bodies that have washed ashore, then find Sara and speak to her to complete the quest. This quest will unlock Take Sara to Safety quest.",
+      "location": "The beach where you were washed up in the start of the game.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	"Loot the bodies at the start, pick up the gold pieces and items around the beach. There are a few clubs and a sturdy branch next to Sara that you can use as a weapon."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Find the burglar's spy",
+      "description": "Started by talking to Rodriguez in Harbour City. He is guarding the Slaughter house along the harbour front). Rodriquez wants the break-ins investigated. He thinks Cid sent someone to scope houses before he burgled them. Find the spy. The houses of Nelson the cartographer, Flavio the fur merchant, and Baxter the bookkeeper were burgled. Find each of the 3 victims and ask them about the break-ins: Baxter is found in the house to the left of the slaughter house. Baxter saw Doyle, Vasili and Mo at his house on the day of the break-ins. Nelson is found up the stairs to the right of the Slaughter house, in the first building on the right. (He also offers the Quest Nelson's ring). Nelson saw Mo, Doyle, and Pavel on the day of the break-in. Flavio is found further up the steps after Nelson's house. (the house on the end). Flavio saw Vasili, Doyle, and Pavel around on the day of the break-in. Find Doyle (Costa's house. top section up the stairs to the side of the building). During the conversation with Doyle you can either choose to side with Don or the Order. You can also postpone your decision. If you decide to side with Don during this conversation then you will be tell Doyle to leave the City, return to Cid and tell him Doyle has disappeared. If you didn't choose a side when talking to Doyle you can gain both sides favour and a lot of XP. This path may be partially a bug. Find Cid, tell him you know his spy (50 XP), Find Rodriguez, tell him you know the spy (25 XP). Go back to Cid and tell him that Doyle talked (Lie). He plans to leave the city but stays at his spot (350 XP, favour with the Inquisition). Note: The lie is definitely not a bug as you can tell Doyle that Cid intends to leave the city, meaning that he's off the hook. Go to Doyle and get him to to leave the city / kill him (For the don) (favour with the Don, 200 XP when letting him alive, unknown amount for killing). Tell Cid that Doyle left the city and that you saved his ass (50+50 XP). His conversation options are the same as when you sided with his side, the Don. He'll stay at his usual place. (optional) Go to Rodriguez and you'll automatically tell him Doyle fled (No XP). Then tell him Cid intends to leave the city. (50 XP + 150 Gold). Cid will go to the whorehouse and into a bath tub, the same place he'd go if you got Doyle to rat him out. He will leave the city at some later point and is to be found at the bandit camp. He will still give you the same talk options as if he were in the city.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	}, 
+	{
+      "name": "Find the golden bowls",
+      "description": "Find the golden bowls is a quest given to you by Carasco a warrior of the order guarding the warehouse (south east of the tavern in the harbour). Once you get the quest talk to Dytar about the golden bowl and he will offer to sell it to you for 150 gold, either buy it or pickpocket him. If your character says it is too risky to pickpocket him it means you need a higher level of pickpocket. The next bowl is in the possession of Dirk and he can be found at the gutters tavern (south east of Flavio or if you prefer directly behind the fishmongers). As with Dytar he will offer to sell the golden bowl for 150 gold and again either buy it or pickpocket him. The third bowl should be in the possession of the third brother Olf but on meeting him to discover that he hid it just before the order captured him. Olf is a prisoner of the order and can be found in the Don's house, to be able to meet him you will have to either sneak in through the upstairs window (see The family heirloom quest for sneak details) or convince Hernandez guarding the door that you can make him talk. Go upstairs and talk to Olf and he will offer to sell you information on the whereabouts of the bowl for 200 gold. Pay him and then go to the lighthouse in the harbour. Enter the lighthouse (1st floor), look behind the barrel for a telekinesis scroll, look up and you will notice the bowl, use the scroll, activate the bowl and then pickup the bowl. Another method is to jump on top of the boxes stacked in the corner, then pull yourself up onto the beam (Jump + Up). You can activate the bowl while standing on the beam. Go back and talk to Carasco if you decide to follow the order or talk to Scordo if you decide to follow the Don. Note: You do not have to talk to Olf as the bowl will still in the lighthouse regardless of whether talk to him or not. Whichever path you choose talk to Hernadez again and he will release Olf. Now that Olf is free you can start the A gathering of triplets quest or continue it depending on if you started it before or not.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Find the key in the abandoned house",
+      "description": "Quest giver: Sara / Quest ending: when you find the key in the abandoned house. This quest is a follow up of Investigate the abandoned house and unlocks Loot the chest in the abandoned house.",
+      "location": "The abandoned house where you take Sara during the Take Sara to Safety quest.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	"You can find the key before taking the quest from Sara and still complete the quest."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Fleecing the butcher",
+      "description": "Cid thinks Rodriquez is out to get him. Find out what Rodriguez is planning. This Quest is offered by Cid. Completing the Quest the following way will cancel the current quest and give another quest from Cid. Speak to the butcher Dargel and you will get the option 'So, do things have to get nasty?' this will cause him to fight you. Defeat him and ask him to pay up. He refuses so return to Cid. This will offer another quest called Clean out Dargel's chest.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Follow Garth inconspicuously!"
+      "description": "Weasel wants Gath followed, inconspicuously.",
+      "location": "This quest is given by Weasel in Harbour Town.",
+      "objectives": [
+        "Follow Garth until he meets his partner in crime (Cutter).",
+        "Defeat them both (Cutter drops a War shield and a Rusty sword)",
+        "Return to Weasel"
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Follow Jan farther to the west",
+      "description": "Quest giver: Jan after Follow Jan to the west / Quest ending: follow Jan a short distance to the swamp entrance. This quest is a follow up of Follow Jan to the west.",
+      "location": "Immediately after finishing Follow Jan to the west, you will be prompted to follow him further west.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Follow Jan to the novices' farm in the east",
+      "description": "Quest giver: Jan after Get Yourself A Decent Weapon / Quest ending: follow Jan to the east a short distance.",
+      "location": "Jan is in the house outside the swamp, on the road to Harbour town.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"50 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Follow Jan to the west",
+      "description": "Quest giver: Jan after Get Yourself A Decent Weapon / Quest ending: follow Jan to the west a short distance This quest if a follow up of Get Yourself A Decent Weapon and unlocks Follow Jan farther to the west.",
+      "location": "Jan is in a house outside the swamp, on the road to the Harbor town.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Forbidden games",
+      "description": "If you want to complete this quest, you will have to fight a number of times in the arena, which is to the west of the camp. If you tell Rachel about the bets she will tell you to put a stop to it.",
+      "location": "Talk to Craig, who is in the center of the bandit camp.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Lorenzo 20 gold bet - 40 gold winnings",
+      	"Ricardo 10 gold bet - 20 gold winnings",
+      	"Craig 50 gold bet - 100 gold winnings",
+      	"Domingo 100 gold bet - 200 gold winnings",
+      	"Brogar 200 gold bet - 400 gold winnings",
+      	"100 Experience"
+      ],
+      "notes": [
+      	"If you have beaten Lorenzo in the quest: To the temple ruins with Lorenzo he will not accept your challenge.",
+      	"You have to be defiant when talking to Brogar, otherwise you wont be able to bet against him during your fight with him."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Get Branon to go back to digging",
+      "description": "Kill the Disgusting insects and let Branon know that he can go back to work at the excavation site.",
+      "location": "Branon is behind the arena in the camp, the disgusting insects are just south of the camp.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 Experience",
+      	"25 Experience"
+      ],
+      "notes": [
+      	"This quest is a sub-quest of The workers are to work again."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Get Marek's cell key",
+      "description": "Speak to Marek to receive this quest. Getting into Romanov's cell is the only way to talk to him. Get Marek's key to the cell. This can either be done by pickpocketing the key off Marek, knocking him down and taking it or completing the quest Distraction for the prison guard.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"150 XP"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Get rid of Toni",
+      "description": "Hernandez wants help to get rid of Toni.",
+      "location": "Toni is found almost opposite Hernandez, sitting on a bench.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	"This quest is started by approaching Hernandez, he is located north-east of Leonardo."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Get the workers back to work",
+      "description": "Howkins has been trying to motivate his workers, but he simply can't. So he asks you to help him get them back to work. Dwight: He hangs out around the fire at the top of the camp. He simply needs to know your the one who tells him what to do. so tell him just that, and he will get back to work. Branon: He refuses to work while the disgusting insects are at the excavation site. You must kill the bugs, then tell him there gone and he will go back to work. Make sure to tell Ricardo that you killed the bugs to get more gold. Enrico: He tells you there a spirit that talks to him and the wont go back. Tell Dwight about this, he will tell you to trick Enrico. Now in the chest in the middle excavation site (you will need to dig it up) there is a useless amulet give it to Enrico and he will believe it helps him and go back to work for a grater cause.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Gold",
+      	"Clothes worth 500 Gold"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Get Yourself A Decent Weapon",
+      "description": "Quest giver: Jan when you speak to him for the first time / Quest ending: when you find the sword upstairs in the chest. This quest requires you to get the sword from upstairs. even if you have the rusty sword or a hunting knife from the beach. You will also find a map for that part of the island. This quest if a follow up of Alone and Abandoned and unlocks Follow Jan to the novices' farm in the east and Follow Jan to the west.",
+      "location": "The house outside the swamp that leads to Harbor town.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"50 Experience",
+      	"25 Experience when you speak to Jan after completing the quest."
+      ],
+      "notes": [
+      	"Collecting the map from the chest upstairs will give Xbox players the Map Reader achievement."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Go hunting with Doug",
+      "description": "Quest giver: Doug / Quest ending: talk to Doug after killing the Dangerous Rotworm. Doug wants you to help him kill a Dangerous Rotworm. Follow him west to the Rotworm. By killing the Dangerous Rotworm you autocomplete the Dangerous Prey quest.",
+      "location": "This quest is started by speaking to Doug, located on the bridge pathway leading to the Bandit Camp.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"5 pieces of Raw Meat",
+      	"100 Experience",
+      	"200 Experience"
+      ],
+      "notes": [
+      	"The raw meat should be used for the quest Meat for the gang."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Gold Fever",
+      "description": "Rachel is sure that at least one person in the camp, maybe more are trying to get rich behind the Don's back. She believes talking to people and helping out the Don's Lieutenants could provide information to uncover these traitors.",
+      "location": "This quest is started by speaking to Rachel within the Don's camp.",
+      "objectives": [
+        "Complete The workers are to work again.",
+      	"Complete The hunters are to hunt again.",
+      	"Complete Power struggle.",
+      	"Return to Rachel."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Golden fragments",
+      "description": "In order to get an audience with the Don, you'll have to bring something forward, something shiny golden. The five pieces forged together will definitely catch the Don's eye.",
+      "location": "The fragments are scattered throughout the swamp",
+      "objectives": [
+        "Piece one: Luis: Persuade him by giving him two beers, pickpocket it or attack and defeat him.",
+        "Piece two: Craig: Buy from him for 100 gold, or challege and defeat him in the arena then loot of his body.",
+        "Piece three: Brogar: Defeat Brogar in the arena and loot his body or Pickpocket.",
+        "Piece four: Dorgan: Loot his corpse in the cave to the south of the swamp.",
+        "Piece five: Chest: Loot the chests on the center excavation site near Branon."
+      ],
+      "reward": [
+      	"400 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Golden fragments for Oscar",
+      "description": "This Quest is started by speaking to Oscar within the Don's camp. Give Oscar the Golden fragments so that he can restore the sword. Should you decide not to return the sword to Oscar and Domingo is dead, you will never be able to talk to Oscar again. Some players found that on the PC, you can actually Pickpocket from him, then ask the Golden Sword for 200 Gold Coins. Then you will have two Golden Swords. Give one of the Golden Swords and keep the other one for your use. Anyway, it is a good sword. It requires 30 Strength to hold it and deals 30 base damage.",
+      "location": "Oscar is found in the middle of the camp, at the smithy.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience",
+      	"50 gold coins"
+      ],
+      "notes": [
+      	"This quest is required to be finished for the quest An audience with Don Esteban."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Gone with the gold",
+      "description": "Brogar wants you to find Dorgan, one of his missing hunters.",
+      "location": "Brogar is in the middle of the camp near his hut, or asleep inside. You can find Dorgan at the cave in the south-east end of the swamp. You must fight 4-6 moths to get to his body and loot a list from him to complete the quest.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"250 Experience upon quest completion",
+      	"other items from Dorgan's corpse - including one golden sword fragment from the quest Golden fragments.",
+      	"50 Experience if you show the list to Rachel before showing it to Brogar.",
+      	"50 Experience when you tell Brogar that you found Dorgan."
+      ],
+      "notes": [
+      	"If you are having trouble with the moths in the cave, pull them to the entrance and position yourself at the very entrance so you can fight them one at a time.",
+      	"Completion of the quest opens up the quest Dorgan's list."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Help the novices' farm",
+      "description": "Quest giver: Tristan / Quest ending: Help Thomas -",
+      "location": "Tristan's farm to the north of Harbour town.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Help Thomas in the fields",
+      "description": "Talk to Thomas at Tristan's farm (north west of Jan's house) and he will tell you he is behind in his work. Help him by picking up ten ripe corn plants and then talking to him again.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Healing potion"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Investigate the abandoned house",
+      "description": "Quest giver: Sara / Quest ending: when you enter the house. Enter the house to complete the quest. Search the house for loot and the key to the simple chest. This quest is a follow up of Take Sara to Safety and unlocks Find the key in the abandoned house.",
+      "location": "The abandoned house where you take Sara during the Take Sara to Safety quest.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	"Check the area around the house, there is a Pixie hat in a chest next to the campfire overlooking the beach."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Jack is in need of rum",
+      "description": "This quest is started by talking to Jack, he is outside the lighthouse tower in Harbour Town.",
+      "location": "",
+      "objectives": [
+        "Give Jack some rum to complete this quest."
+      ],
+      "reward": [
+      	"The reward is 50 experience."
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Kill the hungry wolves",
+      "description": "Henson needs some wolves killed before they injure someone.",
+      "location": "The wolves are in a cave to the north where Henson is standing.",
+      "objectives": [
+        "Kill 5 wolves in the cave behind the farm",
+        "Exit the cave towards the farm again and Henson will be there, he will tell you to rest in the storehouse.",
+        "Speak to Henson again the next morning to finish the quest.",
+        "Reward is XP and a scroll of strong magic healing."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Lazy dog",
+      "description": "Brogar wants you to make sure Clay takes over sentry duty from Phil. Speak to Clay and either give him 10 gold or beat him up to complete quest.",
+      "location": "Brogar is in the middle of the camp, outside of his hut most of the time. Clay is lazying close by to the east near a campfire.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience upon quest completion",
+      	"80 Experience for defeating Clay",
+      	"items from Clay when he is down and out if you decide to fight him."
+      ],
+      "notes": [
+      	"If you have done this quest before Rhobart's bog bodies you can have Clay help you defeat the three bog bodies."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Loot the chest in the abandoned house",
+      "description": "Quest giver: Sara after Find the key in the abandoned house / Quest ending: when you loot the chest in the abandoned house. This quest if a follow up of Find the key in the abandoned house and unlocks Take some fried meat to Sara.",
+      "location": "The abandoned house where you take Sara during the Take Sara to Safety quest.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	"You can discover and complete this quest without talking to Sara at all."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Lukor wants the five armour plates",
+      "description": "Speak to Lukor to receive this quest. Lukor wants Five armour plates retrieved. The day labourers Ingvar and Vesili, who hang around in Patty's tavern, and Duram, a worker in the harbour have them.",
+      "location": "",
+      "objectives": [
+        "Speak to Duram, either give him 250 Gold or pickpocket his key",
+        "If you stole his key speak to Ukkos and give him some meat (Completes the Quest Meat for Ukkos). He will tell you where to find Duram's chest (upstairs in the storehouse)",
+        "Go upstairs behind Ukkos and grab the 2 peices of armour.",
+        "Speak to Vasili in Patty's tavern and obtain the peice of armour either by force or offering him 100 gold.",
+        "Speak to Ingvar and either buy it off him, beat him up or pickpocket it.",
+        "Return to Lukor (For the Don) or Carasco (for the Order)"
+      ],
+      "reward": [
+      	"300 XP",
+      	"400 Gold"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Meat for the gang",
+      "description": "Rachel wants 10 haunches of raw meat.",
+      "location": "Rachel is in the camp, next to the smithy and the cauldron. You can find raw meat on rotworms in the swamp, and stingrats in and around the swamp. Doing the quest Go hunting with Doug will get you 5 pieces of raw meat.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience upon quest completion",
+      	"30 gold"
+      ],
+      "notes": [
+      	"You should easily have enough raw meat if you haven't used up the ones that you got before coming to the camp."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Meat for Ukkos",
+      "description": "During the Quest Lukor wants the five armour plates you have the chance to trade information about Duram off Ukkos for some meat. Give Ukkos meat and this will complete the quest.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Medicine for everyone",
+      "description": "Started by speaking to Belschwur. Distribute healing potions to the needy in the gutters for Master Belschwur. His list gives the names of all those who need potions.",
+      "location": "",
+      "objectives": [
+        "The people who require potions are:",
+        "Elias (located opposite Costa)",
+        "Cole (located within the building to the east of Flavio's house)",
+        "Finn (located south of Flavio's house, sitting on a bench on the east of the road)",
+        "Josh (down the stairs to the west of Flavio's house, and in the tavern there)",
+        "Martha (near the Eastern City gate, sleeping in a tent)."
+      ],
+      "reward": [
+      	"The reward is 50 XP per person aided on the list."
+      ],
+      "notes": [
+      	"Completing this Quest will enable Talk to the commandant of Harbour Town Quest to be started."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Nelson's ring",
+      "description": "Nelson would like to have the ring that was stolen from him",
+      "location": "Quest given by Nelson in Harbour Town.",
+      "objectives": [
+        "Cids girlfriend Kayleigh has Nelson's ring (item), you can either steal it from her, beat her up or do another quest called Pearls for a lady to get the ring back."
+      ],
+      "reward": [
+      	"Upon retrieving Nelson's ring, he is disgusted by the memories that comes with it; it reminds him of the break-in. As a result, you get to keep the ring, which gives you the Acrobat skill. "
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Overdue Situation Report",
+      "description": "While talking to Severin at Tilda's farm he will tell you that a situation report from The Order-controlled ruin to the west is overdue.",
+      "location": "",
+      "objectives": [
+        "Go to the west to the ruin shown to you by Jan and talk to Rudolf. After talking to Rudolf return to Severin and tell him what you found out."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	"Note if you have already completed the Conquest of the Artifact Camp quest you inform Severin of Rudolf's death and he blames it on the Don's men."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Peace and order",
+      "description": "In this quest, the pillars of the Don's activities are to be shattered. Commandant Carlos desires to drive out the remaining insurgents, once and for all.",
+      "location": "",
+      "objectives": [
+        "Basically, you piss the Don's people off. Do this by leading them on, pretending that you will help them. Near the end of these Order/Don quests, though, be sure to run along to the Order and flush the Don's hopes and dreams down the toilet.",
+        "Stay loyal to Commandant Carlos and you will be recognised for your backbreaking effort."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Pearls for a lady",
+      "description": "This quest is given by speaking to Kayleigh when you have the quest Nelson's ring. She wants you to find a pearl necklace in order to trade for Nelson's ring.",
+      "location": "",
+      "objectives": [
+        "Locations of pearl necklaces:",
+        "In a treasure chest at the pier (requires level 3 Lockpicking).",
+        "In a chest in the Storehouse during the quest Kill the hungry wolves.",
+        "Make it via blacksmithing."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Philus wants to sell his fish shop",
+      "description": "Speak to Philus in the gutter in harbour city to get this quest. Philus wants to sell his fishmongers. He believes a fisherman might be the most likely person to buy it. Duram says there might be someone at Patty's Tavern who is interested in buying a fishmonger.
+",
+      "location": "",
+      "objectives": [
+        "Speak to Nico inside Patty's Tavern and buy the ring off him for 300 gold (giving him enough money to buy the fishmongers)",
+        "Return to Philus"
+      ],
+      "reward": [
+      	"200 XP",
+      	"2 Pearls"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Power struggle",
+      "description": "Brogar will only fight opponents that have defeated all the other fighters. Craig oversees the arena fights.",
+      "location": "This quest is started by speaking to Sam within Don's camp.",
+      "objectives": [
+        "Complete Protection money in the bandit camp.",
+        "Complete The best fighter in the bandit camp.",
+        "Speak to Rachel",
+        "Once the quest has been completed speak to Don and either tell him about Brogar or not. (Not telling on Brogar to the Don will mean Rachel will give you a bit of extra money and EXP)"
+      ],
+      "reward": [
+      	"When returning to Rachel, talk to her about needing a place to sleep and she will give you Brogar's house."
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Protection against the ghosts of the anecestors",
+      "description": "Quest giver: Enrico / Quest ending: give the useless amulet to Enrico and convince him to go back to work at the excavation site.",
+      "location": "Enrico is at the far south of the swamp, west of the road that leads to the swamp. You can find the useless amulet in a basic chest in the excavation site just to the south of the camp, where Branon works.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 Experience"
+      ],
+      "notes": [
+      	"This is a sub-quest of The workers are to work again"
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Protection money from Costa",
+      "description": "Costa hasn't paid the Don's 'taxes' since he hired a bodyguard. Delgado wants Costa to pay for what he owes.",
+      "location": "This quest is started by speaking to Delgado in Harbour Town.",
+      "objectives": [
+        "Speak to Fuller (Costa's Bodyguard) and challenge him to a fight, beat him but don't kill him.",
+        "Speak to Costa and start a fight with him, defeat him (but don't kill him) and loot the money from him.",
+        "Return to Delgado, he shall reward you with 150 Gold and experience."
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Protection money in the bandit camp",
+      "description": "Brogar wants protection money from workers and hunters in the camp. Upon completion, you can choose to give the money to Brogar, or keep it for yourself.",
+      "location": "Brogar can be found sitting on a bench in front of his hut.",
+      "objectives": [
+        "Collect the protection money from the workers.",
+        "Oscar: centre of bandit camp, near Rachel and the forge.",
+        "Hawkins: south-east of the bandit camp island",
+        "Enrico: before the quest Get the workers back to work south of bandit camp, after the quest he can be found at the excavation sites",
+        "Branon: before the quest Get the workers back to work north of the arena, after the quest he can be found at the excavation sites",
+        "Dwight: north-east in bandit camp, can sometimes be found walking around",
+        "Doug: south-west of bandit camp",
+        "Luis: (Drunk) Hunter, on a small isle east of bandit camp",
+        "Rhobart: Swamp Farmer, on his farm",
+        "Obel: Farmhand, near Rhobart's farm"
+      ],
+      "reward": [
+      	"250 Experience"
+      ],
+      "notes": [
+      	"To receive Rhobart's protection money, you'll have to complete Rhobart's bog bodies."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Rescue Sara from the wilderness",
+      "description": "This quest doesn't show up at your quest page. You can finish this quest after Alone and Abandoned by finding Sara a better place to stay. If you want talk to Jan about Sara she will appear at the bandit camp later on in the game. If you talk to Tristan about Sara she will appear near Severin at Tilda's farm later on in the game. This quest will be impossible to finish when chapter 2 begins.",
+      "location": "Sara is at the abandoned house in the beginning of the game. Jan is at the house outside the swamp on the road to Harbour town. Tristan is at a farm east of the swamp, and north of the Harbour town.
+
+",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"50 Experience",
+      	"Large healing potion"
+      ],
+      "notes": [
+      	"There are two ways of doing this quest and the outcome depends on which way you choose. If you fail to complete this quest before the beginning of chapter 2, she will be dead next time you go to her shack, and the area surrounding it will be populated by black wolves and talon moths, who presumably are the perpetrators."
+      ],
+      "other": [
+      	"Achievement'Philanthropist"
+      ]
+	},
+	{
+      "name": "Rhobart needs weed",
+      "description": "",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Rhobart will pay you 70 coins for every 10 Weeds that you bring him."
+      ],
+      "notes": [
+      	"You will find the number you need in the water around his house."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Rhobart's bog bodies",
+      "description": "Rhobart will only pay Brogar's protection money once the bog bodies on his farm have been killed. The farm is by the waterfall.",
+      "location": "This quest is started by speaking to Rhobart, located within the Bandit Camp. He is on his farm.",
+      "objectives": [
+        "Kill 3 tough bog bodies by the waterfall."
+      ],
+      "reward": [
+      	"250 exp",
+      	"50 coins"
+      ],
+      "notes": [
+      	"Pull the bog bodies close to Clay and he'll help you kill them.",
+      	"After you've received his protection money, you can accept the quest to get beer to Rachel."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Scurrying's rats",
+      "description": "Luis wants you to kill the rats in the south of the swamp. They are looking at him funny.",
+      "location": "Luis is on a moon-shaped little island in the middle of the swamp, the rats are on a little island south of him.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience upon quest completion",
+      	"50 Experience per rat - 150 total",
+      	"50 Experience when you tell Luis you are done",
+      	"25 gold"
+      ],
+      "notes": [
+      	"Luis is a drunkard, you can get information from him by giving him beer, he also has one golden sword fragment on him for the quest Golden fragments."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Severin's Artifacts",
+      "description": "If you take on the role of a Mage or Warrior of the Order, Cyrus's test will send you to Severin. ",
+      "location": "",
+      "objectives": [
+        "Before you set off, ask him about the details of the missions.",
+        "Once there, just mention the crates Cyrus is waiting for, to finish this quest.",
+        "As for collecting any new artefacts — mention that Cyrus will 'rip your head off' if you do not get them.",
+        "The artefacts are an old golden crystal disk (Eldric will repair it in Chapter 2) and the ring of the staff fighter.",
+        "Now just return to the Monastery and give the artefacts to Cyrus. In return you will be able to choose between:"
+      ],
+      "reward": [
+      	" either a small ruby",
+      	"or a ring of the staff fighter",
+      	"or a berserker scroll."
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Skins for meat",
+      "description": "Speak to Flavio to receive this quest. Flavio needs five boar skins and five wolf skins. He will exhange them for meat with Baxter. Take this meat to Belschwur so he can distribute it. Baxter wants 5 wolf skins and 5 boar skins. He will only buy goods in these amounts.",
+      "location": "",
+      "objectives": [
+        "Get 5 Wolf and boar skins, these can be obtained by either Gutting animals or stealing from houses in the Harbour Town.",
+        "Speak to Baxter to trade the skins for meat.",
+        "Speak to Belschwur"
+      ],
+      "reward": [
+      	"200 XP",
+      	"Return to Flavio for another reward of x2 Healing potions and 50 XP."
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Take Sara to Safety",
+      "description": "Quest giver: Sara / Quest Ending: Sara. Sara wants you to take her somewhere safe, leave the beach and follow the path uphill that takes you to the abandoned house. Once you reach the house Sara will stop following you. This quest is a follow up of Find survivors of the shipwreck and it will unlock the quest Investigate the abandoned house.",
+      "location": "Quest begins at the beach where the game starts, follow the only path out of the beach to reach the abandoned house where the quest will end.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"50 Experience"
+      ],
+      "notes": [
+      	"In this quest you will encounter you first enemies. Hungry wolves, hungry sea vultures, hungry stingrats and possibly gnomes. The 'hungry' version of animals are the weakest. Easy to kill as it is just the start of the game. Remember to sidestep to evade their attacks and attack them while they are not facing you."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Take some fried meat to Sara",
+      "description": "Quest giver: Sara after Loot the chest in the abandoned house / Quest ending: give Sara one piece of fried meat. This quest is a follow up of Loot the chest in the abandoned house and unlocks Alone and Abandoned quest.",
+      "location": "The abandoned house where you take Sara during the Take Sara to Safety quest.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"25 Experience"
+      ],
+      "notes": [
+      	"You need just one piece of fried meat to complete the quest. If possible save the rest as you will need it for a quest later on."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Take the golden fragment from Brogar",
+      "description": "This is a sub-quest of Golden fragments quest. You can either pickpocket the sword fragment from Brogar or lift it of his body when you defeat him in the arena.",
+      "location": "Brogar is usually sitting in front of his hut in the Bandit Camp.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"100 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Take the sword to Don Esteban",
+      "description": "Speak to Don Esteban. (To gain entry to see him you need to complete the quest An audience with Don Esteban.)",
+      "location": "This quest is started by obtaining the Golden Sword (see Golden fragments for Oscar).",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"1000 XP"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Talk to the commandant of Harbour Town",
+      "description": "After completing the Quest Medicine for everyone, a guard will tell you that Commandant Carlos wants to speak with you. Speak with Carlos. He won't tell you much if you sided with the bandits though.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Reward 100 XP"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The best fighter in the bandit camp",
+      "description": "The arena to the west is a place to challenge and face other fighters. Brogar will only fight opponents that have defeated all the other fighters. Graig oversees the arena fights.",
+      "location": "This quest is started by speaking to Craig, located in the Bandit Camp, about the arena.",
+      "objectives": [
+        "Defeat Craig (Offer him a bet of 50 gold)",
+        "Defeat Ricardo",
+        "Defeat Lorenzo",
+        "Defeat Domingo (Offer him a beer to start the fight)",
+        "After defeating all the bandits go back to Craig and place a bet on yourself beating Brogar in a duel (200 gold).",
+        "Talk to Brogar and defeat him in the duel (Once he has passed out you can steal the Golden sword fragment off him for the Quest Golden fragments for Oscar.)",
+        "Return to Craig for your 400 Gold winnings. (Also completes the Quest Forbidden games)."
+      ],
+      "reward": [
+      	"200 Experience"
+      ],
+      "notes": [
+      	"Choosing to kill Brogar will still let you complete Forbidden games, get the 400 Gold and will still allow you to get Brogar's hut. No one seems to mind him being dead."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The cursed lords",
+      "description": "Leon says that the ghosts may be found in some old towers to the north, and west. Leon the farm boy has been haunted by the undead Lord Patroscon ever since he found an old ring. Leon thinks that gathering all the vassal rings of the undead lords will break the curse.
+",
+      "location": "Speak to Leon.",
+      "objectives": [
+        "Find all 6 of the vassal ring.",
+        "Leon will give you one ring",
+        "All other rings are obtained by killing and looting from the Undead lords. The undead lords are located within ancient ruins and are marked on the quest map.",
+        "This quest has no time limit. That means you could even complete this quest before defeating Titan.",
+        "You will encounter two of the Undead Lords during going to see Romanov (You can actually get Vasili to follow you and kill both of them before you dig out the treasure).",
+        "One of the Undead Lord is in a ruin that is very near to Gyrger , you could also let Henrik follow you to kill it",
+        "One of them is at a ruin where you need to cross a bridge, near to a big swamp (Not the one in the Bandit Camp), also near to a house that is occupied by about 8 to 9 gnomes.",
+        "The last one is near Harbour town, and you need to go left that leads a small bridge and a bunch of gnomes instead of going straight to the Harbour Town."
+      ],
+      "reward": [
+      	"Transformation into an Ashbeast Scroll",
+      	"Open Locks Scroll",
+      	"300 Gold"
+      ],
+      "notes": [
+      	"Finding all 6 Vassal rings will give the xbox 360 player the Ghost hunter Achievement.",
+      	"You could also kill Lord Patroscon (in the cave that you must go through to the East Coast), to get its Rune Shield and Conjure Skeleton Rune and get 50 xp from Leon"
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The family heirloom",
+      "description": "This quest is given to you by Toni one of the Don's men. He can be found sitting on a bench north west of the blacksmith in the merchant quarter of Harbour Town. Talk to him and he will tell you about Don Esteban's amulet that is still in his house, he will also give you a clue to it is location and how to get into the house. You can now do the quest in two different ways you can walk up to Hernandez a Warrior of the Order guarding the door and tell him about the amulet or you can try sneaking in through the window at the back of the house.",
+      "location": "",
+      "objectives": [
+        "Hernandez way: Talk to Hernandez, tell him about the amulet and convince him you can find it. Enter the house through the front door, go through the doorway on your right, go to the picture with the tree and activate it. This will make the cupboard next to you move and you will find the amulet in that secret room. If you want to side with the Don go back to Toni and give it to him but if you want to side with the order give it to Hernandez.",
+        "Back window way: You must have sneak for this or you will be caught in the house. Wait until dark when there are less guards around and go to the north wall of the Don's house. Climb up on to the wall and walk along it on to the roof of Sonya's brothel. On the back of the Don's house you should notice an upstairs window, climb up on to the window ledge and go into sneak mode straight away as there is a Warrior of the Order sleeping in the same room. You need to watch out for a roaming Warrior of the Order who is guarding the inside of the house as he roams through the rooms and comes up the stairs as well. Upstairs you will find Olf one of three brothers (see Find the three golden bowls quest). Looting the upstairs rooms is possible as well as long as you keep the roaming guard in mind. Sneak downstairs, head into the room across from the stairs and wait for the guard to move upstairs and then sneak into the other room right of the front door. Once in there activate the tree picture on the wall, this will make the cupboard next to you move and you will find the amulet in that secret room. If you want to side with the Don go back to Toni either through the window upstairs or just walk out the front door. If you want to side with the order talk to Hernandez about the amulet, convince him you can find it and then give it him."
+      ],
+      "reward": [
+      	"Reward 150 XP"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The farmer's sick wife",
+      "description": "Speak to Arno near the gates of the gutter in Harbour Town. Find a warm bed for Arno the farmer's sick wife, Martha",
+      "location": "",
+      "objectives": [
+        "Buy her a bed for the night at Costa's house (30 Gold) - Alternatively, after finishing Skins For Meat, you can convince Flavio to put her up in his warehouse free of charge."
+        "Return to Arno",
+        "Speak to Martha"
+      ],
+      "reward": [
+      	"250 XP",
+      	"Cooking recipe"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The hunters are to hunt again",
+      "description": "Quest giver: Sam / Quest ending: talk to Sam after completing Power struggle, Go hunting with Doug and Scurrying's rats. After completing Power struggle you first have to speak to Brogar and Rachel and then with Sam.",
+      "location": "Sam is sawing wood near Brogar.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"200 Experience"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The Initiation",
+      "description": "Enter the Hall of Holy Flame with Master Ignatius and talk to Inquisitor Mendoza. He will begin the ritual by asking some questions, some of them will be answered automatically, but for some of them you have to choose between two answers. The first set of questions: The first choice (+2 Mana Permanently). The second choice (+1 Strength Permanently). The second set of questions: The first choice (+3 Mana Permanently). The second choice (+1 Strength Permanently). The third set of questions: The first choice (+5 Health Permanently). The second choice (+2 Mana Permanently). At last, when the ritual ended, your Fireball, Magic Bullet and Frost Lance spells will have increased by one level. You will also receive the Mage's robes/the robes of the Warrior of the Order (both with +20 Blade protection, +20 Blunt protection, +20 Pierce protection, +10 Fire protection, +10 Magic protection, +10 Ice protection). Follow the Inquisitor (get access to the back of the Volcano Keep where the Commandant forbid you to enter before). Actually, this optional, but after you get access to the Hall of Holy Flame and finish the Quest Follow the Inquisitor, you can explore the Hall of Holy Flame. Firstly, there are two bookstands that will make your Wisdom +6 in total. Secondly, before the Initiation, Master Cyrus have something to trade. If you speak to him before you completed the Quest the Quest of the Masters, he will forbid you to trade with him, so take the opportunity to trade with him, after the quest the Initiation, you will not find him again in the Hall of the Holy Flame until you find him in the East Coast and repair the Damaged Golden Disk in Chapter 2. Finally, there is a small room (Probably the room of the Inquisitor Mendoza) under the Hall of Holy Flame. Go straight and you will see a path on your left hand side. Go down the stairs and you will find a room. You will find a Writing Desk, a Alchemy table, a Cupboard and a Lv 3 Treasure Chest. If you are in the line of the Monastery and you got Cid out of the town, you will probably have to use a Open Locks Scroll or learn Lockpicking from Patty. The Chest contains: A Strong Healing Potion, Strong Mana Potion, Tea. The treasure chest contains: 250 Gold coins, Strong Mana Potion, an apple, Levitation Scroll, Berserker Scroll. Nobody will attack you even you clear out the chest just after you get access to the Hall of Holy Flame so it is worthwhile. Do not miss this place!",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"Strength/Health/Mana rose according to your answers, Fireball, Magic bullet, Frost Lance (All crystal magic) rise 1 level, receive a new armour and get access to the Hall of Holy Flame."
+      ],
+      "notes": [
+      	"Requirements of receiving the quest:",
+      	"You need to complete the test of the Masters Quest and the Quest a Worthy Weapon.",
+      	"You need choose (or forced) to be in the Monastery line (Mage or Warrior of the Order)
+"
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The lost father",
+      "description": "Patty is looking for her father, Gregorius. She thinks Captain Romanov, or one of his crew knows something about his whereabouts.",
+      "location": "Obtained from Patty within a tavern along the harbour front in Harbour Town.",
+      "objectives": [
+        "Complete the quests Get Marek's cell key and Woman beater.",
+        "Speak to Romanov and mention the key you obtained from Erikson.",
+        "Speak to Vasili, he will tell you that Erikson knows about Steelbeard's hideout.",
+        "Speak to Erikson, he will tell you the whereabouts of the hideout (In the brothel in the gutter).",
+        "Enter the hideout and loot the documents from the chest there.",
+        "Return to Patty."
+      ],
+      "reward": [
+      	"150 XP",
+      	"200 Gold"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The map of the island",
+      "description": "Nelson will draw a map of the island if he's paid to. Find a way out of the town [sic] check back to see if Nelson has finished the island map.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	"This quest becomes available after Nelson's ring."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The mystery of the eastern temple",
+      "description": "This is a quest.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The sons of Tilda",
+      "description": "Tilda wants to find out how her sons are doing. Tilda has three sons Beppo, William and Leon.",
+      "location": "This quest is started by speaking to Tilda within the merchant district (West side of Harbour Town). She is outside the Food shop.",
+      "objectives": [
+        "Search for the 3 sons",
+        "Beppo is located within the bandit camp, near the entrance to Don Estebans personal quarters.",
+        "William is found within the monastery.",
+        "Leon is located North of harbour city's Eastern gate."
+      ],
+      "reward": [
+      	"After obtaining this quest an additional 150xp is given for each of the three children you speak with, even if you already knew their location."
+      ],
+      "notes": [
+      	"Completing this quest will give an achievement (Family man 20points) for xbox 360 players."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The Titan Armour",
+      "description": "First, go to the Plains temple with teleport stone or walk to it. The location of the plains temple is just north from Severin's farm. You will find a couple lizardmen and a Saurian leader. There are five Saurian leaders in total (One on the way from the main entrance of the Harbour Town to Stan, one near the rear exit near Leto, one that was attacking Jasmin's hut in Chapter 3, one in front of the plains temple, and one near the waterfall in the East Coast.) Kill them to complete the Quest of killing all Saurian leaders in Chapter 4. Kill the leaders and open the chest in the entrance of the Plains temple if you didn't do so, then kill a war cricket and get inside. You will see 2 Scorpions. Kill them and proceed further into the temple. Choose the path on the left but don't go too far. There is a trap that will crush you into ashes by a huge rock. Use telekinesis to pull the lever and deactivate the trap. Kill a few elite warriors and proceed through the left and kill the Ashbeast you see. Jump across the chasm and climb up to reach a room that contains a High Priest. Use the scroll Destroy Magical Force Field to break the red magic barrier. Enter and take things in the room. You will see a sarcophagus in the centre of the room and two bottles of potions. They are Life Potion (Max HP +10) and Experience Potion (+100 XP). There are also two scroll, light healing and conjure skeleton. Open the sarcophagus and it comes out a skeleton warrior. Get back to the main room (The place that you have to deactivate the trap to go through) and turn right this time. Break through the Blue barrier and break through the stone door. Go to the center of the room and turn around, facing the stone door that you broke through. Look up and you will see the priest's bust and take it by telekinesis. Place the bust on the altar to open the door. Open the sarcophagus to retrieve the Titan Armour piece, a Titan Staff, 145 Gold coins, 3 Lumps of Gold, 2 silver armour plates, a torch and a light spell scroll. Get out of the temple by teleport or walking out of it.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The Titan Hammer",
+      "description": "First, go to the Don's camp. Talk to Cormac and ask him about the temple behind(under) the camp. He will guess that there are something there. Talk to him again after you retrieve the Hammer of the Titan Lord. Don Estaban will not give any help, but he will offer you a Strength Potion (+5 Strength Permanently) Find the entrance near the Dancer and left of the big gold pile. Kill three ghouls with long-range weapon by using the geographical advantage. (Step onto a piece of rock so that they can't hit you.) Then, break the blue magic barrier as usual by using the scroll or the Rune. You will first see two skeleton warriors, then kill a bunch of Skeletons and two undead warriors You will see some broken rocks on your right, which combines into a small platform. On your left is a smaller platform in similar shape. An altar was placed in your front. You need to take the bust and activate the altars in order to open the door and retrieve the Hammer of the Titan Lord. Step up the stone platform and take the Stone Plate, then use the levitatation spell to get to the platform on the right. Kill two skeleton warriors there. You will see three doors.The door on the left and in the middle could be broken by a pickaxe. The door on the left-hand side contains a skeleton warrior. The door in the middle have a switch that you have to press it to open the door on the right-hand side. You will see five sarcophagi in the room. Let's open it clockwisely starting from the left. The first sarcophagus (marked by 1) contains a skeleton warrior. The second sarcophagus (marked by 2) also contains a skeleton warrior. The third sarcophagus (marked by 3) contains a Titan axe, 295 Gold coins. Regular Mana Potion, Transformation into a nautilus scroll and a golden Candlestick. The fourth sarcophagus (marked by 4) contains a lizard mage bust, 175 Gold coins, 10 arrows, Strong Mana Potion, a Light Spell Scroll, Magic Protection Scroll, a Lock Pick and a silver Goblet The fifth sarcophagus (marked by 5) is again a skeleton warrior. Then go back to the main room (the room that you just enter this temple) and start going to the left-hand side of the temple. You will see two Skeletons and again with three stone doors. You will see a stone table in the end of the corridor, take away the Stone Plate and an Amulet. Break through the right-hand side door. The room contains a skeleton warrior. Then break through the door on the left. You will see a switch that you need to press in order to open the door in the middle. The door in the middle have a trap that was made by 12 spike traps. You have two methods to get to the end of the room: 1. Observe the pattens of the spikes. You will see not all spikes rise up together. Some of them will close and they will rise up in a second or so. First, step on I and II. Then step on III when the second set of spikes raised up. Then step on IV. Wait and step on V when the spike disappears. At last, step on VI and get to the other side of the room. 2. Use levitation spell. This requires a bit of luck and precise timing. When you see the trap of number V have raised, use levitation to go there. By the time you get there it should have been closed. Then walk out from the trap quickly. Maybe someone could just levitate through the traps but I can't do it. Open the sarcophagus and you will see a skeleton warrior. Kill it in order to retreive the bust from its body. Pull the ring of the right-hand side of the wall to deactivate the traps AFTER you kill the skeleton warrior. If you pull down the ring before you kill the skeleton, then you have to pull the ring again. Get back to the main room and place the lizard mage bust on the altar in order to open the big door. Inside you will find two Undead beasts. Kill them but don't engage the Shadow Lord. After killing the beast, you could engage the Shadow Lord. But you could not deal any damage to it because it is immortal. Kill it by running into the opposite side of the Shadow Lord. Hopefully he will follow you. Press the button on the walls (there are totally three of them and you could press anyone of them) to activate the trap in the centre and burn the Shadow Lord into ashes. Try again if you failed to kill it. Take the Hammer of the Titan Lord and gain 1000 XP and teleport (or walk) back to the Bandit Camp. Talk to Cormac to gain XP and Fincher to gain a little experience.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "The workers are to work again",
+      "description": "Hawkins wants you to put the workers back to work at the excavation sites to dig up artifacts and bring them to Beppo.",
+      "location": "Hawkins is at the middle of the camp, near the second campfire behind the hut near the swamp. Worker Brannon is above the arena, hiding from work. Worker Enrico is on the south-east side of the swamp, near the bridge at the entrance Worker Dwight is close to Hawkins, just a bit to the east near a campfire.",
+      "objectives": [
+        "Worker Branon will go back to work if you killed the disgusting insects at the first excavation site.",
+        "Worker Enrico will go back to work if you give him the Useless amulet and complete Protection against the ghosts of the ancestors.",
+        "Worker Dwight will go back to work if you threaten him with violence."
+      ],
+      "reward": [
+      	"100 Experience when Branon goes back to work",
+      	"5 gold and 25 Experience when you tell Hawkins that Enrico is back to work.",
+      	"5 gold and 25 Experience when you tell Hawkins that Branon is back to work.",
+      	"5 gold and 25 Experience when you tell Hawkins that Dwight is back to work.",
+      	"200 Experience upon quest completion."
+      ],
+      "notes": [
+      	"Make sure you tell Hawkins when each of the worker is back to work before completing quest or you will miss a part of the reward."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Thieving Gnomes",
+      "description": "When you ask Severin at Tilda's farm about the nearby ruins and about the Gnomes giving him a hard time he will give you the Thieving Gnomes quest.",
+      "location": "",
+      "objectives": [
+        "The thieving gnomes are west of the ruin entrance around a fire and a chest. Kill them, loot them, loot the chest and return to Severin who will send you on to Ruben for a reward."
+      ],
+      "reward": [
+      	"200 Gold"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "To the temple ruins with Lorenzo",
+      "description": "Lorenzo wants you to help him clearing a nearby temple of monsters, at least that is what he says, the truth is he wants you gone from the camp because more people in the camp means less money for him. You will have to fight him or give him 50 gold to leave you alone.",
+      "location": "Lorenzo is in the middle of the camp, near the campfire, follow him outside the camp and the quest will be complete.",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	"150 Experience for quest completion",
+      	"80 Experience for defeating Lorenzo",
+      	"items from Lorenzo when he is down and out"
+      ],
+      "notes": [
+      	"If you fought Lorenzo before during Defeat Lorenzo in the arena quest, you will not get 80 Experience for defeating him nor will you get items for looting him."
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Trick Aric",
+      "description": "You needed to beat Tucker, William, and Kato in the arena in order to do this quest. This is a part of the basic training. You needed to complete this quest in order to get access to the upper level of the monastery and get the door of the monastery open. You needed to talk to Aric, and told him that you beat Tucker, William, and Kato. Then, you can invite him to the Arena and fight. The fight may have two outcomes: Aric was defeated or You were defeated. If Aric was defeated, then you can talk to Master Vitus and told him that you have completed the basic training. If you were defeated, you can fight him again in the arena, but there is a better way to do this... If you were caught by the white robes in the beginning of the game, it seems impossible to defeat Aric. You could only lose to him, but almost half of your money will be taken by Aric. Talk to William and then go to ask Caspar what to do, he said some kind of wine may work well. So go to take a bottle of Fireflush from Dalman. After this, ask Karlsen to give you a bad weapon. After the conversation, he will give you 'the Worst Sword in the world', made by one of his witless apprentice. Talk to Aric, and follow Caspar's words, give him some ordinary wine first. Give Aric 2 bottles of wine, then at last the Fireflush. Aric said that he could even defeat you with a rusty weapon. So give him the Worst sword in the world in exchange of Aric's Sword. Then invite him to the Arena. Defeat him with Aric's sword (or any other decent weapon) to complete the quest. You will find Aric's health was much shorter than before. The fight should be easier. If you do not want to lose any money from Aric and have an easier fight, you can produce the third outcome in the initial battle: 3. No one was knocked out, but you were defeated. That means you enter the Arena and exit quickly before Aric can attack you. You will lose the fight because you broke the rule of the Arena. Then, you can talk to Caspar and continue the quest as above.",
+      "location": "",
+      "objectives": [
+        
+      ],
+      "reward": [
+      	
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Walter needs a break",
+      "description": "Speak to Walter (the blacksmith) to get this quest. Talk to Alvaro and see if he will let Walter the Smith take a break.",
+      "location": "He is in the merchant district within Harbour Town.",
+      "objectives": [
+        "Speak to Alvaro, he will give you some money to get some servants to help (150 Gold)",
+        "One Smith's helper is just north of Alvaro's shop near the gate (50 Gold)",
+        "The second in on the wall behind Alvaro's shop (50 Gold)"
+      ],
+      "reward": [
+      	"50 XP",
+      	"50 Gold"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	},
+	{
+      "name": "Woman beater",
+      "description": "Erikson beat Gwen up. He needs dealing with.",
+      "location": "This quest is given by Gwen in Harbour Town's brothel.",
+      "objectives": [
+        "Speak to Erikson, and he will start a fight with you. You will receive the Quest Defeat Erikson. Beat him up, take his Sledgehammer and other items. Then warn him off.",
+        "Return to Gwen"
+      ],
+      "reward": [
+      	"70 Gold"
+      ],
+      "notes": [
+      	
+      ],
+      "other": [
+      	
+      ]
+	}
+}
