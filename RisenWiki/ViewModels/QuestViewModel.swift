@@ -14,6 +14,16 @@ struct QuestsResponse: Codable {
 class QuestViewModel: ObservableObject {
     @Published var quests: [Quest] = []
     
+    var searchText: String = ""
+    
+    var filteredQuests: [Quest] {
+        if searchText.isEmpty {
+            return quests
+        } else {
+            return quests.filter { $0.name.localizedStandardContains(searchText)}
+        }
+    }
+    
     init() {
             Task {
                 await loadQuests()

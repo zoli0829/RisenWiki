@@ -17,13 +17,14 @@ struct QuestsView: View {
     var body: some View {
         NavigationStack {
             List {
-                ForEach(viewModel.quests) { quest in
+                ForEach(viewModel.filteredQuests) { quest in
                     NavigationLink(destination: QuestDetailView(quest: quest)) {
                         Text(quest.name)
                     }
                 }
             }
             .navigationTitle("Quests")
+            .searchable(text: $viewModel.searchText)
         }
     }
 }
