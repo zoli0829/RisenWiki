@@ -12,6 +12,9 @@
       	"Luis is a great source of information. For each beer given, you can ask one question.",
       	"Beer can be found in the passageway leading from Beppo to Dwight, Brogar's hut, Oscar's hut, and Rachel's hut.",
       	"Be careful when stealing beer from huts. If you are caught, the person you stole from will not talk to you again unless you use a joke scroll on them."
+      ],
+      "other": [
+          
       ]
     },
     {
@@ -26,7 +29,12 @@
       	"300 XP",
       	"Enable the tripets to escape from Harbour Town."
       ],
-      "notes": []
+      "notes": [
+          
+      ],
+      "other": [
+          
+      ]
     },
     {
       "name": "A night with Olga",
@@ -40,6 +48,9 @@
       ],
       "notes": [
       	"It costs 50g to sleep with Olga."
+      ],
+      "other": [
+          
       ]
     },
     {

@@ -13,8 +13,7 @@ struct QuestsResponse: Codable {
 
 class QuestViewModel: ObservableObject {
     @Published var quests: [Quest] = []
-    
-    var searchText: String = ""
+    @Published var searchText: String = ""
     
     var filteredQuests: [Quest] {
         if searchText.isEmpty {

@@ -20,12 +20,12 @@ struct QuestDetailView: View {
                 Text(quest.description)
                     .font(.body)
                 
-                Text("📍 Location:")
+                Text("Location:")
                     .font(.headline)
                 Text(quest.location)
                 
                 if !quest.objectives.isEmpty {
-                    Text("🎯 Objectives:")
+                    Text("Objectives:")
                         .font(.headline)
                     ForEach(quest.objectives, id: \.self) { objective in
                         Text("• \(objective)")
@@ -33,7 +33,7 @@ struct QuestDetailView: View {
                 }
                 
                 if !quest.reward.isEmpty {
-                    Text("🏆 Rewards:")
+                    Text("Rewards:")
                         .font(.headline)
                     ForEach(quest.reward, id: \.self) { rewardItem in
                         Text("- \(rewardItem)")
@@ -41,7 +41,7 @@ struct QuestDetailView: View {
                 }
                 
                 if !quest.notes.isEmpty {
-                    Text("📝 Notes:")
+                    Text("Notes:")
                         .font(.headline)
                     ForEach(quest.notes, id: \.self) { note in
                         Text("- \(note)")
@@ -49,7 +49,7 @@ struct QuestDetailView: View {
                 }
                 
                 if !quest.other.isEmpty {
-                    Text("📌 Other:")
+                    Text("Other:")
                         .font(.headline)
                     ForEach(quest.other, id: \.self) { item in
                         Text("- \(item)")

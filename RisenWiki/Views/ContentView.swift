@@ -16,8 +16,7 @@ struct ContentView: View {
         NavigationStack {
             // Buttons at the bottom of the screen
             TabView {
-                Text("QuestsView")
-                //QuestsView()
+                QuestsView()
                     .tabItem {
                         Label("Quests", systemImage: "list.bullet")
                     }
