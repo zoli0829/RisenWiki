@@ -30,7 +30,7 @@ class QuestViewModel: ObservableObject {
         }
     
     func loadQuests() async {
-        guard let url = URL(string: APIKey().key) else {
+        guard let url = URL(string: APIKey().risenQuestsKey) else {
             print("Invalid URL")
             loadFromLocalFile()
             return
@@ -54,7 +54,7 @@ class QuestViewModel: ObservableObject {
     }
     
     func loadFromLocalFile() {
-            let localQuests: QuestsResponse = Bundle.main.decode("LocalQuests.json")
+            let localQuests: QuestsResponse = Bundle.main.decode("LocalRisenQuests.json")
             DispatchQueue.main.async {
                 self.quests = localQuests.quests
             }
