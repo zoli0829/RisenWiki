@@ -13,63 +13,71 @@ struct ContentView: View {
     let games = ["Game 1", "Game 2", "Game 3"]
     
     var body: some View {
-        NavigationStack {
-            // Buttons at the bottom of the screen
-            TabView {
+        TabView {
+            NavigationStack {
                 QuestsView()
-                    .tabItem {
-                        Label("Quests", systemImage: "list.bullet")
-                    }
-                
+            }
+            .tabItem {
+                Label("Quests", systemImage: "list.bullet")
+            }
+            
+            NavigationStack {
                 CharactersView()
-                    .tabItem {
-                        Label("Characters", systemImage: "person.3")
-                    }
-                
+            }
+            .tabItem {
+                Label("Characters", systemImage: "person.3")
+            }
+            NavigationStack {
                 Text("CreaturesView")
                 //CreaturesView()
-                    .tabItem {
-                        Label("Creatures", systemImage: "tortoise.fill")
-                    }
-                
+            }
+            .tabItem {
+                Label("Creatures", systemImage: "tortoise.fill")
+            }
+            
+            NavigationStack {
                 Text("LocationsView")
                 //LocationsView()
-                    .tabItem {
-                        Label("Locations", systemImage: "map.fill")
-                    }
-                
+            }
+            .tabItem {
+                Label("Locations", systemImage: "map.fill")
+            }
+            
+            NavigationStack {
                 Text("ItemsView")
                 //ItemsView()
-                    .tabItem {
-                        Label("Items", systemImage: "bag.fill")
-                    }
-                
+            }
+            .tabItem {
+                Label("Items", systemImage: "bag.fill")
+            }
+            
+            NavigationStack {
                 Text("MechanicsView")
                 //MechanicsView()
-                    .tabItem {
-                        Label("Mechanics", systemImage: "gearshape.fill")
-                    }
             }
-            .navigationTitle(selectedGame)
-            .toolbar {
-                ToolbarItem(placement: .topBarLeading) {
-                    Button {
-                        // Home button action here
-                    } label: {
-                        Label("Home", systemImage: "house.fill")
-                    }
+            .tabItem {
+                Label("Mechanics", systemImage: "gearshape.fill")
+            }
+        }
+        .navigationTitle(selectedGame)
+        .toolbar {
+            ToolbarItem(placement: .topBarLeading) {
+                Button {
+                    // Home button action here
+                } label: {
+                    Label("Home", systemImage: "house.fill")
                 }
-                
-                ToolbarItem(placement: .topBarTrailing) {
-                    Menu {
-                        ForEach(games, id: \.self) { game in
-                            Button(game) {
-                                selectedGame = game
-                            }
+            }
+            
+            ToolbarItem(placement: .topBarTrailing) {
+                Menu {
+                    ForEach(games, id: \.self) { game in
+                        Button(game) {
+                            selectedGame = game
                         }
-                    } label: {
-                        Label("Select Game", systemImage: "gamecontroller.fill")
                     }
+                } label: {
+                    Label("Select Game", systemImage: "gamecontroller.fill")
                 }
             }
         }

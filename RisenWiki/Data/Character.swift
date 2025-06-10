@@ -34,11 +34,7 @@ struct Character: Codable, Identifiable {
         tips.isEmpty ? ["No tips available."] : tips
     }
     
-    static let example = Character(
-        name: "Example Character",
-        description: "This is an example character.",
-        location: "Example Location",
-        relatedQuests: ["Example Quest 1", "Example Quest 2"],
-        tips: ["Tip 1", "Tip 2"]
-    )
+    // Example for preview.
+    static let allCharacters: [Character] = Bundle.main.decode("LocalRisenCharacters.json")
+    static let example = allCharacters[0]
 }

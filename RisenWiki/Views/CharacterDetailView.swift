@@ -54,6 +54,6 @@ struct CharacterDetailView: View {
         .navigationTitle("Character Details")
     }
 }
-    #Preview {
-        CharacterDetailView(character: Character.example)
-    }
+#Preview {
+    CharacterDetailView(character: Character.example)
+}

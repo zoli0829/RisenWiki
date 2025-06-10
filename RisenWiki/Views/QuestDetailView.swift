@@ -13,45 +13,47 @@ struct QuestDetailView: View {
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 16) {
-                Text(quest.name)
-                    .font(.largeTitle)
-                    .fontWeight(.bold)
+                Section {
+                    Text(quest.name)
+                        .font(.largeTitle)
+                        .fontWeight(.bold)
+                    
+                    Text(quest.safeDescription)
+                        .font(.body)
+                }
                 
-                Text(quest.description)
-                    .font(.body)
+                Section {
+                    Text("Location:")
+                        .font(.headline)
+                    Text(quest.safeLocation)
+                }
                 
-                Text("Location:")
-                    .font(.headline)
-                Text(quest.location)
-                
-                if !quest.objectives.isEmpty {
+                Section {
                     Text("Objectives:")
                         .font(.headline)
-                    ForEach(quest.objectives, id: \.self) { objective in
+                    ForEach(quest.safeObjectives, id: \.self) { objective in
                         Text("• \(objective)")
                     }
                 }
                 
-                if !quest.reward.isEmpty {
+                Section {
                     Text("Rewards:")
                         .font(.headline)
-                    ForEach(quest.reward, id: \.self) { rewardItem in
+                    ForEach(quest.safeReward, id: \.self) { rewardItem in
                         Text("- \(rewardItem)")
                     }
                 }
                 
-                if !quest.notes.isEmpty {
+                Section {
                     Text("Notes:")
                         .font(.headline)
-                    ForEach(quest.notes, id: \.self) { note in
+                    ForEach(quest.safeNotes, id: \.self) { note in
                         Text("- \(note)")
                     }
-                }
-                
-                if !quest.other.isEmpty {
+                    
                     Text("Other:")
                         .font(.headline)
-                    ForEach(quest.other, id: \.self) { item in
+                    ForEach(quest.safeOther, id: \.self) { item in
                         Text("- \(item)")
                     }
                 }

@@ -24,7 +24,7 @@ struct CharactersView: View {
                 }
             }
             .navigationTitle("Characters")
-            .searchable(text: $viewModel.searchText)
+            .searchable(text: $viewModel.searchText, prompt: "Search for a character")
         }
     }
 }

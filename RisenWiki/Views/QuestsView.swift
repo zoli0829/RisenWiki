@@ -24,7 +24,7 @@ struct QuestsView: View {
                 }
             }
             .navigationTitle("Quests")
-            .searchable(text: $viewModel.searchText)
+            .searchable(text: $viewModel.searchText, prompt: "Search for a quest")
         }
     }
 }

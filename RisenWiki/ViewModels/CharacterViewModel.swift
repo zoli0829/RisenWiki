@@ -61,6 +61,7 @@ class CharacterViewModel: ObservableObject {
         }
     }
 }
+
 // Mock for preview purposes.
 #if DEBUG
 class MockCharacterViewModel: CharacterViewModel {

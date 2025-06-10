@@ -25,10 +25,10 @@ class QuestViewModel: ObservableObject {
     }
     
     init() {
-            Task {
-                await loadQuests()
-            }
+        Task {
+            await loadQuests()
         }
+    }
     
     func loadQuests() async {
         guard let url = URL(string: APIKey().risenQuestsKey) else {
@@ -55,11 +55,11 @@ class QuestViewModel: ObservableObject {
     }
     
     func loadFromLocalFile() {
-            let localQuests: QuestsResponse = Bundle.main.decode("LocalRisenQuests.json")
-            DispatchQueue.main.async {
-                self.quests = localQuests.quests
-            }
+        let localQuests: QuestsResponse = Bundle.main.decode("LocalRisenQuests.json")
+        DispatchQueue.main.async {
+            self.quests = localQuests.quests
         }
+    }
 }
 
 // Mock for preview purpuses, #if debug to make sure mocks arent included in production builds
