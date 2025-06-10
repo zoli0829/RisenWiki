@@ -15,6 +15,7 @@ class QuestViewModel: ObservableObject {
     @Published var quests: [Quest] = []
     @Published var searchText: String = ""
     
+    // Searchable filter.
     var filteredQuests: [Quest] {
         if searchText.isEmpty {
             return quests

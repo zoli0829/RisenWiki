@@ -21,8 +21,7 @@ struct ContentView: View {
                         Label("Quests", systemImage: "list.bullet")
                     }
                 
-                Text("CharactersView")
-                //CharactersView()
+                CharactersView()
                     .tabItem {
                         Label("Characters", systemImage: "person.3")
                     }

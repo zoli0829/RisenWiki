@@ -1,1183 +1,1183 @@
 {
-	"characters": [
-		{
-			"name": "Abrax",
-			"description": "Abrax is a Half-Crazy alchemist that hides in a secret lab under the monastery, he is one of the masters of the monastery and he gives you a quest of find his other novices.\nHe wants you to find two novices at Tilda's farm, where Severin is in command, and bring back som plants.\nAbrax also sells you some of his potions if needed.\nYou can learn alchemy from Abrax, and he doesn't seem to notice if you plunder his Lab.\nIn order to get to Master Abrax you need to go down to the secret library and find the way in through a small crack in a wall, you will need to use the nautilus spell to get in there. but you can easily get out again, just pull the lever and a door will open to the lower sleeping quarters.",
-			"location": "",
-			"relatedQuests": [
-				
-			],
-			"tips": [
-				
-			]
-		},
-		{
-			"name": "Alvaro",
-			"description": "Alvaro is a trader in Harbour Town.",
-			"location": "Harbour Town, next door to Leonardo.",
-			"relatedQuests": [
-				"Collect from Alvaro"
-			],
-			"tips": [
-				
-			]
-		},
-		{
-		"name": "Baxter",
-		"description": "He is a minor character in the quests Skins for meat and Find the burglar's spy.",
-		"location": "Harbour Town on the waterfront. He is in the house to the left (north-west) of the slaughterhouse.",
-		"relatedQuests": [
-			"Skins for meat",
-			"Find the burglar's spy"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Belschwur",
-		"description": "Belschwur is a mage in the The Order of the Holy Flame.\nAn altruist to the core, he is tirelessly generous and has but a single purpose: to help the poor and downtrodden inhabitants of The Gutters.\nPerforming quests for Belschwur will increase your standing with The Order and will provide you an opportunity to meet with Harbour Town's commandant, Carlos.\nHe also gives the teleport stone of Harbour Town, if you choose the path of the Monastery.",
-		"location": "Belschwur can be found in Harbour Town's low rent district, The Gutters, in the north-west corner tending a large stew cauldron. His location is just north of dead-centre on the Harbour Town map.",
-		"relatedQuests": [
-			"Medicine for everyone"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Beppo",
-		"description": "Beppo is in charge of the artifact delivery in the Bandit's camp.",
-		"location": "Beppo can be found standing beside a table at the entrance leading temple in the Bandit Camp.",
-		"relatedQuests": [
-			"The sons of Tilda",
-			"Artifact delivery"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Branon",
-		"description": "Branon is a worker in the Bandit Camp. He is a digger in the excavation site, but at first you find him hiding behind the arena. Branon tells the hero that it is possible to find treasure at certain locations if only he has a shovel.",
-		"location": "You will first find him hiding behind the arena, after you kill the Disgusting insects he will go back to work at the excavation site closest to the camp.",
-		"relatedQuests": [
-			"Disgusting insects",
-			"Get Branon to go back to digging",
-			"Branon needs help",
-			"The workers are to work again"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Brogar",
-		"description": "Brogar is the leader of the fighters and acting leader of the Bandit Camp since Don Esteban locked himself inside the ruins to try and come up with a plan to retake the island.",
-		"location": "During daytime, Brogar is mostly sitting on the bench in front of his house in the Bandit Camp. Obviously, he will always be sleeping in his bed during night time. Brogar is also the 'boss' of the fighters who 'protect' the workers.",
-		"relatedQuests": [
-			"Brogar's Lackey",
-			"Golden fragments for Oscar",
-			"Take care of Brogar for good",
-			"Defeat Brogar in the Arena",
-			"Gone with the gold",
-			"Protection money in the bandit camp",
-			"Power struggle",
-			"Lazy Dog"
-		],
-		"tips": [
-				"You need to complete the Quest Brogar's Lackey first to complete the other quests.",
-				"You can easily skip Brogar's quest for his swordpiece, just pickpocket him and take it.",
-				"You can also defeat him in the Arena and loot him.",
-				"Kill him after if you like to complete the quest Take care of Brogar for good.",
-				"He is also the primary antagonist in the quest Power struggle. Brogar wants to take over from the Don. You should help Rachel against Brogar to complete a part of the quest Gold Fever.",
-				"He offers you the quest Protection money in the bandit camp. You can actually select not to give him the money you have collected.",
-				"After the quest Gold Fever you can kick him out of his hut and take over it for your reward of helping Rachel.",
-				"If you kill him after you knock him out or tell Don that Brogar wanted to take over his power, he would be killed. If you did not do one of those, you will meet him later in the game, on the way when you go to retrieve one piece of the Titan Armour. If you kill him, you will get 250 gold coins and a Strong Healing Potion, and also the list that you took from Dorgan's body if you gave it to him."
-		]
-	},
-	{
-		"name": "Bryn",
-		"description": "Bryn is a Recruit of the Order.\nHe gives you the Bryn's dangerous monsters quest for which you need to clear out a nearby ruin of Gnomes.",
-		"location": "Volcano Keep: He can be found guarding the path to the monastery.",
-		"relatedQuests": [
-			"Bryn's dangerous monsters"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Carasco",
-		"description": "Carasco is a Warrior Of The Order guarding one of the entrances into The Inquisition's warehouse.\nIt is possible to pickpocket Carasco and get his weapon, the Executioner's staff.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			"Find the golden bowls"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Carlos",
-		"description": "Commandant Carlos is the leader of the Inquisition in Harbour Town. He quests you with putting a stop to the Dons operation in Harbour Town.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Caspar",
-		"description": "Caspar is a Recruit of the Order.\nHe is also a trader and will sell scrolls, lockpicks etc.",
-		"location": "Volcano Keep: He can be found at the monastery cleaning the recruit quarters north-east of the training ground.",
-		"relatedQuests": [
-			"Find Hemlar's murderer",
-			"Distribute the weed reefers in the keep"
-		],
-		"tips": [
-				"Merchandise contains: Scoop, Blank scroll and Lock pick"
-		]
-	},
-	{
-		"name": "Cid",
-		"description": "Cid is a trainer, among other things in Harbour Town.\nDuring the quest Find the burglar's spy, it is required to speak to Cid if you wish to side with the Don.\nOffers the quests Fleecing the butcher, and Clean out Dargel's chest.\nHis girlfriend is Kayleigh, who lives with him.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			"Fleecing the butcher",
-			"Clean out Dargel's chest",
-			"Find the burglar's spy"
-		],
-		"tips": [
-				"Offers the following Training, for a price:\nDexterity +1 (13 Gold + 1 LP)\nDexterity +5 (75 Gold + 5 LP)\nOpen Locks 1 (100 Gold + 5 LP)\nSneak (100 Gold + 5 LP)"
-		]
-	},
-	{
-		"name": "Clay",
-		"description": "Clay is a fighter for the don in the Bandit Camp. He is lazy and he is avoiding his job. Strong fighter.",
-		"location": "At the excavation site east of the camp, sleeping next to the campfire. After Lazy dog you can find him east near Rhobart's farm.",
-		"relatedQuests": [
-			"Lazy dog"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Cole",
-		"description": "Cole is a Hunter that can't go out hunting, since he, like everyone else, have been locked in Harbour Town.\nAfter talking to him you can ask him to teach you about hunting.\nCole is a trainer in Harbour Town.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"Offers the following Training, for a price:\nDexterity +1 (13 Gold + 1 Learning point)\nDexterity +5 (75 Gold + 5 Learning points)\nBow 2 (100 Gold + 10 Learning points)\nSneak (100 Gold + 5 learning points)\nGut animals (100 Gold + 5 Learning points)"
-		]
-	},
-	{
-		"name": "Commandant Carlos",
-		"description": "Carlos is a Commandant within the Inquisition. As such, he oversees different operations, traveling to various locations to fulfill his duties.\nHe is over Harbour Town, and the second-in-command of the Inquisition. He appoints the player Inquisitor in chapter 4, if the player chose the Warrior of Order path.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Cormac",
-		"description": "Cormac is a trader and trainer to be found at the Don's camp\nHe trains Alchemy and also increases your Mana.\nAlso sells several potions and recipes.",
-		"location": "Bandit Camp",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Craig",
-		"description": "Craig is the 'bookie' of the Bandit Camp.\nYou can place bets and then go fight people in The Arena.\nHe also will train your Strength and Sword skills.",
-		"location": "During the day he stands by the fire pit just south of the blacksmith in the Bandit Camp.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Cutter",
-		"description": "",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Cyrus",
-		"description": "Cyrus is a Master of the Order.\nHe is a goldsmith/trader and will sell runes and scrolls. During the Cyrus is late quest he will help you find Eldric in the ruin. He will give three scrolls of Destroy Magic Force Field.",
-		"location": "He can originally be found at the monastery in the goldsmith building south-east of the Hall of the Holy Flame (I).\nHe should be in the hall of Holy Flame during the Initiation.\nHowever, when you start the Cyrus is late quest he can be found at Eldric the Druid's hut (II).\nAfter the quest he will stay in the ruins before going back to the goldsmith building at the monastery.\nThen he will stay in his building after opening the gate (III).\nBut after Ignatius told you to call the Mages to the Holy Flame, he will go back to the Hall of Holy Flame.\nThen he will stay there and join the rite of becoming a Master of Magic (IV).\nHe will stay there for the rest of the game.",
-		"relatedQuests": [
-			"Cyrus is late",
-			"The test of Master Cyrus",
-			"The test of the Masters (1/6)",
-			"Severin's Artifacts"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Dalman",
-		"description": "Dalman is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found at the Monastery, near the pigs east of the training ground. After the completion of his quest he can be found in the kitchen with Harlok.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"Training\nPickpocket level 1\nDexterity\nSneak"
-		]
-	},
-	{
-		"name": "Dirk",
-		"description": "Dirk can be found in Josh's Tavern.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Domingo",
-		"description": "Domingo is the right hand man to the Don.",
-		"location": "Bandit Camp",
-		"relatedQuests": [
-			"The best fighter in the bandit camp"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Don Esteban",
-		"description": "Don Esteban is the leader of the Bandit Camp.\nHis wife is Rachel.\nHe has one of the five Crystal Disc required to open the gate at the Volcano Keep.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"If you are with the order he will give you the disc right away, but if you are with the bandits you first have to complete a quest for him to get it. If you joined the bandits you have to get permission to speak to him by gathering the five pieces of a sword. Then you have to speak to Oscar the smith, who will forge the sword for the Don. Then you have to give it to him, and pay 200 gold to get it back, or steal it back.",
-				"You don't actually have to give him the golden sword, but doing so gives you 150 exp and the sword can't be sold anyway."
-		]
-	},
-	{
-		"name": "Dorgan",
-		"description": "Dorgan was one of the fighters in the swamp camp run by Don Esteban. He was given an assignment by Brogar, but he hasn't been heard from in some time.\nThe Castaway is asked to find Dorgan and let him know that Brogar wants to speak with him. After inquiring from Luis, the Hero is led to an old mine (called a 'cave' by characters in the game) at the southeast end of the swamp. Here Dorgan's corpse is found, with many grave moths fluttering around in the same cavern. On his body can be found a piece of the sword from the Golden Fragments quest.\nAlthough already dead at the start of the game, Dorgan is part of a much bigger plot. Brogar has been fleecing workers and hunters in the Don's camp, and Dorgan was the collector of these funds. This is one piece of evidence eventually used to prove to the Don that Brogar is trying to take over the camp.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-			"He is dead at the start of the game. There is no way to save him or to have any kind of dialog with him."	
-		]
-	},
-	{
-		"name": "Doug",
-		"description": "Doug is a trader who is located at the entrance to the Bandit Camp. He will sell unlimited supply of arrows and other hunting supplies. When you talk to him for the first time he will give you a map of the Bandit camp and warn you about the dangers of the swamp.\nHe will not bear a grudge if you attack and defeat him. He is worth 80 experience and will drop a Tell joke scroll, short bow, some arrows and some gold.",
-		"location": "At the entrance to the Bandit Camp, on the bridge next to the campfire at the south side of the swamp.",
-		"relatedQuests": [
-			"Go hunting with Doug",
-			"Dangerous prey"
-		],
-		"tips": [
-				"Trader's Stock at Chapter 1\nPoacher's bow\nShort bow\nUnlimited Arrows\nRing of skill\nJaw chisel\nWing shears\n5 Teeth"
-		]
-	},
-	{
-		"name": "Doyle",
-		"description": "Doyle is simply lazy and sleeps in Costa's hotel room 24/7 in Harbour Town.\nDoyle is behind the burglaries in Harbour Town.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			"Burglar"
-		],
-		"tips": [
-			"When you get details to find the Burglar in Harbour town after you instigate others you end up with Doyle being the burglar. When you get to Doyle he will offer to leave town as long as you help him:\nYou can either help him.\nYou can turn him in to the Monastery.\nYou can kill him.\nYou can turn him in to the Don (Cid).\n",
-			"If you decide to turn him in, he will attack you before you get a chance to leave the hotel room, when you successfully knock him out / kill him you will have completed the quest and all you need to do now is report to the Warriors of the Order or Cid depending on what faction you chose to go along with.",
-			"If you decide to spare Doyle, he leaves Harbor Town.",
-			"He ends up living above the waterfall next to Rhobard's Brugleweed farm. The only way to get to him seems to be using Levataion from a ledge with a broken bridge to the left of the waterfall. To get there, walk up the ramp behind the guard(s) guarding the farm. When you get to the top, you may have to fight some Stingrats. Fight or avoid the Ogre. If you look right you'll see a temple entrance. You want to go left. Then climb up the low ledge on the left a bit down the road. Then climb the low ledge just to the left after the first one. Then just follow the path to the left. There will be some wolves up here. The ledge with the broken bridge will be near a broken barrel.\nThere is a chest inside the tent he lives in. There is a Levataion Rune and scroll, among other items inside the chest.\nThere is also quite a few plants in the area as well. Most notably, a Hero's Crown and an Ogreroot."
-		]
-	},
-	{
-		"name": "Drok",
-		"description": "Drok is an Ogre who is imprisoned by the Lizardmen.",
-		"location": "In a cell on the top floor of the Lizardmen's prison.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Duram",
-		"description": "Duram is a character in Harbour Town who works at the docks. He also has two armour plates needed for the quest Lukor wants the five armour plates.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Dwight",
-		"description": "Dwight is a worker in the Bandit's camp. He is shirking his work because Hawkins is too old and weak to control him and the don doesn't care.",
-		"location": "In the Bandit Camp in the swamp, a little to the east of the camp entrance, behind the hut near the fire. after Dwight is to get back to work you can find him moving crates to Beppo.",
-		"relatedQuests": [
-			"The workers are to work again",
-			"Dwight is to get back to work",
-			"Artifact delivery"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Dytar",
-		"description": "Dytar is one of the three treasure hunter brothers, possessing one of the three golden bowl artefacts.",
-		"location": "He can usually be found in Patty's Tavern, until you help him and his brothers escape Harbour Town.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Edgar",
-		"description": "Edgar can be found in Harbour Town.\nHe will be using a whetstone or sitting on the bench. Edgar is the head of the town guards. Speak to him and you can get some training.\nYou could defeat him and gain 160 XP, but do not be seen by the Warriors.\nYou can loot him and get a Crossbow (Piercing damage 50).",
-		"location": "Harbour Town, up a small path to the west of the harbour front.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"He offers the following Training, for a price:\nStrength (100 Gold)\nSword (7 Gold)\nCrossbow (7 Gold)"
-		]
-	},
-	{
-		"name": "Eldric",
-		"description": "Eldric is a hermit and druid. He helps you to heal the broken crystal needed to open the sealed volcano door.",
-		"location": "Eldric lives on his own on the east coast.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Elias",
-		"description": "",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Enrico",
-		"description": "Enrico is a worker for the Don in the Bandit Camp. He claims he can hear the whispering and cries of the 'ancients' at the excavation site.",
-		"location": "Enrico is located on the far south of the swamp, East of the road that leads to it. Afterwards he will be at the excavation site to the south of the swamp.",
-		"relatedQuests": [
-			"Protection against the ghosts of the anecestors",
-			"The workers are to work again"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Enzo",
-		"description": "Enzo is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found at the monastery cleaning outside the Hall of the Holy Flame.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Fincher",
-		"description": "Fincher is one of Don Estebans' most trusted men, and he is in charge of an excavation in the eastern temple, where he have left one of his men in charge. Fincher can provide you with a better armor if you are with the Don.\nFincher is also able to train you in combat.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Flavio",
-		"description": "Flavio is a merchant in Harbour Town and he sells hunting trophies and the tools to remove trophies from the carcasses.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Gwen",
-		"description": "",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Harbour City alchemist",
-		"description": "The alchemist is found within the merchant district within Harbour Town.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"Lockpicking codes\nGround floor chest: RLRLLR\nFirst floor chest: RLRL"
-		]
-	},
-	{
-		"name": "Harbour City blacksmith",
-		"description": "Home to Alvaro and Walter.",
-		"location": "Found within the merchant district within Harbour Town.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-			"Lockpicking codes\nChest on ground floor: LLLRRR\nBlacksmith door to basement: RLLR"	
-		]
-	},
-	{
-		"name": "Harlok",
-		"description": "Harlok is the Monastery's cook.",
-		"location": "Volcano Keep: He can be found in the Monastery's kitchen west of the training ground.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Hawkins",
-		"description": "Hawkins is the leader of the workers in the Bandit Camp.\nHe will sell you workers clothes for 500 gold.",
-		"location": "Bandit Camp",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Hemlar",
-		"description": "When you first arrive at the monastery you are tasked to find out who murdered the recruit Hemlar.\nAs you find out more you discover that Hemlar was dealing brugleweed. While he was making a clean profit he refused to share his profits with Master Aric; as a result Aric killed Hemlar.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Henrik",
-		"description": "Henrik is a Recruit of the Order.\nA hunter and trainer. He can train you in dexterity and bow.",
-		"location": "He lives on the east coast near Eldric the Druid.",
-		"relatedQuests": [
-			"The legend of the Gyrger"
-		],
-		"tips": [
-				"Training\nDexterity\nBow"
-		]
-	},
-	{
-		"name": "Hirutu",
-		"description": "Hirutu is the Chaka (chieftain) of the Kila and responsible for most nonmagical affairs of the people. Technically he is over the kiki as well, but it appears he generally allows them to manage their own affairs.\nWhen the Son of Steelbeard arrives on Kila, he soon learns of a conflict between the shipwrecked pirates and the Kila. There are many aspects to this conflict, and Hirutu appears not to be responsible for all of them. For example, Asali refuses the pirates access to water from the waterfall, but after appeasing her they are allowed to draw water. Were this an order from Hirutu himself, it is unlikely appeasing Asali would change permission.\nAlthough Hirutu may not have contributed to some aspects of the tension between his people and the pirates, he was a major contributor. He was, for instance, preparing to go to war based on visions of the village seer, Kiki Tenya. He also holds the pirate Slim prisoner, sentenced to death as a sacrifice for their Hike (ancestors). During the quest 'On the Warpath,' he refuses to listen to the Son of Steelbeard. He changes his mind only after a possessed Makoto presents several prominent villagers' opinions against such action.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Ignatius",
-		"description": "Ignatius is a Master of the Order. He gives you permission to leave the Monastery. He is the head of the Order and at all parts of the game, immortal. He gives many quests such as: Securing the Keep, 1st-4th runic seal, Test of Master Ignatius, and Gate to the Keep.",
-		"location": "Volcano Keep: He stands just in front of the Hall of the Holy Flame, or he sits on the bench right next to the commandant.",
-		"relatedQuests": [
-			"Starts these quests: Test of Master Ignatius, Crystal of Fire, 1st Runic seal, 2nd Runic seal, 3rd Runic seal, 4th Runic seal, Securing the Keep, Bring the mages to the hall.",
-			"Is part of these quests: Gate to the Keep, Tests of the Masters, Ask will the mages support the Inquisitor."
-		],
-		"tips": [
-			"Training\nSeal training, after starting chapter 3.\nFireball up to Lvl 10, after the Initiation.\nFrost Lance up to Lvl 10, after bringing dead Pallas' notes to him."	
-		]
-	},
-	{
-		"name": "Illumar",
-		"description": "Illumar is a Master of the Order and trains in creating scrolls.\nAfter you get the necessary items needed to make scrolls he will train you at the cost of five learning points and will even given you a light rune for free. He is also a trader and will trade runes and scrolls.",
-		"location": "Volcano Keep: You can find him in the scroll-making building south-west of the Hall of the Holy Flame.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"Training\nCreate scrolls (5 LP)",
-				"Merchandise\nRunes 1-4 depending on the chapter (1 for 1, 4 for 4), 10 blank scrolls, scrolls and occassionally ingredients."
-		]
-	},
-	{
-		"name": "Inquisitor Mendoza",
-		"description": "Inquisitor Mendoza is the leader of the Inquisition, traveling from place to place while warring with the titans that have recently been released. He leads the Order of the Holy Flame on the island of Faranga, where the first Risen game takes place. As the leader of the faction, he wears Inquisitor Armour, but he also has a magical item called the Ocular, which allows him to see (and therefore combat) titans. He is armed with a Double-Bladed Staff, which he uses to devastating effect: even if the Castaway wears full titan armor, a single well-landed blow by Mendoza can do in excess of 260 damage. The Inquisitor plays the biggest part in the game, no matter which faction you choose.\nAt the start of the game, a cutscene shows Mendoza aboard the same ship as the Castaway and Sara when it is attacked by a large water titan. The Inquisitor attempts to use magic against the enemy, but he is outmatched. Seeing he is unable to prevail, he teleports away, leaving the others on the ship to their fates.\nThe Nameless Hero doesn't again meet Inquisitor Mendoza until some time later, where the zealot outlines a plan he has for confronting the forces pouring out of the bowels of the island, as well as discovering what power lies within. His hope is that the power can be wielded to defeat the titans.\nIt is clear that the Inquisitor is in power over the members of both the Inquisition and the Order of the Holy Flame. Many of the Order and Inquisition follow him blindly, such as Ash, Kato, and Ethan; even when Mendoza chooses a dark path, they continue to follow him, betraying alliances without question. Others, such as Commandant Carlos and Master Ignatius, realize that what the Inquisitor proposes is questionable, and they refuse to support the decision.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Ismael",
-		"description": "Ismael is supposedly a Titan Lord. He was never revealed during any Risen games. He was only mentioned in Risen 2, when Nameless Hero consulted destruction of Northern Continent with Sebastiano.]",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Jack",
-		"description": "Jack is a trader in Harbour Town.",
-		"location": "Harbour Town, next to lighthouse.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Jan",
-		"description": "Jan is a hunter in the bandit's camp. He was sent to the house outside the camp to be a lookout for the Order's movements. You will find him just after the tutorial part of the game inside the second house you find. He will threaten you with a weapon to find out who you are and what are you doing there. Talk to him and he will tell you that you need a decent weapon. Jan urges the you to head to the swamp and look for jobs there. He can show you the way to the Bandit's camp or the way to Harbour town.\nHe will not bear a grudge if attack and defeat him. He is worth 80 experience, small healing potion, lockpick and some gold.",
-		"location": "Jan is in a house outside the swamp, on the road to the Harbor town.",
-		"relatedQuests": [
-			"Alone and Abandoned",
-			"Get Yourself A Decent Weapon",
-			"Follow Jan to the novices' farm in the east",
-			"Follow Jan to the west",
-			"Follow Jan farther to the west"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Jasmin",
-		"description": "Jasmin is a hunter and trader.",
-		"location": "She lives on the east coast with Henrik.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"She sells bows, arrows, bolts and animal trophies."
-		]
-	},
-	{
-		"name": "Kalib",
-		"description": "Kalib is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found in the entrance to the Monastery reading from a bookstand.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Karlsen",
-		"description": "Karlsen is the Monastery's blacksmith and weapon trader.\nHe sells sword blanks and staff based weapons.",
-		"location": "Volcano Keep: He can be found at the blacksmith's house north of the training ground.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"Training\nPicklock 1 and 2\nSmithing 1,2 and 3"
-		]
-	},
-	{
-		"name": "Kato",
-		"description": "Kato is a Recruit of the Order.He is rather mean and a favourite of Branco. He is the third trainer in the Staff Training Quest.",
-		"location": "Volcano Keep: He can be found on the training ground of the Monastery.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Kayleigh",
-		"description": "Kayleigh is Cid's girlfriend.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Kila (Tribe)",
-		"description": "The Kila are a tribe of Moluccas (natives) who live on an island of the same name in the Southern Seas. It appears they, like the Shaganumbi, had established themselves long before the Inquisition fled from the Old Empire to escape the titans. It is unknown whether they and the Shaganumbi were originally of the same people and just split into two different tribes. The Kila practice Voodoo, one of three types of magic available in Risen 3: Titan Lords.\nSeveral leaders among the Kila run different aspects of their society. Their chieftain, Hirutu, manages most of the tribe's affairs, especially as concerns relations with outsiders. When the Son of Steelbeard first arrives on Kila, a conflict between the shipwrecked pirates and the tribe has escalated to the point that Hirutu is preparing for a war against the pirates.\nAfter being ostracized by her former Shaganumbi tribe, the voodoo witch Chani made her way to Kila, where she became the primary communicator with the oracle. She is the leader of voodoo magic among the tribe and even sometimes gains command over some warriors when needed. For example, when Morgoloth started preparing for war against the Kila, Chani commanded a small group of warriors led by Tonka Damaka to stop the Soldiers of the Oracle before they could lay eggs.\nKiki Tenya also practices voodoo and has visions by which the tribe guides future actions. For example, she foresees a war between her people and the pirates and believes it will lead to great devastation among her people. She seeks the help of the Son of Steelbeard in dissuading Hirutu from going to battle against them.\nThe guardian of the Sacred Valley, preventing those unworthy from entering it, is Baraka. He is a great warrior (perhaps the greatest of the tribe) who can tell when someone lies. He will only allow the Son of Steelbeard through the gate once he has proven himself wise by obtaining Ancient Knowledge (i.e., reached Chapter 3 of the game).",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Konrad",
-		"description": "Konrad is a merchant in Harbour Town.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			"Collect From Konrad"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Krayban",
-		"description": "Krayban is a Recruit of the Order.",
-		"location": "He can be found outside Tilda's farm near the fire in the field.He has been killed by two Gnomes standing next to his body",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Leon",
-		"description": "Leon is one of Tilda's sons.",
-		"location": "Leon is located within the woods north of Harbour Town's eastern exit. There should be a small pond in front of a house, he should be located somewhere around/in this house.",
-		"relatedQuests": [
-			"The Sons of Tilda",
-			"The cursed lords"
-		],
-		"tips": [
-				"His internal id for console commands such as goto and spawn is Marvin, not Leon."
-		]
-	},
-	{
-		"name": "Leonardo",
-		"description": "Leonardo is a trader and trainer in Harbour Town.",
-		"location": "Harbour Town, along the west path from the harbour in Harbour Town.",
-		"relatedQuests": [
-			"Anything that heals"
-		],
-		"tips": [
-				"Training\nAlchemy 1,2"
-		]
-	},
-	{
-		"name": "Lilly",
-		"description": "Lilly is a prostitute in Harbour Town that will have sex with you for money.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Lorenzo",
-		"description": "Lorenzo is one of the Don's fighters, and he is not very fond of newcomers. He swears a lot and calls the hero pretty on several occasions. Lorenzo dislikes newcomers to the camp because that means his share of the Don's gold is smaller. He will try to trick you, extort money from you and make you leave the camp.",
-		"location": "In the middle of the camp, next to the campfire.",
-		"relatedQuests": [
-			"Defeat Lorenzo in the arena",
-			"To the temple ruins with Lorenzo"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Luis",
-		"description": "Luis is a hunter in the Bandit's camp. He is a drunkard and by giving him beer you can gain valuable information and he can teach you about hunting.",
-		"location": "He is located on a small moon-shaped island in the middle of the swamp.",
-		"relatedQuests": [
-			"Scurrying's rats",
-			"The hunters are to hunt again",
-			"Protection money in the bandit camp",
-			"Golden fragments"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Lukor",
-		"description": "Lukor is an agent of Don Estaban found in Harbor Town. On the quest for armor plates you will have a choice either to give it to the order or to Lukor for the Don.\nThat particular quest is part of the 4 quests to decide whom your siding with.",
-		"location": "Lukor can be found near the warehouse's in harbor town by the lighthouse.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Nameless Hero",
-		"description": "The Nameless Hero is the protagonist of both Risen and Risen 2: Dark Waters. He also appears as a non-playable character in Risen 3: Titan Lords, located on Calador.\nInquisitor Mendoza attempted to fight a huge titan at sea, but found that his magic was unable to stop it. Seeing his efforts were for naught, he teleported off the ship. The titan unleashed huge waves, destroying the boat. The Nameless Hero and Sara ended up stranded on the island of Faranga, the only survivors of the attack.\nThe Nameless Hero — referred to as 'the Castaway' because of recent events — attempted to find others to help him and Sara recover from their ordeal. After reaching Harbour Town, he met Patty, the daughter of the infamous pirate Captain Steelbeard.\nHe decided to join one of three factions (Bandit / Mage / Inquisition) on Faranga in order to better understand the current events. Apparently recently temples had risen from the ground, releasing various creatures, such as ghouls and skeletons.\nWhen it looks like all is lost, Lord Ursegor revealed that his armor and weapons are the only way to conquer the Titans. The Nameless Hero searched for the pieces of the Titan Lord armor and weapon.\nAfter rebuilding the Titan armor and obtaining the weapon, the nameless hero is ready to take on the Fire Titan. He defeats Inquisitor Mendoza and uses his monocle to do battle with the Fire Titan.\nWinning the battle against the Fire Titan, the Nameless Hero knew the battle had just begun, and set off in the Titan Lord armor, Titan weapon in hand, to fight the other Titans. But of course, Patty is interested in finding her father, Captain Gregorius Steelbeard, and obtaining the treasure he has hidden away.\n",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Nelson",
-		"description": "Nelson is a skilled cartographer living in Harbour Town.\nHe will offer to make a detailed map of the island for you, but you will need to be patient — a craftsman of his calibre can not be rushed!\nHis (possibly common-law) wife is not named, but simply referred to as 'Townswoman'.",
-		"location": "Harbour Town, in the centre of The Gutters, across the street from Cid. He can be found working in the first floor store front, or upstairs in his apartment.",
-		"relatedQuests": [
-			"Nelson's ring",
-			"The map of the island"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Nico",
-		"description": "Nico is a trader in Harbour Town.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-			"Merchandise\nItem Gold\nRaw shark 50\nRaw plaice 20\nHerring 10"	
-		]
-	},
-	{
-		"name": "Obel",
-		"description": "Obel is found around a house in a swamp north-east of Don's main camp.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Olf",
-		"description": "Olf can teach you to prospect ore!",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			"Find the golden bowls"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Oscar",
-		"description": "Oscar is the blacksmith of the Bandit Camp.\nAfter you bring him all of the pieces of the Golden sword and have him forge it, he will train you in Smithing.\nIn case you don't want to return the Gold Sword to Oscar after he gives it to you to look at it, he will pay Domingo to fight you/teach you a lesson. After taking/buying the golden sword from Oscar, you can go and see Esteban.",
-		"location": "Bandit Camp",
-		"relatedQuests": [
-			"Protection money in the bandit camp",
-			"Golden fragments for Oscar"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Pallas",
-		"description": "Pallas is a Mage with the rank of a Master. He acts as the administrator of Volcano Keep.",
-		"location": "Volcano Keep: He can be found in the entrance area of the Monastery (directly in front of the you as you walk in) reading from a bookstand.",
-		"relatedQuests": [
-			"Assist the Warriors of the Order in Harbor Town, Frost Crystal."
-		],
-		"tips": [
-			"Training\nFrost Crystal up to Lvl 10 (Before dying at the start of Chapter 3."	
-		]
-	},
-	{
-		"name": "Patty Steelbeard",
-		"description": "Patty Steelbeard is an important character throughout the Risen series. As the daughter of the notorious pirate Captain Steelbeard, she is no stranger to rough crowds. To survive, she has developed a gruff exterior and a sharp tongue. She does have a loving and charming side, but only her true friends ever discover this.\nA young Patty is the head of a tavern in Harbor Town. She is on Faranga searching for her father. Supposedly, he had buried a treasure on a secret island, and Patty has come to the island in search of it. When the Nameless Hero meets her, she is trapped in Harbor Town by the Inquisition who force citizens to remain 'for their own safety.'\nAs time passes, she and the Nameless Hero begin to trust each other, so much so that she involves him in her quest. It is discovered that Steelbeard had a secret house in town, which is now empty. The Nameless Hero leads her out of town through a secret passage, and she prepares to search the island for some of her father's treasures. Realizing the potential of such a treasure in helping his own cause, the Nameless Hero helps her in the hope of furthering his own quest.\nAlthough they escaped beyond the Inquisition's gaze, their search is noticed by another pirate, Romanov. He kidnaps Patty in hopes of exchanging her for some promising treasure the Nameless Hero might discover. After freeing her, the Hero explains he's found some clues suggesting that Steelbeard is no longer on the island. It would seem he set sail some time before into the seas to the east. Because of the lockdown by the Inquisition, Patty is forced to return to Harbor Town for the time being, waiting for the right opportunity to depart.\nIn return for her aid, Patty helps the Nameless Hero obtain part of the Titan Set. Once the immediate threat is passed, the two of them discuss the possibility of using the armor and monocle to fight the remaining titans. Patty, however, will not do anything else before finding her father and the supposed treasure he's hidden.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Philus",
-		"description": "",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Rachel",
-		"description": "Rachel is Don Esteban's wife. She is the one who helps you get to Don Esteban.",
-		"location": "Bandit Camp",
-		"relatedQuests": [
-			"Meat for the gang"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Rhobart",
-		"description": "Rhobart is found around a house in a swamp north-east of Don's main camp.\nGiving him 10 Weeds found in the surrounding swamp will reward you with 70 Gold and 50 XP.\nKnock him down and repeat it if you want more.\nMake sure to save if he glitches and dies from fall damage he is dead and you won’t be able to repeat this process.",
-		"location": "North-east of Bandit Camp.",
-		"relatedQuests": [
-			"Beer for the gang",
-			"Rhobart needs weed",
-			"Protection money in the bandit camp",
-			"Rhobart's bog bodies"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Ricardo",
-		"description": "Ricardo is one of the Don's men, a guard at the Bandit Camp entrance.\nWhen you talk to him he gives you a quest to kill some 'Disgusting Beasts'. At first he is quite sarcastic yielding no information at all and your dialogue options talk back in a sarcastic manner as well. He will talk to you normally, even if your are not with the Don.\nHe carries with him a crossbow and a sword.",
-		"location": "Entrance of Bandit Camp.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Romanov",
-		"description": "Captain Romanov is a notorious ex-pirate, now held in a private cell in Harbour Town. He hates Captain Steelbeard as well as his daughter Patty.",
-		"location": "Romanov is being held in a prison at the very end of the port in Harbour Town. Head past the warehouse down a long narrow strip of land.",
-		"relatedQuests": [
-			"Romanov's seaman's chest\nWhen you talk to Romanov he will give you a quest where he wants you to break into the warehouse and find a chest and there will be a casket in it. You can bring it back to him or hand it over to the Order for a reward."
-		],
-		"tips": [
-				"To speak with Romanov:\nYou must either beat the guard in a fight and take the key off of him while he is incapacitated,\nDistract him with some entertainment which can be found back near the warehouse,\nOr pickpocket the key from the guard."
-		]
-	},
-	{
-		"name": "Rufo",
-		"description": "Rufo is a friendly wolf that helps you find Eldric the Druid.",
-		"location": "Can be found outside a hut with Henrik and Jasmin on the east coast.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Rufus",
-		"description": "Rufus was a minor character in Risen. Training as a Warrior of the Order, he had been at Volcano Keep for some time.\nThe Castaway first meets Rufus in one of two places. If siding with the Inquisition / Crystal Mages, he will encounter him as early as Chapter 1, in the northwestern part of the Monastery, where he is seeking a book called Wisdom in Combat. The hero can help him acquire this book, after which Rufus will willingly teach Light Healing in gratitude.\nShould the hero choose instead to follow the Don and His Followers, the hero will meet Rufus later, no earlier than Chapter 2. By the end of the chapter, Rufus has joined a contingent of Warriors of the Order who, along with Inquisitor Mendoza, plan to storm the volcano temple. If asked, he will confess that he is 'a little scared [and] nervous, but ready'. He explains that, in spite of his fear, he is willing to continue if it will help to save the rest of Faranga.[1]\nUpon opening the outer door to the temple, a swarm of several Lizardmen immediately attack. Rufus will survive this encounter (he has immunity to damage) and continue with the remaining Inquisition forces into the volcano. Rufus will also automatically live through the next encounter, after which Mendoza says a large, sealed door must be opened.\nThe hero is sent to the north, where he must pass through trap doors, pull levers, and defeat enemies as strong as lizardman warriors and ghouls. He eventually discovers a winch and rotates it to open the door. Returning to the Inquisitor, he finds the door is, surprisingly, still sealed. After speaking with Mendoza again, he is told Rufus was sent south to look for a mechanism as well. The Castaway is sent after him, to see what kind of trouble he may have encountered.\nRufus\nAfter reaching a pillared room, the Nameless Hero finds a pair of Saurian warriors, guarding the area. Upon defeating them, he notices Rufus' body, apparently ambushed and overwhelmed. It is likely that, even if he hadn't been surprised by a sudden attack, he would probably have tried to fight the pair in case they carried a key needed to proceed. Indeed, one of the lizardmen carried a golden bust on its corpse, one of two required further on to reach the second winch that opened the sealed door.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Sam",
-		"description": "Sam is the leader of the hunters in the Bandit Camp.\nHe can train you in Dexterity, Bow, Sneak, and Gut animals skills.",
-		"location": "Bandit Camp",
-		"relatedQuests": [
-			"The Hunters are to Hunt Again"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Santiago",
-		"description": "Santiago is a Warrior of the Order.",
-		"location": "Volcano Keep: He can be found guarding the gate to the Monastery.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Sara",
-		"description": "Sara is the only survivor of the shipwreck besides you.\nIn the introductory video, the player (the Nameless Hero) and Sara are stowaways on the Inquisition's boat during a storm, during the event scene the boat is destroyed by paoki trelo massive tidal wave and the Nameless Hero and Sara are washed away to the shore of Faranga Island.\nAt the beginning of the game, both Sara and you wake up on the on the beach, just a few steps apart. When you talk to her, Sara asks you to find a way out of the place. She also mentions that she saw 'something' moving in the bushes — so you better equip yourself with some sort of a weapon. Once you have done that Sara will ask you to lead the way through the trail leading into the island. She will also ask you to find something to eat to help get back to strength. You will find a couple of hungry Sea Vultures around the beach. Kill them and take their meat.\nDown the trail you will come across an abandoned house with a fire at the front. Roast the vulture meat in the fire using a Frying Pan and share some with Sara. She will decide to take a break there and ask you to go ahead.\nFurther up on the trail, you will meet Jan. If you tell him about Sara, he will rescue her, and send her to the bandit camp. Alternatively, you can avoid telling Jan about Sara and instead inform Brother Tristan at the nearby farm. Inform either completes the 'Rescue Sara from the wilderness' quest and earn you the Philanthropist achievement.",
-		"location": "Washed onto the beach, relaxing in front of a hut (near beach).\nIf you told Jan to help her out, Sara will end up staying with Rhobart and Obel in the little hut just above the main bandit camp.",
-		"relatedQuests": [
-			"Take Sara to Safety",
-			"Find survivors of the shipwreck",
-			"Rescue Sara from the wilderness",
-			"Alone and Abandoned",
-			"Find the key in the abandoned house",
-			"Loot the chest in the abandoned house"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Scordo",
-		"description": "Scordo is the Leader of the Don's Men situated within Harbour Town.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"It is possible to pickpocket Scordo with a high enough Pickpocketing level (i.e. Level 3).",
-				"Scordo has the Harbour Town teleport stone when you visit him in Act 2.",
-				"Scordo becomes irritated when the player starts having NPCs use the secret exit tunnel."
-		]
-	},
-	{
-		"name": "Severin",
-		"description": "Severin is a Warrior of the Order who makes his first appearance in Risen.",
-		"location": "In Risen, he can be found at Tilda's farm at the foot of the path to the Monastery. Traveling with the main Inquisition force as it continues its migration south toward Arborea, he gets assigned as a trainer at the Crystal Fortress by the time of Risen 2 and eventually finds his way to Tacarigua, where he was stationed just before Risen 3.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Sirius",
-		"description": "Sirius is a Recruit of the Order.",
-		"location": "He can be found outside Tilda's farm near the fire in the field.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Son of Steelbeard",
-		"description": "The Son of Steelbeard is the hero of Risen 3: Titan Lords. Like the hero of the previous games, his name is never revealed. He is, obviously, a child of the late Captain Gregorius Emanuel Steelbeard and younger half-brother to Patty.\nCaptain Steelbeard was frequently drunk and absent, forcing Patty and the Son of Steelbeard to 'muddle through all alone because he was never there.'[1]",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Sonya",
-		"description": "Sonya runs the local brothel in Harbour Town.\nYou can buy information from her along with other 'services' as they refer to it. She complains about the fact the Order does not come to the aid of her or the other patrons of her brothel when some of the men get extremely disgusting. The book she is standing at gives 10 exp when read, but can only be read if she is knocked unconscious or killed.",
-		"location": "Harbour Town, brothel",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Stan",
-		"description": "Stan is a Recruit of the Order.",
-		"location": "He can be found guarding the lower part of the Monastery path south of Tilda's farm.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Taylor",
-		"description": "Taylor is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found in the entrance area of the Monastery.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Tilda",
-		"description": "She is the mother of William, Leon and Beppo, and gives you the quest The sons of Tilda to go and find her sons and see how they are doing. She has a husband, Ingvar, who apparently understands why his sons have gone away.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			"The sons of Tilda\nShe does not reward you directly for the quest, but says she has a stash in the farm, where Severin, from the Inquisition, is."
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Toni",
-		"description": "Toni is a member of Don Esteban's gang and is stationed in Harbour Town.\nToni was ordered by the Don himself to retrieve a family heirloom from the Don's house, which is now under the watchful eye of the Warriors of the Order.",
-		"location": "Harbour Town",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Tristan",
-		"description": "Brother Tristan is a mage novice in charge of the farm to the north of Harbour Town. He advises you to be taken to the monastery for training in magic and fighting staff. You can talk to him about showing you the way to Harbour Town but he will ask for your help at the farm in return. You can trade with him, and he's also one of the two people you can ask to shelter Sara before Chapter 2.",
-		"location": "Farm on the road between the swamp and Harbour Town.",
-		"relatedQuests": [
-			"Rescue Sara from the wilderness",
-			"Help the novices' farm"
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Tucker",
-		"description": "Tucker is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found west of the Monastery training grounds.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Ukkos",
-		"description": "Ukkos is a friendly ogre found at the east end of the Harbour District of Harbour Town. He guards the warehouses down by the docks. He is extremely friendly (at least, for an ogre), willing to train the Castaway in spite of knowing nothing about him.",
-		"location": "",
-		"relatedQuests": [
-			"Meat for Ukkos"
-		],
-		"tips": [
-				"He is able to perform Strength training and Axe training, at the standard cost. (See Risen Character Training for more specific details.)"
-		]
-	},
-	{
-		"name": "Ursegor",
-		"description": "Ursegor is a Titan Lord and the King of Saurians. In his own words, he is 'master of the land and the elements.' The player first encounters him in Chapter 3 of Risen as an immortal spirit.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				"History\nAlliance With the Gods\nNot many details are known about his alliance with the gods to bring down the Titans. He explained to the Castaway that it was done for his own freedom.\nRisen\nUrsegor is found by a small group from the Inquisition led by Inquisitor Mendoza with the Castaway. He explains that during his time imprisoning the Titans he was also imprisoned along with the Fire Titan inside the Volcano on the Island. He asks the player to free him from his burden by defeating three servants which keep him locked up on the Golden Throne."
-		]
-	},
-	{
-		"name": "Vasili",
-		"description": "Vasili is a character you will meet in Harbour Town.",
-		"location": "He hangs out in or around Patty's bar 24/7, in Harbour Town.\nYou also see Vasili while following Eronga.",
-		"relatedQuests": [
-			"He is one of the people you must confront about the artefact plate armour you must collect for Luko to complete a mission for the bandits OR you can give it to Carasco guarding the warehouse near the port and jail where Captain Romanov is being held."
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Vince",
-		"description": "Vince is a Warrior of the Order.",
-		"location": "Volcano Keep: He stands guard at the top of the stairs near the Hall of the Holy Flame.",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Vitus",
-		"description": "Vitus is a Mage with rank of Master.",
-		"location": "Volcano Keep: He can be found standing at the north-east end of the Monastery training ground.",
-		"relatedQuests": [
-			"Test of Master Vitus, Find Hemlar's Murderer, Wisdom in Combat Found!, Dalman Trusts you, Securing the Keep, Locate the Masters."
-		],
-		"tips": [
-				"Training\nMagic Bullets up to Lvl 10\nStaff Fighting up to Lvl 7\nMana indefinetely."
-		]
-	},
-	{
-		"name": "Walter",
-		"description": "Walter is the Blacksmith for Harbour Town, and can teach you the Smithing skill up to level 3. He can also train your strength by +1, or by +5. All his training costs skill points and gold.",
-		"location": "",
-		"relatedQuests": [
-			
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "William",
-		"description": "William is one of Tilda's sons and is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found in the Monastery training ground.",
-		"relatedQuests": [
-			"Sons of Tilda\nHe is one of the NPC's you need to talk to so that you can complete the Sons of Tilda quest."
-		],
-		"tips": [
-				
-		]
-	},
-	{
-		"name": "Yoki",
-		"description": "Yoki is a Recruit of the Order.",
-		"location": "Volcano Keep: He can be found guarding the Monastery's cemetery.",
-		"relatedQuests": [
-			"He will stop you and attack you if you try to enter the cemetary. There are three ways to get past him:\nBribe him with two wraps of Brugleweed (Don faction only).\nGive him your Harlok's Stew (Order faction only). You may wish to pickpocket it back afterwards.\nGive him a wrap of Brugleweed after you have taken over Hemlar's business (Order faction only)."
-		],
-		"tips": [
-				
-		]
-	}
-	]
+    "characters": [
+        {
+            "name": "Abrax",
+            "description": "Abrax is a Half-Crazy alchemist that hides in a secret lab under the monastery, he is one of the masters of the monastery and he gives you a quest of find his other novices.\nHe wants you to find two novices at Tilda's farm, where Severin is in command, and bring back som plants.\nAbrax also sells you some of his potions if needed.\nYou can learn alchemy from Abrax, and he doesn't seem to notice if you plunder his Lab.\nIn order to get to Master Abrax you need to go down to the secret library and find the way in through a small crack in a wall, you will need to use the nautilus spell to get in there. but you can easily get out again, just pull the lever and a door will open to the lower sleeping quarters.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Alvaro",
+            "description": "Alvaro is a trader in Harbour Town.",
+            "location": "Harbour Town, next door to Leonardo.",
+            "relatedQuests": [
+                "Collect from Alvaro"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Baxter",
+            "description": "He is a minor character in the quests Skins for meat and Find the burglar's spy.",
+            "location": "Harbour Town on the waterfront. He is in the house to the left (north-west) of the slaughterhouse.",
+            "relatedQuests": [
+                "Skins for meat",
+                "Find the burglar's spy"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Belschwur",
+            "description": "Belschwur is a mage in the The Order of the Holy Flame.\nAn altruist to the core, he is tirelessly generous and has but a single purpose: to help the poor and downtrodden inhabitants of The Gutters.\nPerforming quests for Belschwur will increase your standing with The Order and will provide you an opportunity to meet with Harbour Town's commandant, Carlos.\nHe also gives the teleport stone of Harbour Town, if you choose the path of the Monastery.",
+            "location": "Belschwur can be found in Harbour Town's low rent district, The Gutters, in the north-west corner tending a large stew cauldron. His location is just north of dead-centre on the Harbour Town map.",
+            "relatedQuests": [
+                "Medicine for everyone"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Beppo",
+            "description": "Beppo is in charge of the artifact delivery in the Bandit's camp.",
+            "location": "Beppo can be found standing beside a table at the entrance leading temple in the Bandit Camp.",
+            "relatedQuests": [
+                "The sons of Tilda",
+                "Artifact delivery"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Branon",
+            "description": "Branon is a worker in the Bandit Camp. He is a digger in the excavation site, but at first you find him hiding behind the arena. Branon tells the hero that it is possible to find treasure at certain locations if only he has a shovel.",
+            "location": "You will first find him hiding behind the arena, after you kill the Disgusting insects he will go back to work at the excavation site closest to the camp.",
+            "relatedQuests": [
+                "Disgusting insects",
+                "Get Branon to go back to digging",
+                "Branon needs help",
+                "The workers are to work again"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Brogar",
+            "description": "Brogar is the leader of the fighters and acting leader of the Bandit Camp since Don Esteban locked himself inside the ruins to try and come up with a plan to retake the island.",
+            "location": "During daytime, Brogar is mostly sitting on the bench in front of his house in the Bandit Camp. Obviously, he will always be sleeping in his bed during night time. Brogar is also the 'boss' of the fighters who 'protect' the workers.",
+            "relatedQuests": [
+                "Brogar's Lackey",
+                "Golden fragments for Oscar",
+                "Take care of Brogar for good",
+                "Defeat Brogar in the Arena",
+                "Gone with the gold",
+                "Protection money in the bandit camp",
+                "Power struggle",
+                "Lazy Dog"
+            ],
+            "tips": [
+                "You need to complete the Quest Brogar's Lackey first to complete the other quests.",
+                "You can easily skip Brogar's quest for his swordpiece, just pickpocket him and take it.",
+                "You can also defeat him in the Arena and loot him.",
+                "Kill him after if you like to complete the quest Take care of Brogar for good.",
+                "He is also the primary antagonist in the quest Power struggle. Brogar wants to take over from the Don. You should help Rachel against Brogar to complete a part of the quest Gold Fever.",
+                "He offers you the quest Protection money in the bandit camp. You can actually select not to give him the money you have collected.",
+                "After the quest Gold Fever you can kick him out of his hut and take over it for your reward of helping Rachel.",
+                "If you kill him after you knock him out or tell Don that Brogar wanted to take over his power, he would be killed. If you did not do one of those, you will meet him later in the game, on the way when you go to retrieve one piece of the Titan Armour. If you kill him, you will get 250 gold coins and a Strong Healing Potion, and also the list that you took from Dorgan's body if you gave it to him."
+            ]
+        },
+        {
+            "name": "Bryn",
+            "description": "Bryn is a Recruit of the Order.\nHe gives you the Bryn's dangerous monsters quest for which you need to clear out a nearby ruin of Gnomes.",
+            "location": "Volcano Keep: He can be found guarding the path to the monastery.",
+            "relatedQuests": [
+                "Bryn's dangerous monsters"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Carasco",
+            "description": "Carasco is a Warrior Of The Order guarding one of the entrances into The Inquisition's warehouse.\nIt is possible to pickpocket Carasco and get his weapon, the Executioner's staff.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                "Find the golden bowls"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Carlos",
+            "description": "Commandant Carlos is the leader of the Inquisition in Harbour Town. He quests you with putting a stop to the Dons operation in Harbour Town.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Caspar",
+            "description": "Caspar is a Recruit of the Order.\nHe is also a trader and will sell scrolls, lockpicks etc.",
+            "location": "Volcano Keep: He can be found at the monastery cleaning the recruit quarters north-east of the training ground.",
+            "relatedQuests": [
+                "Find Hemlar's murderer",
+                "Distribute the weed reefers in the keep"
+            ],
+            "tips": [
+                "Merchandise contains: Scoop, Blank scroll and Lock pick"
+            ]
+        },
+        {
+            "name": "Cid",
+            "description": "Cid is a trainer, among other things in Harbour Town.\nDuring the quest Find the burglar's spy, it is required to speak to Cid if you wish to side with the Don.\nOffers the quests Fleecing the butcher, and Clean out Dargel's chest.\nHis girlfriend is Kayleigh, who lives with him.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                "Fleecing the butcher",
+                "Clean out Dargel's chest",
+                "Find the burglar's spy"
+            ],
+            "tips": [
+                "Offers the following Training, for a price:\nDexterity +1 (13 Gold + 1 LP)\nDexterity +5 (75 Gold + 5 LP)\nOpen Locks 1 (100 Gold + 5 LP)\nSneak (100 Gold + 5 LP)"
+            ]
+        },
+        {
+            "name": "Clay",
+            "description": "Clay is a fighter for the don in the Bandit Camp. He is lazy and he is avoiding his job. Strong fighter.",
+            "location": "At the excavation site east of the camp, sleeping next to the campfire. After Lazy dog you can find him east near Rhobart's farm.",
+            "relatedQuests": [
+                "Lazy dog"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Cole",
+            "description": "Cole is a Hunter that can't go out hunting, since he, like everyone else, have been locked in Harbour Town.\nAfter talking to him you can ask him to teach you about hunting.\nCole is a trainer in Harbour Town.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Offers the following Training, for a price:\nDexterity +1 (13 Gold + 1 Learning point)\nDexterity +5 (75 Gold + 5 Learning points)\nBow 2 (100 Gold + 10 Learning points)\nSneak (100 Gold + 5 learning points)\nGut animals (100 Gold + 5 Learning points)"
+            ]
+        },
+        {
+            "name": "Commandant Carlos",
+            "description": "Carlos is a Commandant within the Inquisition. As such, he oversees different operations, traveling to various locations to fulfill his duties.\nHe is over Harbour Town, and the second-in-command of the Inquisition. He appoints the player Inquisitor in chapter 4, if the player chose the Warrior of Order path.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Cormac",
+            "description": "Cormac is a trader and trainer to be found at the Don's camp\nHe trains Alchemy and also increases your Mana.\nAlso sells several potions and recipes.",
+            "location": "Bandit Camp",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Craig",
+            "description": "Craig is the 'bookie' of the Bandit Camp.\nYou can place bets and then go fight people in The Arena.\nHe also will train your Strength and Sword skills.",
+            "location": "During the day he stands by the fire pit just south of the blacksmith in the Bandit Camp.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Cutter",
+            "description": "",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Cyrus",
+            "description": "Cyrus is a Master of the Order.\nHe is a goldsmith/trader and will sell runes and scrolls. During the Cyrus is late quest he will help you find Eldric in the ruin. He will give three scrolls of Destroy Magic Force Field.",
+            "location": "He can originally be found at the monastery in the goldsmith building south-east of the Hall of the Holy Flame (I).\nHe should be in the hall of Holy Flame during the Initiation.\nHowever, when you start the Cyrus is late quest he can be found at Eldric the Druid's hut (II).\nAfter the quest he will stay in the ruins before going back to the goldsmith building at the monastery.\nThen he will stay in his building after opening the gate (III).\nBut after Ignatius told you to call the Mages to the Holy Flame, he will go back to the Hall of Holy Flame.\nThen he will stay there and join the rite of becoming a Master of Magic (IV).\nHe will stay there for the rest of the game.",
+            "relatedQuests": [
+                "Cyrus is late",
+                "The test of Master Cyrus",
+                "The test of the Masters (1/6)",
+                "Severin's Artifacts"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Dalman",
+            "description": "Dalman is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found at the Monastery, near the pigs east of the training ground. After the completion of his quest he can be found in the kitchen with Harlok.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Training\nPickpocket level 1\nDexterity\nSneak"
+            ]
+        },
+        {
+            "name": "Dirk",
+            "description": "Dirk can be found in Josh's Tavern.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Domingo",
+            "description": "Domingo is the right hand man to the Don.",
+            "location": "Bandit Camp",
+            "relatedQuests": [
+                "The best fighter in the bandit camp"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Don Esteban",
+            "description": "Don Esteban is the leader of the Bandit Camp.\nHis wife is Rachel.\nHe has one of the five Crystal Disc required to open the gate at the Volcano Keep.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "If you are with the order he will give you the disc right away, but if you are with the bandits you first have to complete a quest for him to get it. If you joined the bandits you have to get permission to speak to him by gathering the five pieces of a sword. Then you have to speak to Oscar the smith, who will forge the sword for the Don. Then you have to give it to him, and pay 200 gold to get it back, or steal it back.",
+                "You don't actually have to give him the golden sword, but doing so gives you 150 exp and the sword can't be sold anyway."
+            ]
+        },
+        {
+            "name": "Dorgan",
+            "description": "Dorgan was one of the fighters in the swamp camp run by Don Esteban. He was given an assignment by Brogar, but he hasn't been heard from in some time.\nThe Castaway is asked to find Dorgan and let him know that Brogar wants to speak with him. After inquiring from Luis, the Hero is led to an old mine (called a 'cave' by characters in the game) at the southeast end of the swamp. Here Dorgan's corpse is found, with many grave moths fluttering around in the same cavern. On his body can be found a piece of the sword from the Golden Fragments quest.\nAlthough already dead at the start of the game, Dorgan is part of a much bigger plot. Brogar has been fleecing workers and hunters in the Don's camp, and Dorgan was the collector of these funds. This is one piece of evidence eventually used to prove to the Don that Brogar is trying to take over the camp.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "He is dead at the start of the game. There is no way to save him or to have any kind of dialog with him."	
+            ]
+        },
+        {
+            "name": "Doug",
+            "description": "Doug is a trader who is located at the entrance to the Bandit Camp. He will sell unlimited supply of arrows and other hunting supplies. When you talk to him for the first time he will give you a map of the Bandit camp and warn you about the dangers of the swamp.\nHe will not bear a grudge if you attack and defeat him. He is worth 80 experience and will drop a Tell joke scroll, short bow, some arrows and some gold.",
+            "location": "At the entrance to the Bandit Camp, on the bridge next to the campfire at the south side of the swamp.",
+            "relatedQuests": [
+                "Go hunting with Doug",
+                "Dangerous prey"
+            ],
+            "tips": [
+                "Trader's Stock at Chapter 1\nPoacher's bow\nShort bow\nUnlimited Arrows\nRing of skill\nJaw chisel\nWing shears\n5 Teeth"
+            ]
+        },
+        {
+            "name": "Doyle",
+            "description": "Doyle is simply lazy and sleeps in Costa's hotel room 24/7 in Harbour Town.\nDoyle is behind the burglaries in Harbour Town.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                "Burglar"
+            ],
+            "tips": [
+                "When you get details to find the Burglar in Harbour town after you instigate others you end up with Doyle being the burglar. When you get to Doyle he will offer to leave town as long as you help him:\nYou can either help him.\nYou can turn him in to the Monastery.\nYou can kill him.\nYou can turn him in to the Don (Cid).\n",
+                "If you decide to turn him in, he will attack you before you get a chance to leave the hotel room, when you successfully knock him out / kill him you will have completed the quest and all you need to do now is report to the Warriors of the Order or Cid depending on what faction you chose to go along with.",
+                "If you decide to spare Doyle, he leaves Harbor Town.",
+                "He ends up living above the waterfall next to Rhobard's Brugleweed farm. The only way to get to him seems to be using Levataion from a ledge with a broken bridge to the left of the waterfall. To get there, walk up the ramp behind the guard(s) guarding the farm. When you get to the top, you may have to fight some Stingrats. Fight or avoid the Ogre. If you look right you'll see a temple entrance. You want to go left. Then climb up the low ledge on the left a bit down the road. Then climb the low ledge just to the left after the first one. Then just follow the path to the left. There will be some wolves up here. The ledge with the broken bridge will be near a broken barrel.\nThere is a chest inside the tent he lives in. There is a Levataion Rune and scroll, among other items inside the chest.\nThere is also quite a few plants in the area as well. Most notably, a Hero's Crown and an Ogreroot."
+            ]
+        },
+        {
+            "name": "Drok",
+            "description": "Drok is an Ogre who is imprisoned by the Lizardmen.",
+            "location": "In a cell on the top floor of the Lizardmen's prison.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Duram",
+            "description": "Duram is a character in Harbour Town who works at the docks. He also has two armour plates needed for the quest Lukor wants the five armour plates.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Dwight",
+            "description": "Dwight is a worker in the Bandit's camp. He is shirking his work because Hawkins is too old and weak to control him and the don doesn't care.",
+            "location": "In the Bandit Camp in the swamp, a little to the east of the camp entrance, behind the hut near the fire. after Dwight is to get back to work you can find him moving crates to Beppo.",
+            "relatedQuests": [
+                "The workers are to work again",
+                "Dwight is to get back to work",
+                "Artifact delivery"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Dytar",
+            "description": "Dytar is one of the three treasure hunter brothers, possessing one of the three golden bowl artefacts.",
+            "location": "He can usually be found in Patty's Tavern, until you help him and his brothers escape Harbour Town.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Edgar",
+            "description": "Edgar can be found in Harbour Town.\nHe will be using a whetstone or sitting on the bench. Edgar is the head of the town guards. Speak to him and you can get some training.\nYou could defeat him and gain 160 XP, but do not be seen by the Warriors.\nYou can loot him and get a Crossbow (Piercing damage 50).",
+            "location": "Harbour Town, up a small path to the west of the harbour front.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "He offers the following Training, for a price:\nStrength (100 Gold)\nSword (7 Gold)\nCrossbow (7 Gold)"
+            ]
+        },
+        {
+            "name": "Eldric",
+            "description": "Eldric is a hermit and druid. He helps you to heal the broken crystal needed to open the sealed volcano door.",
+            "location": "Eldric lives on his own on the east coast.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Elias",
+            "description": "",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Enrico",
+            "description": "Enrico is a worker for the Don in the Bandit Camp. He claims he can hear the whispering and cries of the 'ancients' at the excavation site.",
+            "location": "Enrico is located on the far south of the swamp, East of the road that leads to it. Afterwards he will be at the excavation site to the south of the swamp.",
+            "relatedQuests": [
+                "Protection against the ghosts of the anecestors",
+                "The workers are to work again"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Enzo",
+            "description": "Enzo is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found at the monastery cleaning outside the Hall of the Holy Flame.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Fincher",
+            "description": "Fincher is one of Don Estebans' most trusted men, and he is in charge of an excavation in the eastern temple, where he have left one of his men in charge. Fincher can provide you with a better armor if you are with the Don.\nFincher is also able to train you in combat.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Flavio",
+            "description": "Flavio is a merchant in Harbour Town and he sells hunting trophies and the tools to remove trophies from the carcasses.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Gwen",
+            "description": "",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Harbour City alchemist",
+            "description": "The alchemist is found within the merchant district within Harbour Town.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Lockpicking codes\nGround floor chest: RLRLLR\nFirst floor chest: RLRL"
+            ]
+        },
+        {
+            "name": "Harbour City blacksmith",
+            "description": "Home to Alvaro and Walter.",
+            "location": "Found within the merchant district within Harbour Town.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Lockpicking codes\nChest on ground floor: LLLRRR\nBlacksmith door to basement: RLLR"	
+            ]
+        },
+        {
+            "name": "Harlok",
+            "description": "Harlok is the Monastery's cook.",
+            "location": "Volcano Keep: He can be found in the Monastery's kitchen west of the training ground.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Hawkins",
+            "description": "Hawkins is the leader of the workers in the Bandit Camp.\nHe will sell you workers clothes for 500 gold.",
+            "location": "Bandit Camp",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Hemlar",
+            "description": "When you first arrive at the monastery you are tasked to find out who murdered the recruit Hemlar.\nAs you find out more you discover that Hemlar was dealing brugleweed. While he was making a clean profit he refused to share his profits with Master Aric; as a result Aric killed Hemlar.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Henrik",
+            "description": "Henrik is a Recruit of the Order.\nA hunter and trainer. He can train you in dexterity and bow.",
+            "location": "He lives on the east coast near Eldric the Druid.",
+            "relatedQuests": [
+                "The legend of the Gyrger"
+            ],
+            "tips": [
+                "Training\nDexterity\nBow"
+            ]
+        },
+        {
+            "name": "Hirutu",
+            "description": "Hirutu is the Chaka (chieftain) of the Kila and responsible for most nonmagical affairs of the people. Technically he is over the kiki as well, but it appears he generally allows them to manage their own affairs.\nWhen the Son of Steelbeard arrives on Kila, he soon learns of a conflict between the shipwrecked pirates and the Kila. There are many aspects to this conflict, and Hirutu appears not to be responsible for all of them. For example, Asali refuses the pirates access to water from the waterfall, but after appeasing her they are allowed to draw water. Were this an order from Hirutu himself, it is unlikely appeasing Asali would change permission.\nAlthough Hirutu may not have contributed to some aspects of the tension between his people and the pirates, he was a major contributor. He was, for instance, preparing to go to war based on visions of the village seer, Kiki Tenya. He also holds the pirate Slim prisoner, sentenced to death as a sacrifice for their Hike (ancestors). During the quest 'On the Warpath,' he refuses to listen to the Son of Steelbeard. He changes his mind only after a possessed Makoto presents several prominent villagers' opinions against such action.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Ignatius",
+            "description": "Ignatius is a Master of the Order. He gives you permission to leave the Monastery. He is the head of the Order and at all parts of the game, immortal. He gives many quests such as: Securing the Keep, 1st-4th runic seal, Test of Master Ignatius, and Gate to the Keep.",
+            "location": "Volcano Keep: He stands just in front of the Hall of the Holy Flame, or he sits on the bench right next to the commandant.",
+            "relatedQuests": [
+                "Starts these quests: Test of Master Ignatius, Crystal of Fire, 1st Runic seal, 2nd Runic seal, 3rd Runic seal, 4th Runic seal, Securing the Keep, Bring the mages to the hall.",
+                "Is part of these quests: Gate to the Keep, Tests of the Masters, Ask will the mages support the Inquisitor."
+            ],
+            "tips": [
+                "Training\nSeal training, after starting chapter 3.\nFireball up to Lvl 10, after the Initiation.\nFrost Lance up to Lvl 10, after bringing dead Pallas' notes to him."	
+            ]
+        },
+        {
+            "name": "Illumar",
+            "description": "Illumar is a Master of the Order and trains in creating scrolls.\nAfter you get the necessary items needed to make scrolls he will train you at the cost of five learning points and will even given you a light rune for free. He is also a trader and will trade runes and scrolls.",
+            "location": "Volcano Keep: You can find him in the scroll-making building south-west of the Hall of the Holy Flame.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Training\nCreate scrolls (5 LP)",
+                "Merchandise\nRunes 1-4 depending on the chapter (1 for 1, 4 for 4), 10 blank scrolls, scrolls and occassionally ingredients."
+            ]
+        },
+        {
+            "name": "Inquisitor Mendoza",
+            "description": "Inquisitor Mendoza is the leader of the Inquisition, traveling from place to place while warring with the titans that have recently been released. He leads the Order of the Holy Flame on the island of Faranga, where the first Risen game takes place. As the leader of the faction, he wears Inquisitor Armour, but he also has a magical item called the Ocular, which allows him to see (and therefore combat) titans. He is armed with a Double-Bladed Staff, which he uses to devastating effect: even if the Castaway wears full titan armor, a single well-landed blow by Mendoza can do in excess of 260 damage. The Inquisitor plays the biggest part in the game, no matter which faction you choose.\nAt the start of the game, a cutscene shows Mendoza aboard the same ship as the Castaway and Sara when it is attacked by a large water titan. The Inquisitor attempts to use magic against the enemy, but he is outmatched. Seeing he is unable to prevail, he teleports away, leaving the others on the ship to their fates.\nThe Nameless Hero doesn't again meet Inquisitor Mendoza until some time later, where the zealot outlines a plan he has for confronting the forces pouring out of the bowels of the island, as well as discovering what power lies within. His hope is that the power can be wielded to defeat the titans.\nIt is clear that the Inquisitor is in power over the members of both the Inquisition and the Order of the Holy Flame. Many of the Order and Inquisition follow him blindly, such as Ash, Kato, and Ethan; even when Mendoza chooses a dark path, they continue to follow him, betraying alliances without question. Others, such as Commandant Carlos and Master Ignatius, realize that what the Inquisitor proposes is questionable, and they refuse to support the decision.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Ismael",
+            "description": "Ismael is supposedly a Titan Lord. He was never revealed during any Risen games. He was only mentioned in Risen 2, when Nameless Hero consulted destruction of Northern Continent with Sebastiano.]",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Jack",
+            "description": "Jack is a trader in Harbour Town.",
+            "location": "Harbour Town, next to lighthouse.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Jan",
+            "description": "Jan is a hunter in the bandit's camp. He was sent to the house outside the camp to be a lookout for the Order's movements. You will find him just after the tutorial part of the game inside the second house you find. He will threaten you with a weapon to find out who you are and what are you doing there. Talk to him and he will tell you that you need a decent weapon. Jan urges the you to head to the swamp and look for jobs there. He can show you the way to the Bandit's camp or the way to Harbour town.\nHe will not bear a grudge if attack and defeat him. He is worth 80 experience, small healing potion, lockpick and some gold.",
+            "location": "Jan is in a house outside the swamp, on the road to the Harbor town.",
+            "relatedQuests": [
+                "Alone and Abandoned",
+                "Get Yourself A Decent Weapon",
+                "Follow Jan to the novices' farm in the east",
+                "Follow Jan to the west",
+                "Follow Jan farther to the west"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Jasmin",
+            "description": "Jasmin is a hunter and trader.",
+            "location": "She lives on the east coast with Henrik.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "She sells bows, arrows, bolts and animal trophies."
+            ]
+        },
+        {
+            "name": "Kalib",
+            "description": "Kalib is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found in the entrance to the Monastery reading from a bookstand.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Karlsen",
+            "description": "Karlsen is the Monastery's blacksmith and weapon trader.\nHe sells sword blanks and staff based weapons.",
+            "location": "Volcano Keep: He can be found at the blacksmith's house north of the training ground.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Training\nPicklock 1 and 2\nSmithing 1,2 and 3"
+            ]
+        },
+        {
+            "name": "Kato",
+            "description": "Kato is a Recruit of the Order.He is rather mean and a favourite of Branco. He is the third trainer in the Staff Training Quest.",
+            "location": "Volcano Keep: He can be found on the training ground of the Monastery.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Kayleigh",
+            "description": "Kayleigh is Cid's girlfriend.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Kila (Tribe)",
+            "description": "The Kila are a tribe of Moluccas (natives) who live on an island of the same name in the Southern Seas. It appears they, like the Shaganumbi, had established themselves long before the Inquisition fled from the Old Empire to escape the titans. It is unknown whether they and the Shaganumbi were originally of the same people and just split into two different tribes. The Kila practice Voodoo, one of three types of magic available in Risen 3: Titan Lords.\nSeveral leaders among the Kila run different aspects of their society. Their chieftain, Hirutu, manages most of the tribe's affairs, especially as concerns relations with outsiders. When the Son of Steelbeard first arrives on Kila, a conflict between the shipwrecked pirates and the tribe has escalated to the point that Hirutu is preparing for a war against the pirates.\nAfter being ostracized by her former Shaganumbi tribe, the voodoo witch Chani made her way to Kila, where she became the primary communicator with the oracle. She is the leader of voodoo magic among the tribe and even sometimes gains command over some warriors when needed. For example, when Morgoloth started preparing for war against the Kila, Chani commanded a small group of warriors led by Tonka Damaka to stop the Soldiers of the Oracle before they could lay eggs.\nKiki Tenya also practices voodoo and has visions by which the tribe guides future actions. For example, she foresees a war between her people and the pirates and believes it will lead to great devastation among her people. She seeks the help of the Son of Steelbeard in dissuading Hirutu from going to battle against them.\nThe guardian of the Sacred Valley, preventing those unworthy from entering it, is Baraka. He is a great warrior (perhaps the greatest of the tribe) who can tell when someone lies. He will only allow the Son of Steelbeard through the gate once he has proven himself wise by obtaining Ancient Knowledge (i.e., reached Chapter 3 of the game).",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Konrad",
+            "description": "Konrad is a merchant in Harbour Town.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                "Collect From Konrad"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Krayban",
+            "description": "Krayban is a Recruit of the Order.",
+            "location": "He can be found outside Tilda's farm near the fire in the field.He has been killed by two Gnomes standing next to his body",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Leon",
+            "description": "Leon is one of Tilda's sons.",
+            "location": "Leon is located within the woods north of Harbour Town's eastern exit. There should be a small pond in front of a house, he should be located somewhere around/in this house.",
+            "relatedQuests": [
+                "The Sons of Tilda",
+                "The cursed lords"
+            ],
+            "tips": [
+                "His internal id for console commands such as goto and spawn is Marvin, not Leon."
+            ]
+        },
+        {
+            "name": "Leonardo",
+            "description": "Leonardo is a trader and trainer in Harbour Town.",
+            "location": "Harbour Town, along the west path from the harbour in Harbour Town.",
+            "relatedQuests": [
+                "Anything that heals"
+            ],
+            "tips": [
+                "Training\nAlchemy 1,2"
+            ]
+        },
+        {
+            "name": "Lilly",
+            "description": "Lilly is a prostitute in Harbour Town that will have sex with you for money.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Lorenzo",
+            "description": "Lorenzo is one of the Don's fighters, and he is not very fond of newcomers. He swears a lot and calls the hero pretty on several occasions. Lorenzo dislikes newcomers to the camp because that means his share of the Don's gold is smaller. He will try to trick you, extort money from you and make you leave the camp.",
+            "location": "In the middle of the camp, next to the campfire.",
+            "relatedQuests": [
+                "Defeat Lorenzo in the arena",
+                "To the temple ruins with Lorenzo"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Luis",
+            "description": "Luis is a hunter in the Bandit's camp. He is a drunkard and by giving him beer you can gain valuable information and he can teach you about hunting.",
+            "location": "He is located on a small moon-shaped island in the middle of the swamp.",
+            "relatedQuests": [
+                "Scurrying's rats",
+                "The hunters are to hunt again",
+                "Protection money in the bandit camp",
+                "Golden fragments"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Lukor",
+            "description": "Lukor is an agent of Don Estaban found in Harbor Town. On the quest for armor plates you will have a choice either to give it to the order or to Lukor for the Don.\nThat particular quest is part of the 4 quests to decide whom your siding with.",
+            "location": "Lukor can be found near the warehouse's in harbor town by the lighthouse.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Nameless Hero",
+            "description": "The Nameless Hero is the protagonist of both Risen and Risen 2: Dark Waters. He also appears as a non-playable character in Risen 3: Titan Lords, located on Calador.\nInquisitor Mendoza attempted to fight a huge titan at sea, but found that his magic was unable to stop it. Seeing his efforts were for naught, he teleported off the ship. The titan unleashed huge waves, destroying the boat. The Nameless Hero and Sara ended up stranded on the island of Faranga, the only survivors of the attack.\nThe Nameless Hero — referred to as 'the Castaway' because of recent events — attempted to find others to help him and Sara recover from their ordeal. After reaching Harbour Town, he met Patty, the daughter of the infamous pirate Captain Steelbeard.\nHe decided to join one of three factions (Bandit / Mage / Inquisition) on Faranga in order to better understand the current events. Apparently recently temples had risen from the ground, releasing various creatures, such as ghouls and skeletons.\nWhen it looks like all is lost, Lord Ursegor revealed that his armor and weapons are the only way to conquer the Titans. The Nameless Hero searched for the pieces of the Titan Lord armor and weapon.\nAfter rebuilding the Titan armor and obtaining the weapon, the nameless hero is ready to take on the Fire Titan. He defeats Inquisitor Mendoza and uses his monocle to do battle with the Fire Titan.\nWinning the battle against the Fire Titan, the Nameless Hero knew the battle had just begun, and set off in the Titan Lord armor, Titan weapon in hand, to fight the other Titans. But of course, Patty is interested in finding her father, Captain Gregorius Steelbeard, and obtaining the treasure he has hidden away.\n",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Nelson",
+            "description": "Nelson is a skilled cartographer living in Harbour Town.\nHe will offer to make a detailed map of the island for you, but you will need to be patient — a craftsman of his calibre can not be rushed!\nHis (possibly common-law) wife is not named, but simply referred to as 'Townswoman'.",
+            "location": "Harbour Town, in the centre of The Gutters, across the street from Cid. He can be found working in the first floor store front, or upstairs in his apartment.",
+            "relatedQuests": [
+                "Nelson's ring",
+                "The map of the island"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Nico",
+            "description": "Nico is a trader in Harbour Town.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "Merchandise\nItem Gold\nRaw shark 50\nRaw plaice 20\nHerring 10"	
+            ]
+        },
+        {
+            "name": "Obel",
+            "description": "Obel is found around a house in a swamp north-east of Don's main camp.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Olf",
+            "description": "Olf can teach you to prospect ore!",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                "Find the golden bowls"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Oscar",
+            "description": "Oscar is the blacksmith of the Bandit Camp.\nAfter you bring him all of the pieces of the Golden sword and have him forge it, he will train you in Smithing.\nIn case you don't want to return the Gold Sword to Oscar after he gives it to you to look at it, he will pay Domingo to fight you/teach you a lesson. After taking/buying the golden sword from Oscar, you can go and see Esteban.",
+            "location": "Bandit Camp",
+            "relatedQuests": [
+                "Protection money in the bandit camp",
+                "Golden fragments for Oscar"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Pallas",
+            "description": "Pallas is a Mage with the rank of a Master. He acts as the administrator of Volcano Keep.",
+            "location": "Volcano Keep: He can be found in the entrance area of the Monastery (directly in front of the you as you walk in) reading from a bookstand.",
+            "relatedQuests": [
+                "Assist the Warriors of the Order in Harbor Town, Frost Crystal."
+            ],
+            "tips": [
+                "Training\nFrost Crystal up to Lvl 10 (Before dying at the start of Chapter 3."	
+            ]
+        },
+        {
+            "name": "Patty Steelbeard",
+            "description": "Patty Steelbeard is an important character throughout the Risen series. As the daughter of the notorious pirate Captain Steelbeard, she is no stranger to rough crowds. To survive, she has developed a gruff exterior and a sharp tongue. She does have a loving and charming side, but only her true friends ever discover this.\nA young Patty is the head of a tavern in Harbor Town. She is on Faranga searching for her father. Supposedly, he had buried a treasure on a secret island, and Patty has come to the island in search of it. When the Nameless Hero meets her, she is trapped in Harbor Town by the Inquisition who force citizens to remain 'for their own safety.'\nAs time passes, she and the Nameless Hero begin to trust each other, so much so that she involves him in her quest. It is discovered that Steelbeard had a secret house in town, which is now empty. The Nameless Hero leads her out of town through a secret passage, and she prepares to search the island for some of her father's treasures. Realizing the potential of such a treasure in helping his own cause, the Nameless Hero helps her in the hope of furthering his own quest.\nAlthough they escaped beyond the Inquisition's gaze, their search is noticed by another pirate, Romanov. He kidnaps Patty in hopes of exchanging her for some promising treasure the Nameless Hero might discover. After freeing her, the Hero explains he's found some clues suggesting that Steelbeard is no longer on the island. It would seem he set sail some time before into the seas to the east. Because of the lockdown by the Inquisition, Patty is forced to return to Harbor Town for the time being, waiting for the right opportunity to depart.\nIn return for her aid, Patty helps the Nameless Hero obtain part of the Titan Set. Once the immediate threat is passed, the two of them discuss the possibility of using the armor and monocle to fight the remaining titans. Patty, however, will not do anything else before finding her father and the supposed treasure he's hidden.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Philus",
+            "description": "",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Rachel",
+            "description": "Rachel is Don Esteban's wife. She is the one who helps you get to Don Esteban.",
+            "location": "Bandit Camp",
+            "relatedQuests": [
+                "Meat for the gang"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Rhobart",
+            "description": "Rhobart is found around a house in a swamp north-east of Don's main camp.\nGiving him 10 Weeds found in the surrounding swamp will reward you with 70 Gold and 50 XP.\nKnock him down and repeat it if you want more.\nMake sure to save if he glitches and dies from fall damage he is dead and you won’t be able to repeat this process.",
+            "location": "North-east of Bandit Camp.",
+            "relatedQuests": [
+                "Beer for the gang",
+                "Rhobart needs weed",
+                "Protection money in the bandit camp",
+                "Rhobart's bog bodies"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Ricardo",
+            "description": "Ricardo is one of the Don's men, a guard at the Bandit Camp entrance.\nWhen you talk to him he gives you a quest to kill some 'Disgusting Beasts'. At first he is quite sarcastic yielding no information at all and your dialogue options talk back in a sarcastic manner as well. He will talk to you normally, even if your are not with the Don.\nHe carries with him a crossbow and a sword.",
+            "location": "Entrance of Bandit Camp.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Romanov",
+            "description": "Captain Romanov is a notorious ex-pirate, now held in a private cell in Harbour Town. He hates Captain Steelbeard as well as his daughter Patty.",
+            "location": "Romanov is being held in a prison at the very end of the port in Harbour Town. Head past the warehouse down a long narrow strip of land.",
+            "relatedQuests": [
+                "Romanov's seaman's chest\nWhen you talk to Romanov he will give you a quest where he wants you to break into the warehouse and find a chest and there will be a casket in it. You can bring it back to him or hand it over to the Order for a reward."
+            ],
+            "tips": [
+                "To speak with Romanov:\nYou must either beat the guard in a fight and take the key off of him while he is incapacitated,\nDistract him with some entertainment which can be found back near the warehouse,\nOr pickpocket the key from the guard."
+            ]
+        },
+        {
+            "name": "Rufo",
+            "description": "Rufo is a friendly wolf that helps you find Eldric the Druid.",
+            "location": "Can be found outside a hut with Henrik and Jasmin on the east coast.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Rufus",
+            "description": "Rufus was a minor character in Risen. Training as a Warrior of the Order, he had been at Volcano Keep for some time.\nThe Castaway first meets Rufus in one of two places. If siding with the Inquisition / Crystal Mages, he will encounter him as early as Chapter 1, in the northwestern part of the Monastery, where he is seeking a book called Wisdom in Combat. The hero can help him acquire this book, after which Rufus will willingly teach Light Healing in gratitude.\nShould the hero choose instead to follow the Don and His Followers, the hero will meet Rufus later, no earlier than Chapter 2. By the end of the chapter, Rufus has joined a contingent of Warriors of the Order who, along with Inquisitor Mendoza, plan to storm the volcano temple. If asked, he will confess that he is 'a little scared [and] nervous, but ready'. He explains that, in spite of his fear, he is willing to continue if it will help to save the rest of Faranga.[1]\nUpon opening the outer door to the temple, a swarm of several Lizardmen immediately attack. Rufus will survive this encounter (he has immunity to damage) and continue with the remaining Inquisition forces into the volcano. Rufus will also automatically live through the next encounter, after which Mendoza says a large, sealed door must be opened.\nThe hero is sent to the north, where he must pass through trap doors, pull levers, and defeat enemies as strong as lizardman warriors and ghouls. He eventually discovers a winch and rotates it to open the door. Returning to the Inquisitor, he finds the door is, surprisingly, still sealed. After speaking with Mendoza again, he is told Rufus was sent south to look for a mechanism as well. The Castaway is sent after him, to see what kind of trouble he may have encountered.\nRufus\nAfter reaching a pillared room, the Nameless Hero finds a pair of Saurian warriors, guarding the area. Upon defeating them, he notices Rufus' body, apparently ambushed and overwhelmed. It is likely that, even if he hadn't been surprised by a sudden attack, he would probably have tried to fight the pair in case they carried a key needed to proceed. Indeed, one of the lizardmen carried a golden bust on its corpse, one of two required further on to reach the second winch that opened the sealed door.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Sam",
+            "description": "Sam is the leader of the hunters in the Bandit Camp.\nHe can train you in Dexterity, Bow, Sneak, and Gut animals skills.",
+            "location": "Bandit Camp",
+            "relatedQuests": [
+                "The Hunters are to Hunt Again"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Santiago",
+            "description": "Santiago is a Warrior of the Order.",
+            "location": "Volcano Keep: He can be found guarding the gate to the Monastery.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Sara",
+            "description": "Sara is the only survivor of the shipwreck besides you.\nIn the introductory video, the player (the Nameless Hero) and Sara are stowaways on the Inquisition's boat during a storm, during the event scene the boat is destroyed by paoki trelo massive tidal wave and the Nameless Hero and Sara are washed away to the shore of Faranga Island.\nAt the beginning of the game, both Sara and you wake up on the on the beach, just a few steps apart. When you talk to her, Sara asks you to find a way out of the place. She also mentions that she saw 'something' moving in the bushes — so you better equip yourself with some sort of a weapon. Once you have done that Sara will ask you to lead the way through the trail leading into the island. She will also ask you to find something to eat to help get back to strength. You will find a couple of hungry Sea Vultures around the beach. Kill them and take their meat.\nDown the trail you will come across an abandoned house with a fire at the front. Roast the vulture meat in the fire using a Frying Pan and share some with Sara. She will decide to take a break there and ask you to go ahead.\nFurther up on the trail, you will meet Jan. If you tell him about Sara, he will rescue her, and send her to the bandit camp. Alternatively, you can avoid telling Jan about Sara and instead inform Brother Tristan at the nearby farm. Inform either completes the 'Rescue Sara from the wilderness' quest and earn you the Philanthropist achievement.",
+            "location": "Washed onto the beach, relaxing in front of a hut (near beach).\nIf you told Jan to help her out, Sara will end up staying with Rhobart and Obel in the little hut just above the main bandit camp.",
+            "relatedQuests": [
+                "Take Sara to Safety",
+                "Find survivors of the shipwreck",
+                "Rescue Sara from the wilderness",
+                "Alone and Abandoned",
+                "Find the key in the abandoned house",
+                "Loot the chest in the abandoned house"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Scordo",
+            "description": "Scordo is the Leader of the Don's Men situated within Harbour Town.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "It is possible to pickpocket Scordo with a high enough Pickpocketing level (i.e. Level 3).",
+                "Scordo has the Harbour Town teleport stone when you visit him in Act 2.",
+                "Scordo becomes irritated when the player starts having NPCs use the secret exit tunnel."
+            ]
+        },
+        {
+            "name": "Severin",
+            "description": "Severin is a Warrior of the Order who makes his first appearance in Risen.",
+            "location": "In Risen, he can be found at Tilda's farm at the foot of the path to the Monastery. Traveling with the main Inquisition force as it continues its migration south toward Arborea, he gets assigned as a trainer at the Crystal Fortress by the time of Risen 2 and eventually finds his way to Tacarigua, where he was stationed just before Risen 3.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Sirius",
+            "description": "Sirius is a Recruit of the Order.",
+            "location": "He can be found outside Tilda's farm near the fire in the field.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Son of Steelbeard",
+            "description": "The Son of Steelbeard is the hero of Risen 3: Titan Lords. Like the hero of the previous games, his name is never revealed. He is, obviously, a child of the late Captain Gregorius Emanuel Steelbeard and younger half-brother to Patty.\nCaptain Steelbeard was frequently drunk and absent, forcing Patty and the Son of Steelbeard to 'muddle through all alone because he was never there.'[1]",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Sonya",
+            "description": "Sonya runs the local brothel in Harbour Town.\nYou can buy information from her along with other 'services' as they refer to it. She complains about the fact the Order does not come to the aid of her or the other patrons of her brothel when some of the men get extremely disgusting. The book she is standing at gives 10 exp when read, but can only be read if she is knocked unconscious or killed.",
+            "location": "Harbour Town, brothel",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Stan",
+            "description": "Stan is a Recruit of the Order.",
+            "location": "He can be found guarding the lower part of the Monastery path south of Tilda's farm.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Taylor",
+            "description": "Taylor is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found in the entrance area of the Monastery.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Tilda",
+            "description": "She is the mother of William, Leon and Beppo, and gives you the quest The sons of Tilda to go and find her sons and see how they are doing. She has a husband, Ingvar, who apparently understands why his sons have gone away.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                "The sons of Tilda\nShe does not reward you directly for the quest, but says she has a stash in the farm, where Severin, from the Inquisition, is."
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Toni",
+            "description": "Toni is a member of Don Esteban's gang and is stationed in Harbour Town.\nToni was ordered by the Don himself to retrieve a family heirloom from the Don's house, which is now under the watchful eye of the Warriors of the Order.",
+            "location": "Harbour Town",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Tristan",
+            "description": "Brother Tristan is a mage novice in charge of the farm to the north of Harbour Town. He advises you to be taken to the monastery for training in magic and fighting staff. You can talk to him about showing you the way to Harbour Town but he will ask for your help at the farm in return. You can trade with him, and he's also one of the two people you can ask to shelter Sara before Chapter 2.",
+            "location": "Farm on the road between the swamp and Harbour Town.",
+            "relatedQuests": [
+                "Rescue Sara from the wilderness",
+                "Help the novices' farm"
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Tucker",
+            "description": "Tucker is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found west of the Monastery training grounds.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Ukkos",
+            "description": "Ukkos is a friendly ogre found at the east end of the Harbour District of Harbour Town. He guards the warehouses down by the docks. He is extremely friendly (at least, for an ogre), willing to train the Castaway in spite of knowing nothing about him.",
+            "location": "",
+            "relatedQuests": [
+                "Meat for Ukkos"
+            ],
+            "tips": [
+                "He is able to perform Strength training and Axe training, at the standard cost. (See Risen Character Training for more specific details.)"
+            ]
+        },
+        {
+            "name": "Ursegor",
+            "description": "Ursegor is a Titan Lord and the King of Saurians. In his own words, he is 'master of the land and the elements.' The player first encounters him in Chapter 3 of Risen as an immortal spirit.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                "History\nAlliance With the Gods\nNot many details are known about his alliance with the gods to bring down the Titans. He explained to the Castaway that it was done for his own freedom.\nRisen\nUrsegor is found by a small group from the Inquisition led by Inquisitor Mendoza with the Castaway. He explains that during his time imprisoning the Titans he was also imprisoned along with the Fire Titan inside the Volcano on the Island. He asks the player to free him from his burden by defeating three servants which keep him locked up on the Golden Throne."
+            ]
+        },
+        {
+            "name": "Vasili",
+            "description": "Vasili is a character you will meet in Harbour Town.",
+            "location": "He hangs out in or around Patty's bar 24/7, in Harbour Town.\nYou also see Vasili while following Eronga.",
+            "relatedQuests": [
+                "He is one of the people you must confront about the artefact plate armour you must collect for Luko to complete a mission for the bandits OR you can give it to Carasco guarding the warehouse near the port and jail where Captain Romanov is being held."
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Vince",
+            "description": "Vince is a Warrior of the Order.",
+            "location": "Volcano Keep: He stands guard at the top of the stairs near the Hall of the Holy Flame.",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Vitus",
+            "description": "Vitus is a Mage with rank of Master.",
+            "location": "Volcano Keep: He can be found standing at the north-east end of the Monastery training ground.",
+            "relatedQuests": [
+                "Test of Master Vitus, Find Hemlar's Murderer, Wisdom in Combat Found!, Dalman Trusts you, Securing the Keep, Locate the Masters."
+            ],
+            "tips": [
+                "Training\nMagic Bullets up to Lvl 10\nStaff Fighting up to Lvl 7\nMana indefinetely."
+            ]
+        },
+        {
+            "name": "Walter",
+            "description": "Walter is the Blacksmith for Harbour Town, and can teach you the Smithing skill up to level 3. He can also train your strength by +1, or by +5. All his training costs skill points and gold.",
+            "location": "",
+            "relatedQuests": [
+                
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "William",
+            "description": "William is one of Tilda's sons and is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found in the Monastery training ground.",
+            "relatedQuests": [
+                "Sons of Tilda\nHe is one of the NPC's you need to talk to so that you can complete the Sons of Tilda quest."
+            ],
+            "tips": [
+                
+            ]
+        },
+        {
+            "name": "Yoki",
+            "description": "Yoki is a Recruit of the Order.",
+            "location": "Volcano Keep: He can be found guarding the Monastery's cemetery.",
+            "relatedQuests": [
+                "He will stop you and attack you if you try to enter the cemetary. There are three ways to get past him:\nBribe him with two wraps of Brugleweed (Don faction only).\nGive him your Harlok's Stew (Order faction only). You may wish to pickpocket it back afterwards.\nGive him a wrap of Brugleweed after you have taken over Hemlar's business (Order faction only)."
+            ],
+            "tips": [
+                
+            ]
+        }
+    ]
 }
