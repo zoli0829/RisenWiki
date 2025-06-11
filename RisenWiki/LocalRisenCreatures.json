@@ -1,0 +1,287 @@
+{
+    "creatures": [
+        {
+            "name": "Ashbeast",
+            "description": "Ashbeasts are gorilla-like creatures that take their name from their gray fur. The beasts can be often found blocking the road to later story related locations or guarding treasures. Ashbeasts can be heard making loud roars and slamming the ground while standing in place alerting the player to a nearby Ashbeast.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Deals heavy damage and has high health therefore it is recommended to stay away from it until later chapters.",
+                "Quite fast and agile and can clip through rough terrain with ease.",
+                "Can break through your guard with its powerful attacks, making guard less useful. Ashbeasts slowly swing their arms while attacking with a leap at the end of the combo. Side stepping at the right moment leaves the creature open to attack although this strategy is harder in closed spaces where later Ashbeasts are often encountered such as in caves or ruins."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "With the Gut animals skill it yields a Beast Skin, gold value 250. and will drop an Ashbeast heart",
+                "Killing one gives 300 XP."
+            ]
+        },
+        {
+            "name": "Black wolf",
+            "description": "The Black wolves on Faranga are big, black and very tough. Because much of the natural prey animals of the islands have fallen victim to the gluttonous creatures of the underworld, packs of hungry wolves roam the woods, searching for food.",
+            "location": "",
+            "encounters": "You will begin encountering these at some point after you join one of the three factions, normally. But there are plenty of them even in chapter 1 - Usually packs of black wolves guard the areas that player is not supposed to trespass.",
+            "tactics": [
+                "Black wolves tend to attack in packs and have a really nasty side dodging attack.",
+                "They will usually attack three times and can break your block. When attacking they will back off when you successfully land a few hits. If they have enough room they will dodge to the side and do a really fast and nasty attack, this attack can be devastating and is quite hard to block or dodge away from.",
+                "The easiest way to beat any of the wolf types is to herd them into a narrow space such as a path, bridge or cave, thus denying them their sideways mobility and preventing them from surrounding the player.",
+                "It is recommended to use a shield while facing these creatures because with staffs and bows the creatures can get a direct hit on you and its difficult to hit them while there hitting you.",
+                "An extremely effective tactic for defeating lone wolves while using a one handed sword is to swing once, sidestep, and repeat the process until they are dead. Most of the time the \"stun\" on your attack will be enough to prevent the wolf from attacking at all, and in the event they do manage to attack, they do not turn quickly enough for their lunge to hit you after your side step. This tactic is also effective in groups but if they start to circle around you, or your dodge will put you closer to another wolf, you should disengage and try again, or use different tactics."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Each wolf will have Teeth on their corpse.",
+                "With the Gut animals skill each will yield a Wolfskin as well.",
+                "Wolves will up experience by 120 XP on death."
+            ]
+        },
+        {
+            "name": "Boar",
+            "description": "Boars, also known as Wild boars, may appear rather harmless at first glance, but boars are among the most dangerous animals on the islands.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Many an inexperienced adventurer has fallen victim to their murderous tusks and violent fury, and the authorities urgently recommend keeping your distance from them.",
+                "Strength\nVery strong charging head on. Can break your guard with their powerful attacks.",
+                "Weakness\nVulnerable to ranged attacks and melee attacks from the sides after their charge."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Each boar will have Raw meat on their corpse.",
+                "With the Gut animals skill each will yield a Wild boarskin and a Tusk as well.",
+                "Boars are worth 60 XP per kill."
+            ]
+        },
+        {
+            "name": "Bog Body",
+            "description": "A bog body is a mindless Shadow living in the swampland on Faranga. As in real life, the bog body is a human body that has sunk into a swamp and become mummified by peat and mud from the environment.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Bog bodies are found in or around swamps. Sometimes they can be hard to see, especially at night, due to their body camouflaging with the leaves and vegetation of a swamp. They are usually alone but you can encounter two to three of them. A bog body has high health, but its tactics are very simple. Wielding a club (drawn from a sheath on its back), it uses only one type of swing. In defense, it holds up its club to block an incoming attack. It is slow, allowing for fairly easy dodging, and its strikes can be blocked by a shield and never break a shield block. The biggest threat a bog body poses is the damage if an strike connects."
+            ],
+            "statistics": [
+                "Standard Loot: 1x Cold heart, 1x weapon (Club or Spear)",
+                "Health: 240",
+                "Strengths: Relatively high damage, high health",
+                "Experience: 80 XP"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "Ghoul",
+            "description": "A Ghoul is a fast, dangerous creature of the Underworld, a mindless Shadow traditionally inhabiting caves, ancient ruins, and the Isle of the Dead. When called by a higher power, they may wander into inhabited areas as well.\nThree variations of ghouls have been seen, depending on where they were encountered.\nRuin ghouls, as the name suggests, primarily haunt ancient ruins, like abandoned mines. Each is encountered in Risen as just 'Ghoul', and seems to have withered, but intact, skin. They appear to wear cloth, viz., a hood and something to cover their loins. Unlike other types, these have an extremely powerful magical area-of-effect attack, killing lower health characters in one hit. It is generally wise to avoid this attack if possible.\nCommon ghouls (labeled simply as 'Ghoul' in-game), encountered in both Risen 2 and Risen 3, are the weakest variety of ghoul. They wear only a loin cloth and appear to have their skin withered to the point that some flesh beneath is exposed in certain areas. A few parts of their more muscular bodies are lightly wrapped in bandages, either left over from mummification or failed attempts to treat wounds when still among the living.\nBlack ghouls are also encountered in Risen 2 and 3, tougher versions of the common ghoul. It is unknown what caused the blackening of their flesh. The most likely causes are either that their flesh is more decayed so the rot can more readily be seen, or that they were exposed to some type of heat or fire that burned them. Like the common ghoul, black ghouls are more muscular than ruin ghouls.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Ghouls are extremely swift and aggressive, often attacking in groups of 2 or 3. If a ghoul is hidden when an enemy arrives, it will attempt to surprise the opponent with a sudden leap from its hiding spot. They attack with a flurry of claw swings, effectively stun locking an opponent and also breaking an enemy's guard. They are also capable of jumping away to dodge a weapon strike. Perhaps the most dangerous type is the ruin ghoul, which employs an area-of-effect magical attack that other varieties do not possess."
+            ],
+            "statistics": [
+                "Additional Loot: Claw (Gut animals)",
+                "Health: 390",
+                "Strengths: Rapid flurry of attacks, powerful magic AoE attack",
+                "Experience: 130 XP"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "Gnome",
+            "description": "Gnomes are small creatures native to the Faraga Islands. Ever since human beings first set foot on the Faranga Islands many years ago, the native gnomes have been notorious 'troublemakers'. They are known to steal and pickpocket possessions from humans.\nGnome - appears mostly in caves and some plains in Faranga island.\nChieftan - a much stronger gnome, appearing in caves and plains. They accompany the regular gnomes.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Don't be fooled by their small sizes. These pesky creatures can become of an annoyance. They normally come in groups of three or four, sometimes accompanied by a chieftan. From a distance, they'll throw projectiles at you, such as clubs, knives and beer bottles. They can dodge your attacks quite often and can perform one quick jump attack. You'll need a shield to block most of their attacks, including their projectiles that are thrown at you. You'll especially need to be aware of the chieftan. While it's attacks are the same for a regular gnome, it has more health and does more damage.",
+                "Strength\nHave ranged and melee attacks. They are always in groups and can overwhelm you.",
+                "Weakness\nVery vulnerable to counter attacks. Block their attacks then attack when they stop."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Will have Gold coin on their corpse, and various other usually worthless things like food or weak weapons like Hunting knifes and Sickles.",
+                "Some drop tool bags which are used for a certain quest in Harbor Town."
+            ]
+        },
+        {
+            "name": "Goblin",
+            "description": "Goblins are aggressive creatures, roughly half the height of humans. They can be found in various locations and almost always carry very little personally in the way of possessions, such as a few coin, a bullet, or a fork. In goblin camps or dens (when they establish themselves in caves), chests are sometimes found protecting items of somewhat greater value. It is very common for goblins to be found in the same locations as gnomes, although they are curiously absent from Risen 2: Dark Waters, while gnomes are found in all three games.\nSocial Structure\nAn extremely limited hierarchy exists among goblins. Generally all members of a goblin group are roughly the same as each other, although they may equip themselves differently (carrying a pistol over a short sword, for example). They are sometimes given different labels (mine goblin, looting goblin, dishonourable goblin), but they are basically all the same for all intents and purposes.\nIn Risen 3: Titan Lords, the 'Goblin Invasion' quest on the Isle of Thieves introduces a Goblin King who gives direction and something of unity among them. There is no goblin leadership apparent at any other location where they are found in the game, however (Taranis and Tacarigua). The game hints that the goblins have arrived in the South Seas as a result of the events of the game, but little details is given beyond this.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [],
+            "rewarads": []
+        },
+        {
+            "name": "Gyrger",
+            "description": "The Gyrger is a legendary creature.\nIt has green skin and resembling in shape and appearance of an ogre. The Gyrger is the leader of the gnomes, the ratio between the gnomes and the Gyrger is the scope is not known. He resides in a ruin, on a peninsula, which lies in the eastern area Farangas.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [],
+            "rewarads": []
+        },
+        {
+            "name": "Sea vulture",
+            "description": "Sea vultures are not an uncommon sight in the Faranga Island; they are frequently seen squatting on boulders, waiting for their next meal with their cold, staring eyes.\nHungry sea vulture - appears at the beginning of Risen, the weakest variation you can find. 50 experience\nSea vulture - appears mostly near the beaches of Faranga island. 50 experience",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "These birds aren't much of a problem, except when they are in groups. Also beware of their flying jump attacks, as it can break your shield block. If it breaks your block, quickly sidestep and attack it.",
+                "Strength\nCan cover ground quickly for a quick strike.",
+                "Weakness\nVulnerable to counter attacks. Wait for them to attack you, then sidestep left of right and attack its side."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Each vulture will have Raw chicken on their corpse.",
+                "The Gut animals skill yields nothing in addition."
+            ]
+        },
+        {
+            "name": "Hungry wolf",
+            "description": "The Hungry wolves on Faranga are similar in appearance to real-world wolves.\nBecause much of the natural prey animals of the islands have fallen victim to the gluttonous creatures of the underworld, packs of hungry wolves roam the woods, searching for food.",
+            "location": "",
+            "encounters": "These are the first wolf types you will encounter on Faranga.",
+            "tactics": [
+                "The Hungry wolves are the weakest of the wolves with a much weaker attack. These wolves generally tend you attack you once and very rarely do they back off. As soon as they have stopped attacking, attack them three times and then block again if needed. They will rarely dodge so if the player blocks the attacks before launching the own attack, the Hungry wolves should be easily dispatched.",
+                "They tend to attack on their own or in small groups, use narrow spaces to keep them in front of you."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Will have Teeth on their corpse.",
+                "With the Gut animals skill yields a Wolfskin as well.",
+                "Ups experience by 50 XP on death."
+            ]
+        },
+        {
+            "name": "Grave moths",
+            "description": "Grave moths are fairly weak, but their tendency to travel in groups makes them more than mere annoyances. They tend to favor the dark, and are usually found in caves or dungeons, although they occasionally live near small bodies of water. There are also two variants of the grave moth, one considerably weaker than the others.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [
+                "Grave moth: Level 3, Drops Wing dust, Wign (Gut animals), Health 60, Experience 30",
+                "Disgusting insect: Level 3, Drops Wing dust, Wign (Gut animals), Health 60, Experience 60",
+                "Grave moth: Level 6, Drops Wing dust, Wign (Gut animals), Health 180, Experience 60"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "Talon moths",
+            "description": "Talon moths are the strongest moths and should not be underestimated, especially when they are travelling in groups. Talon moths are most commonly found at water or at open spaces in the woods. They can be seen as the 'daytime-counterpart' of the grave moths.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [
+                "Talon moth: Level 9, Drops Wing dust, Wing (Gut animals), Health 270, Experience 90"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "Rotworms",
+            "description": "Rotworms are large worms that roam the swamps and prey upon careless travelers. While these worms may be tough they do not hunt in groups and can often be found alone or in a small group of 2-4 worms at most. You may also encounter the tideworm when trying to swim too close to the deep sea, this worm that will try to eat you has the appearance of a giant rotworm and it is rumored that they belong to the same species. Note that while stats for the tideworm are avaible it cannot be fought in game and that it is more of an event than an actual creature.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [
+                "Rotworm: Level 10, Drops Raw meat, Rotworm claw (Gut animals), Teeth (Gut animals), Health 300, Experience 100",
+                "Tideworm: Level 5, Experience 50"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "War crickets",
+            "description": "War crickets resemble giant crickets and are fearsome foes indeed. They are often found in caves and other dungeons and possess the ability to block your attacks. Which makes them the only opponents capable of blocking attacks without a weapon.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [
+                "War Cricket: Level 14, Drops Wing dust, Health 420, Experience 140"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "Scorpions",
+            "description": "The giant scorpions of Risen are one of the most dangerous foes in the game. Luckily, they are very rarely found in the open. Keep in mind though that these behemoths will not drop anything unless you have learned Gut animals.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [
+                "Scorpion: Level 20, Drops Scorpion claws (Gut animals), Scorpion stinger (Gut animals), Health 600, Experience 200"
+            ],
+            "rewarads": []
+        },
+        {
+            "name": "Ogre",
+            "description": "Ogres are a type of humanoid enemies that the player will meet on Faranga.\nAppearance\nThey are tall and muscular with small, stubby legs and long, powerful arms. They wield huge clubs that appear to be made out of a large bone. They all have brown-pinkish skin and a black streak of hair on their heads. All ogres speak in calm and deep voices and seem very polite. Their culture seems to revolve around honor and they perceive humans as insane, causing violence the sake of causing violence.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "In combat ogres have 2 attack:\nThey swing their clubs with huge force, dealing massive damage even to high level players.\nThey smash their club in the ground causing an area of effect attack that damages all those around them and cannot be blocked.",
+                "Ogres are extremely tough both defensively and offensively. In some areas, you can simply find a ledge and snipe the ogre safely with a bow or crossbow. It's smart to bring a large amount of arrows or bolts (50+) for this as the ogre will take a lot of shots.",
+                "Another strategy would be to summon a skeleton or have an extremely strong helper NPC tank the ogre while you slowly peck away with hits. Just be careful when the ogre turns towards your player and also be aware of that the ogre will do an area of effect attack. This strategy works even better if you have a berserker spell to do extra damage."
+            ],
+            "statistics": [],
+            "rewarads": []
+        },
+        {
+            "name": "Rotworm",
+            "description": "Rotworms are creatures that look like giant worms with fangs on the head. Rotworms can normally be found in swamps.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Strength\nHas a close range breath attack that is hard to avoid in melee and unblockable.",
+                "Weakness\nVery vulnerable to ranged attacks."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Will have Raw meat on their corpse and Teeth as well",
+                "With the Gut animals skill yields Rotworm claw.",
+                "Ups experience by 100 XP on death."
+            ]
+        },
+        {
+            "name": "Saurian",
+            "description": "Saurians (also known as 'LIZARDMEN') and are one of the most powerful standard enemies in Risen, of roughly the same difficulty level as ashbeasts and ogres. When encountered in large groups, they can be extremely deadly.\nHistoryBefore Risen\nThe lizardmen were supposedly the rulers of the world, long before the gods left, before anyone can remember. They serve the titans, who were recently released from their millennia-old prisons in the bowels of the earth.\nRisen\nAlong with the release of titans elsewhere, Saurians have come out of the raised ruins on the island of Faranga. It is unclear whether they answered a call and made their way out of the depths of the earth to the ruins, or whether they already existed within the ruins and so came with the arrival of those.\nAfter Risen\nAfter the destruction of the Fire Titan, the lizardmen returned to the depths of the earth. They are not seen again in either Risen 2 or Risen 3.\nVarieties\nScouts are generally the weakest of the lizardmen, wearing only light armor and demonstrating weaker attacks. That said, the natural armor provided by their scales makes them somewhat resistant to physical attacks. As their name 'Lizard Scout' implies, these are often patrols sent out to investigate or harass those traveling by road on the island. Sometimes individuals of this lower class are simply called 'Lizardman'.\nWarriors are considerably stronger than scounts, with an increase in damage dealt accompanying their class. They are frequently found as holders of important items, troops for assault forces, and guards for important individuals, such as Eldric. Among this class are the 'Elite warriors' and the leadership, such as the 'Watchman', or those with the name of simply 'Leader'. (Ironically, the armor worn by the elite warriors appears to be lighter and less protective than the obsidian plate worn by standard lizard warriors.)\nPriests are the most powerful lizardmen and likely the leadership among their ranks. At a range, they throw magic at their opponents, doing massive damage, while in hand-to-hand they will switch to their swords. Although not as dangerous as their magical attacks, their skill with swords can also easily devastate almost any fighter. A more advanced among this class is called \"High Priest\".\nNot much can be determined about Saurian society. As mentioned, once they ruled the world, providing some evidence of their abilities as a race. They are clearly militaristic, at least somewhat, given the number of military personnel encountered throughout the island. It is unknown whether they possess gender, since lizard varieties such as leiolepis ngovantrii have asexual reproduction.\nThey appear to be organized by the aforementioned classes, with the most likely hierarchy being scouts, warriors, priests, and finally a king (who also happens to be a titan lord and a spirit). It is unknown how they would have organized themselves after conquering Faranga, but they appear to be somewhat more advanced technologically than humans, given the extensive number of traps, levers, and other mechanisms within their temples and other buildings. At least a part of this knowledge, however, was given to them by the gods, as Ursegor mentions their help in setting up thaumaturgic crystals which dampen the abilities of titans, allowing the Saurians to trap and hold the Fire Titan Lord.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Lizardmen employ slightly varying tactics, depending on their classes."
+            ],
+            "statistics": [],
+            "rewarads": []
+        },
+        {
+            "name": "Sea vulture",
+            "description": "Sea vultures are not an uncommon sight in the Faranga Island; they are frequently seen squatting on boulders, waiting for their next meal with their cold, staring eyes.\nVariations/nHungry sea vulture - appears at the beginning of Risen, the weakest variation you can find. 50 experience\nSea vulture - appears mostly near the beaches of Faranga island. 50 experience",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "These birds aren't much of a problem, except when they are in groups. Also beware of their flying jump attacks, as it can break your shield block. If it breaks your block, quickly sidestep and attack it.",
+                "Strength\nCan cover ground quickly for a quick strike.",
+                "Weakness\nVulnerable to counter attacks. Wait for them to attack you, then sidestep left of right and attack its side."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Each vulture will have Raw chicken on their corpse.",
+                "The Gut animals skill yields nothing in addition."
+            ]
+        },
+        {
+            "name": "",
+            "description": "",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [],
+            "rewarads": []
+        }
+    ]
+}
+
+{
+    "name": "",
+    "description": "",
+    "location": "",
+    "encounters": "",
+    "tactics": [],
+    "statistics": [],
+    "rewarads": []
+}
