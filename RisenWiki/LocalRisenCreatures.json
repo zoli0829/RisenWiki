@@ -265,23 +265,63 @@
             ]
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Shadows",
+            "description": "Beings from the Underworld, commonly referred to as The Shadows, appear throughout the Risen series. The greatest number of Shadows are encountered in Risen 3, where they almost always serve the Titan Lord of Death, Nekroloth. Types of Shadows vary in form and strength, including both those with wills and sentience and the mindless, also known as \"the undead\".\nSentient Shadows are more powerful, with their own wills and ability to act without being directly controlled by an outside force. Often, these themselves control other, lesser Shadows, especially the mindless undead. While not all of these speak, at least some sentient Shadows possess the ability.\nUndead Shadows are \"stranded in the world of the living\" and attack all the living they encounter. According to Tao, the Guardian of the Dead, the undead are beyond saving. This curse appears also to extend to anyone killed by them on the Isle of the Dead.\n Although Shadows may include spirits, these should be distinguished from those whose souls have been trapped in the Underworld. These souls are not Shadows, as they still belong to living individuals. This separation of the soul from its body results in great confusion, although \"there is hope for them\", provided the soul and body are reunited relatively soon. However, if too much time passes, they will become fully converted Shadows, and reunification becomes impossible.[2] Bones was one such individual in Risen 2.\nSteelbeard's Son was also a pseudo shadow in Risen 3. Strictly speaking, when he and his half-sister, Patty, encounter a Shadow Lord of Hate at a crystal portal, he is completely killed, with his soul trapped on Skull Island. The \"resurrection\" Bones performs returns life temporarily to the Son of Steelbeard's body, allowing him to search for and eventually reunite with his soul. However, just as for any other pseudo shadow, there was a limited amount of time (not actually tallied in-game) to achieve reunification before he would have become a Shadow creature.\nIt appears certain spells may imitate Shadows. For example, Burke was placed under a spell on Calador that separated his spirit from his body. When the Son of Steelbeard encounters Burke's Manifestation on the shore, he finds the proper incantation to return him to his own body. However, in this case, Burke was never truly a Shadow, but only under the effects of the spell.",
             "location": "",
             "encounters": "",
             "tactics": [],
             "statistics": [],
             "rewarads": []
+        },
+        {
+            "name": "Skeleton",
+            "description": "Skeletons are Shadow creatures, a deceased person brought back to life but decayed to the point that only magic holds their bones together. They come in a couple of different forms, depending on when and where they are encountered. They can be challenging at lower levels, but as the hero advances in skill they become trivial.\nHistory\nAs long as people have died, their bodies have rotted, leaving behind bones that eventually crumble into dust. In certain circumstances, however, the dead refuse to rest, rising in various forms as mindless Shadows, driven to aggression toward the living.\nLesser Skeletons appear a bit weaker than those found on Faranga. They are found in other parts of the Southern Seas, in Risen 2 and Risen 3. Since they are labeled as simply \"Skeleton\" like those from the first game, the adjective \"Lesser\" has been added here to distinguish them from those of the first game. Lesser skeletons may have a small buckler or a scimitar and sometimes tattered clothing such as a loincloth. As their Farangan counterparts, they are especially weak to counter measures and magic doing physical damage (such as the Shockwave rune magic spell).\nSkeletons appear to be more minor versions of those encountered on Faranga in Risen. They generally only wield a scimitar and wear pieces of worn, leather armor. They are especially weak to counter measures (parries, ripostes, and so on) and physically damaging magic (rather than poison, for example).Skeleton warriors are an additional type found in Risen, and are lightly armored. They can perform S rank combinations, but they are vulnerable when unable to maneuver freely. Like other skeletons, they are particularly susceptible to counterattacks.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Generally the tactics of skeletons are fairly limited. They often carry some weapon, such as a short sword or a scimitar, but they also may attack using the tips of their finger bones. Some skeletons have virtually no defense while others may block, parry, and riposte as their living selves might have done. Usually skeletons will attack in small groups of up to 4, seldom seen as a one-on-one opponent. As a group, the attacks of skeletons are uncoordinated; you are equally likely to be attacked by all of them at the same time as you are to have all of them simultaneously prepare to receive an attack."
+            ],
+            "statistics": [],
+            "rewarads": []
+        },
+        {
+            "name": "Thunder Lizard",
+            "description": "Thunder lizards are the largest natural inhabitants on the island.\nThese animals, eight to ten meters long, are herbivores and usually peaceful — at least, as long as no one comes too close to them, because they are extremely territorial and defend their territory with force against everyone and everything that crosses their path.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Strength\nWhen fighting them they will sometimes put their head in the ground protecting from all attacks and then later take it up a surprise attack you."
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Will have various plants (Berry, Green leaf, Herb, Healing plant, Mana root and Mana mushroom) on their corpse.",
+                "Gut animals will not provide any additional benefit.",
+                "Will up experience by 160 upon death."
+            ]
+        },
+        {
+            "name": "Titan",
+            "description": "Titans are great beings of enormous power, each controlling a specific aspect of existence. This is commonly elementally based but can also extend to other areas, such as the soul or life itself. While most varieties are of an aggressive disposition, certain titan lords will employ tactics other than directly attacking individuals. The actions of these, however, are still intended to destroy humanity, making it wise to continue to consider them aggressive.",
+            "location": "",
+            "encounters": "",
+            "tactics": [],
+            "statistics": [],
+            "rewarads": []
+        },
+        {
+            "name": "Wolf",
+            "description": "The Wolves on Faranga are similar in appearance to real-world wolves.\nBecause much of the natural prey animals of the islands have fallen victim to the gluttonous creatures of the underworld, packs of hungry wolves roam the woods, searching for food.",
+            "location": "",
+            "encounters": "",
+            "tactics": [
+                "Strength\nAggressive when attacking from the front. Will attempt to circle around your guard and attack from the sides. They work well in a pack.",
+                "Weakness\nVulnerable to frontal attacks after their melee combo. Vulnerable to ranged attacks. Weak against flanking attacks"
+            ],
+            "statistics": [],
+            "rewarads": [
+                "Will have Teeth on their corpse.",
+                "With the Gut animals skill each will yield a Wolfskin as well."
+            ]
         }
     ]
-}
-
-{
-    "name": "",
-    "description": "",
-    "location": "",
-    "encounters": "",
-    "tactics": [],
-    "statistics": [],
-    "rewarads": []
 }
