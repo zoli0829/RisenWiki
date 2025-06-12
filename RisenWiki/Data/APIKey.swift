@@ -10,4 +10,5 @@ import Foundation
 struct APIKey {
     let risenQuestsKey: String = "https://run.mocky.io/v3/b7fda769-de85-4cdf-8b94-3b327a7a6267"
     let risenCharactersKey: String = "https://run.mocky.io/v3/44840636-c7a0-4348-957c-74642d131b1f"
+    let risenCreatureskey: String = "https://run.mocky.io/v3/4957b555-81f1-4982-9946-d0e40824b91f"
 }
