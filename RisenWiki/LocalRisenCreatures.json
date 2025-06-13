@@ -11,7 +11,7 @@
                 "Can break through your guard with its powerful attacks, making guard less useful. Ashbeasts slowly swing their arms while attacking with a leap at the end of the combo. Side stepping at the right moment leaves the creature open to attack although this strategy is harder in closed spaces where later Ashbeasts are often encountered such as in caves or ruins."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "With the Gut animals skill it yields a Beast Skin, gold value 250. and will drop an Ashbeast heart",
                 "Killing one gives 300 XP."
             ]
@@ -29,7 +29,7 @@
                 "An extremely effective tactic for defeating lone wolves while using a one handed sword is to swing once, sidestep, and repeat the process until they are dead. Most of the time the \"stun\" on your attack will be enough to prevent the wolf from attacking at all, and in the event they do manage to attack, they do not turn quickly enough for their lunge to hit you after your side step. This tactic is also effective in groups but if they start to circle around you, or your dodge will put you closer to another wolf, you should disengage and try again, or use different tactics."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Each wolf will have Teeth on their corpse.",
                 "With the Gut animals skill each will yield a Wolfskin as well.",
                 "Wolves will up experience by 120 XP on death."
@@ -46,7 +46,7 @@
                 "Weakness\nVulnerable to ranged attacks and melee attacks from the sides after their charge."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Each boar will have Raw meat on their corpse.",
                 "With the Gut animals skill each will yield a Wild boarskin and a Tusk as well.",
                 "Boars are worth 60 XP per kill."
@@ -66,7 +66,7 @@
                 "Strengths: Relatively high damage, high health",
                 "Experience: 80 XP"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Ghoul",
@@ -82,7 +82,7 @@
                 "Strengths: Rapid flurry of attacks, powerful magic AoE attack",
                 "Experience: 130 XP"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Gnome",
@@ -95,7 +95,7 @@
                 "Weakness\nVery vulnerable to counter attacks. Block their attacks then attack when they stop."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Will have Gold coin on their corpse, and various other usually worthless things like food or weak weapons like Hunting knifes and Sickles.",
                 "Some drop tool bags which are used for a certain quest in Harbor Town."
             ]
@@ -107,7 +107,7 @@
             "encounters": "",
             "tactics": [],
             "statistics": [],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Gyrger",
@@ -116,23 +116,7 @@
             "encounters": "",
             "tactics": [],
             "statistics": [],
-            "rewarads": []
-        },
-        {
-            "name": "Sea vulture",
-            "description": "Sea vultures are not an uncommon sight in the Faranga Island; they are frequently seen squatting on boulders, waiting for their next meal with their cold, staring eyes.\nHungry sea vulture - appears at the beginning of Risen, the weakest variation you can find. 50 experience\nSea vulture - appears mostly near the beaches of Faranga island. 50 experience",
-            "location": "",
-            "encounters": "",
-            "tactics": [
-                "These birds aren't much of a problem, except when they are in groups. Also beware of their flying jump attacks, as it can break your shield block. If it breaks your block, quickly sidestep and attack it.",
-                "Strength\nCan cover ground quickly for a quick strike.",
-                "Weakness\nVulnerable to counter attacks. Wait for them to attack you, then sidestep left of right and attack its side."
-            ],
-            "statistics": [],
-            "rewarads": [
-                "Each vulture will have Raw chicken on their corpse.",
-                "The Gut animals skill yields nothing in addition."
-            ]
+            "rewards": []
         },
         {
             "name": "Hungry wolf",
@@ -144,7 +128,7 @@
                 "They tend to attack on their own or in small groups, use narrow spaces to keep them in front of you."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Will have Teeth on their corpse.",
                 "With the Gut animals skill yields a Wolfskin as well.",
                 "Ups experience by 50 XP on death."
@@ -161,7 +145,7 @@
                 "Disgusting insect: Level 3, Drops Wing dust, Wign (Gut animals), Health 60, Experience 60",
                 "Grave moth: Level 6, Drops Wing dust, Wign (Gut animals), Health 180, Experience 60"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Talon moths",
@@ -172,7 +156,7 @@
             "statistics": [
                 "Talon moth: Level 9, Drops Wing dust, Wing (Gut animals), Health 270, Experience 90"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Rotworms",
@@ -184,7 +168,7 @@
                 "Rotworm: Level 10, Drops Raw meat, Rotworm claw (Gut animals), Teeth (Gut animals), Health 300, Experience 100",
                 "Tideworm: Level 5, Experience 50"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "War crickets",
@@ -195,7 +179,7 @@
             "statistics": [
                 "War Cricket: Level 14, Drops Wing dust, Health 420, Experience 140"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Scorpions",
@@ -206,7 +190,7 @@
             "statistics": [
                 "Scorpion: Level 20, Drops Scorpion claws (Gut animals), Scorpion stinger (Gut animals), Health 600, Experience 200"
             ],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Ogre",
@@ -219,7 +203,7 @@
                 "Another strategy would be to summon a skeleton or have an extremely strong helper NPC tank the ogre while you slowly peck away with hits. Just be careful when the ogre turns towards your player and also be aware of that the ogre will do an area of effect attack. This strategy works even better if you have a berserker spell to do extra damage."
             ],
             "statistics": [],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Rotworm",
@@ -231,7 +215,7 @@
                 "Weakness\nVery vulnerable to ranged attacks."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Will have Raw meat on their corpse and Teeth as well",
                 "With the Gut animals skill yields Rotworm claw.",
                 "Ups experience by 100 XP on death."
@@ -246,7 +230,7 @@
                 "Lizardmen employ slightly varying tactics, depending on their classes."
             ],
             "statistics": [],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Sea vulture",
@@ -259,7 +243,7 @@
                 "Weakness\nVulnerable to counter attacks. Wait for them to attack you, then sidestep left of right and attack its side."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Each vulture will have Raw chicken on their corpse.",
                 "The Gut animals skill yields nothing in addition."
             ]
@@ -271,7 +255,7 @@
             "encounters": "",
             "tactics": [],
             "statistics": [],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Skeleton",
@@ -282,7 +266,7 @@
                 "Generally the tactics of skeletons are fairly limited. They often carry some weapon, such as a short sword or a scimitar, but they also may attack using the tips of their finger bones. Some skeletons have virtually no defense while others may block, parry, and riposte as their living selves might have done. Usually skeletons will attack in small groups of up to 4, seldom seen as a one-on-one opponent. As a group, the attacks of skeletons are uncoordinated; you are equally likely to be attacked by all of them at the same time as you are to have all of them simultaneously prepare to receive an attack."
             ],
             "statistics": [],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Thunder Lizard",
@@ -293,7 +277,7 @@
                 "Strength\nWhen fighting them they will sometimes put their head in the ground protecting from all attacks and then later take it up a surprise attack you."
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Will have various plants (Berry, Green leaf, Herb, Healing plant, Mana root and Mana mushroom) on their corpse.",
                 "Gut animals will not provide any additional benefit.",
                 "Will up experience by 160 upon death."
@@ -306,7 +290,7 @@
             "encounters": "",
             "tactics": [],
             "statistics": [],
-            "rewarads": []
+            "rewards": []
         },
         {
             "name": "Wolf",
@@ -318,7 +302,7 @@
                 "Weakness\nVulnerable to frontal attacks after their melee combo. Vulnerable to ranged attacks. Weak against flanking attacks"
             ],
             "statistics": [],
-            "rewarads": [
+            "rewards": [
                 "Will have Teeth on their corpse.",
                 "With the Gut animals skill each will yield a Wolfskin as well."
             ]

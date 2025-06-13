@@ -45,11 +45,11 @@ class CharacterViewModel: ObservableObject {
                     self.characters = decodedResponse.characters
                 }
             } else {
-                print("Failed to decode API response - loading local JSON")
+                print("Failed to decode API response - loading local Character JSON")
                 loadFromLocalFile()
             }
         } catch {
-            print("Fetch error: \(error.localizedDescription) - loading local JSON")
+            print("Fetch error: \(error.localizedDescription) - loading local Character JSON")
             loadFromLocalFile()
         }
     }

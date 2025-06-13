@@ -44,11 +44,11 @@ class CreatureViewModel: ObservableObject {
                     self.creatures = decodedResponse.creatures
                 }
             } else {
-                print("Failed to decode API response - loading local JSON")
+                print("Failed to decode API response - loading local Creatures JSON")
                 loadFromLocalFile()
             }
         } catch {
-            print("Fetch error: \(error.localizedDescription) - loading local JSON")
+            print("Fetch error: \(error.localizedDescription) - loading local Creatures JSON")
             loadFromLocalFile()
         }
     }
@@ -67,8 +67,8 @@ class MockCreatureViewModel: CreatureViewModel {
     override init() {
         super.init()
         creatures = [
-            Creature(name: "Mock Creature", description: "Mock description", location: "Mock location", encounters: [], tactics: [], statistics: [], rewards: []),
-            Creature(name: "Mock Creature2", description: "Mock description2", location: "Mock location2", encounters: [], tactics: [], statistics: [], rewards: [])
+            Creature(name: "Mock Creature", description: "Mock description", location: "Mock location", encounters: "", tactics: [], statistics: [], rewards: []),
+            Creature(name: "Mock Creature2", description: "Mock description2", location: "Mock location2", encounters: "", tactics: [], statistics: [], rewards: [])
         ]
     }
 }

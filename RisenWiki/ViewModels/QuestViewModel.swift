@@ -45,11 +45,11 @@ class QuestViewModel: ObservableObject {
                     self.quests = decodedResponse.quests
                 }
             } else {
-                print("Failed to decode API response - loading local JSON")
+                print("Failed to decode API response - loading local Quests JSON")
                 loadFromLocalFile()
             }
         } catch {
-            print("Fetch error: \(error.localizedDescription) — loading local JSON")
+            print("Fetch error: \(error.localizedDescription) — loading local Quests JSON")
             loadFromLocalFile()
         }
     }

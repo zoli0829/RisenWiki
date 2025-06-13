@@ -28,8 +28,7 @@ struct ContentView: View {
                 Label("Characters", systemImage: "person.3")
             }
             NavigationStack {
-                Text("CreaturesView")
-                //CreaturesView()
+                CreaturesView()
             }
             .tabItem {
                 Label("Creatures", systemImage: "tortoise.fill")

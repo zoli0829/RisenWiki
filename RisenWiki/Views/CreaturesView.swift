@@ -15,7 +15,17 @@ struct CreaturesView: View {
     }
     
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationStack {
+            List {
+                ForEach(viewModel.filteredCreatures) { creature in
+                    NavigationLink(destination: CreatureDetailView(creature: creature)) {
+                        Text(creature.name)
+                    }
+                }
+            }
+            .navigationTitle("Creatures")
+            .searchable(text: $viewModel.searchText, prompt: "Search for a creature")
+        }
     }
 }
 

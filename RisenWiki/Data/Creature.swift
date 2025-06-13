@@ -7,11 +7,11 @@
 
 import Foundation
 
-struct Creature: Codable, Identifiable {
+struct Creature: Codable, Identifiable, Hashable {
     let name: String
     let description: String
     let location: String
-    let encounters: [String]
+    let encounters: String
     let tactics: [String]
     let statistics: [String]
     let rewards: [String]
@@ -28,8 +28,8 @@ struct Creature: Codable, Identifiable {
         location.isEmpty ? "No location available." : location
     }
     
-    var safeEncounters: [String] {
-        encounters.isEmpty ? ["No encounters available."] : encounters
+    var safeEncounters: String {
+        encounters.isEmpty ? "No encounters available." : encounters
     }
     
     var safeTactics: [String] {
@@ -43,4 +43,8 @@ struct Creature: Codable, Identifiable {
     var safeRewards: [String] {
         rewards.isEmpty ? ["No rewards available."] : rewards
     }
+    
+    // Example for preview.
+    static let allCreatures: [Creature] = Bundle.main.decode("LocalRisenCreatures.json")
+    static let example = allCreatures[0]
 }
