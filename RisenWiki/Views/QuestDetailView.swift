@@ -63,6 +63,7 @@ struct QuestDetailView: View {
             .padding()
         }
         .navigationTitle("Quest Details")
+        .background(Color.parchment)
     }
 }
 

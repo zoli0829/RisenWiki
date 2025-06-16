@@ -26,6 +26,8 @@ struct CreaturesView: View {
             .navigationTitle("Creatures")
             .searchable(text: $viewModel.searchText, prompt: "Search for a creature")
         }
+        .background(Color.parchment)
+        .scrollContentBackground(.hidden) // Hides default List background
     }
 }
 

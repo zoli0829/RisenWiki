@@ -20,12 +20,15 @@ struct CharactersView: View {
                 ForEach(viewModel.filteredCharacters) { character in
                     NavigationLink(destination: CharacterDetailView(character: character)) {
                         Text(character.name)
+                            .listRowBackground(Color.parchment)
                     }
                 }
             }
             .navigationTitle("Characters")
             .searchable(text: $viewModel.searchText, prompt: "Search for a character")
         }
+        .background(Color.parchment)
+        .scrollContentBackground(.hidden) // Hides default List background
     }
 }
 

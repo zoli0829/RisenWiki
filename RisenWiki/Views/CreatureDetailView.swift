@@ -55,6 +55,7 @@ struct CreatureDetailView: View {
             .padding()
         }
         .navigationTitle("Creature Details")
+        .background(Color.parchment)
     }
 }
 

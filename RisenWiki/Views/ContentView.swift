@@ -8,10 +8,6 @@
 import SwiftUI
 
 struct ContentView: View {
-    @State private var selectedGame = "Game 1"
-    
-    let games = ["Game 1", "Game 2", "Game 3"]
-    
     var body: some View {
         TabView {
             NavigationStack {
@@ -27,6 +23,7 @@ struct ContentView: View {
             .tabItem {
                 Label("Characters", systemImage: "person.3")
             }
+            
             NavigationStack {
                 CreaturesView()
             }
@@ -35,51 +32,14 @@ struct ContentView: View {
             }
             
             NavigationStack {
-                Text("LocationsView")
-                //LocationsView()
+                LocationsView()
             }
             .tabItem {
                 Label("Locations", systemImage: "map.fill")
             }
-            
-            NavigationStack {
-                Text("ItemsView")
-                //ItemsView()
-            }
-            .tabItem {
-                Label("Items", systemImage: "bag.fill")
-            }
-            
-            NavigationStack {
-                Text("MechanicsView")
-                //MechanicsView()
-            }
-            .tabItem {
-                Label("Mechanics", systemImage: "gearshape.fill")
-            }
         }
-        .navigationTitle(selectedGame)
-        .toolbar {
-            ToolbarItem(placement: .topBarLeading) {
-                Button {
-                    // Home button action here
-                } label: {
-                    Label("Home", systemImage: "house.fill")
-                }
-            }
-            
-            ToolbarItem(placement: .topBarTrailing) {
-                Menu {
-                    ForEach(games, id: \.self) { game in
-                        Button(game) {
-                            selectedGame = game
-                        }
-                    }
-                } label: {
-                    Label("Select Game", systemImage: "gamecontroller.fill")
-                }
-            }
-        }
+        .navigationTitle("RisenWiki")
+        .background(Color.parchment)
     }
 }
 

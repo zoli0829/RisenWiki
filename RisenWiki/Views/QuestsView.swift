@@ -26,6 +26,8 @@ struct QuestsView: View {
             .navigationTitle("Quests")
             .searchable(text: $viewModel.searchText, prompt: "Search for a quest")
         }
+        .background(Color.parchment)
+        .scrollContentBackground(.hidden) // Hides default List background
     }
 }
 

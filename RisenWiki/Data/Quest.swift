@@ -30,11 +30,11 @@ struct Quest: Codable, Identifiable {
     }
     
     var safeNotes: [String] {
-        notes.isEmpty ? [] : notes
+        notes.isEmpty ? ["No notes provided."] : notes
     }
     
     var safeOther: [String] {
-        other.isEmpty ? [] : other
+        other.isEmpty ? ["No other information provided."] : other
     }
     
     // Example for preview.

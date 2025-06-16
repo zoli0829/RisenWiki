@@ -52,6 +52,8 @@ struct CharacterDetailView: View {
             .padding()
         }
         .navigationTitle("Character Details")
+        .background(Color.parchment)
+
     }
 }
 #Preview {
