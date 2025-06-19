@@ -32,7 +32,7 @@ class QuestViewModel: ObservableObject {
     
     func loadQuests() async {
         guard let url = URL(string: APIKey().risenQuestsKey) else {
-            print("Invalid URL")
+            print("Invalid URL and load from file")
             loadFromLocalFile()
             return
         }

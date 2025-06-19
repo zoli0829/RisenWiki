@@ -22,7 +22,7 @@ class LocationViewModel: ObservableObject {
     
     func loadLocations() async {
         guard let url = URL(string: APIKey().risenLocationsKey) else {
-            print("Invalid URL")
+            print("Invalid URL and load from file")
             loadFromLocalFile()
             return
         }

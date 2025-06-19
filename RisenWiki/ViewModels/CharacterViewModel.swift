@@ -32,7 +32,7 @@ class CharacterViewModel: ObservableObject {
     
     func loadCharacters() async {
         guard let url = URL(string: APIKey().risenCharactersKey) else {
-            print("Invalid URL")
+            print("Invalid URL and load from file")
             loadFromLocalFile()
             return
         }
