@@ -16,14 +16,22 @@ struct LocationsView: View {
     
     var body: some View {
         NavigationStack {
-            List(viewModel.locations) { location in
-                NavigationLink(destination: LocationDetailView(location: location)) {
-                    Text(location.name)
+            List {
+                ForEach(viewModel.locations) { location in
+                    NavigationLink(destination: LocationDetailView(location: location)) {
+                        Text(location.name)
+                            .listRowBackground(Color.parchment)
+                    }
                 }
+                .listRowBackground(
+                    Capsule()
+                        .fill(Color.darkParchment)
+                        .padding(1)
+                )
             }
+            .background(Color.parchment)
             .navigationBarTitle("Locations")
         }
-        .background(Color.parchment)
         .scrollContentBackground(.hidden) // Hides default List background
     }
 }

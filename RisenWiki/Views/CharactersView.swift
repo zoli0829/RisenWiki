@@ -23,11 +23,16 @@ struct CharactersView: View {
                             .listRowBackground(Color.parchment)
                     }
                 }
+                .listRowBackground(
+                    Capsule()
+                    .fill(Color.darkParchment)
+                    .padding(1)
+                )
             }
+            .background(Color.parchment)
             .navigationTitle("Characters")
             .searchable(text: $viewModel.searchText, prompt: "Search for a character")
         }
-        .background(Color.parchment)
         .scrollContentBackground(.hidden) // Hides default List background
     }
 }

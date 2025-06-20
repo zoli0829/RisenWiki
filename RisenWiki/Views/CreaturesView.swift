@@ -22,8 +22,14 @@ struct CreaturesView: View {
                         Text(creature.name)
                     }
                 }
+                .listRowBackground(
+                    Capsule()
+                    .fill(Color.darkParchment)
+                    .padding(1)
+                )
             }
             .navigationTitle("Creatures")
+            .background(Color.parchment)
             .searchable(text: $viewModel.searchText, prompt: "Search for a creature")
         }
         .background(Color.parchment)
