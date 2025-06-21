@@ -5,7 +5,7 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ---
 
-![Screenshot of RisenWiki app](img/questViewModelReadme.png)
+![Screenshot of RisenWiki app](images/questViewModelReadme.png)
 
 ## 📱 Features
 
@@ -19,7 +19,7 @@ RisenWiki helps players browse and search for information about creatures, locat
   - Statistics
   - Rewards
 
-![Screenshot of RisenWiki app](img/questDetailViewReadme.png)
+![Screenshot of RisenWiki app](images/questDetailViewReadme.png)
 
 - ✅ Detailed view for each character with:
   - Description
@@ -39,7 +39,7 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ---
 
-![Screenshot of RisenWiki app](img/questReadme.png)
+![Screenshot of RisenWiki app](images/questReadme.png)
 
 ## 📊 Tech Stack
 
