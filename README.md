@@ -1,4 +1,4 @@
-# 📜 RisenWiki
+# RisenWiki
 
 A fan-made companion app for the game **Risen** based on the [Risen Wiki website](https://risen.fandom.com/wiki/RISEN_Wiki) built in **SwiftUI** for iOS.  
 RisenWiki helps players browse and search for information about creatures, locations, characters, and quests within the game world.
@@ -7,7 +7,7 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ![Screenshot of RisenWiki app](images/questViewModelReadme.png)
 
-## 📱 Features
+## Features
 
 - ✅ View a list of all creatures, characters, locations, and quests.
 - ✅ Search functionality for quickly finding entries.
@@ -41,7 +41,7 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ![Screenshot of RisenWiki app](images/questReadme.png)
 
-## 📊 Tech Stack
+## Tech Stack
 
 - **Language:** Swift
 - **UI Framework:** SwiftUI
@@ -51,7 +51,7 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ---
 
-📜 Disclaimer
+Disclaimer
 This is an unofficial fan project for personal and educational purposes.
 Risen is a trademark of Piranha Bytes / Deep Silver.
 No assets from the original game are used or distributed.
