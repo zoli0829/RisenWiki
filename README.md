@@ -9,9 +9,9 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ## Features
 
-- ✅ View a list of all creatures, characters, locations, and quests.
-- ✅ Search functionality for quickly finding entries.
-- ✅ Detailed view for each creature with:
+- View a list of all creatures, characters, locations, and quests.
+- Search functionality for quickly finding entries.
+- Detailed view for each creature with:
   - Description
   - Location
   - Encounters
@@ -21,21 +21,21 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ![Screenshot of RisenWiki app](images/questDetailViewReadme.png)
 
-- ✅ Detailed view for each character with:
+- Detailed view for each character with:
   - Description
   - Location
   - Related quests
   - Tips
-- ✅ Detailed view for each quest with:
+- Detailed view for each quest with:
   - Description
   - Location
   - Objectives
   - Rewards
   - Notes
   - Other
-- ✅ Load data from a remote API (if available) or fall back to bundled local JSON files.
-- ✅ Elegant parchment-inspired UI theme.
-- ✅ Modular, testable, and previewable SwiftUI views.
+- Load data from a remote API (if available) or fall back to bundled local JSON files.
+- Elegant parchment-inspired UI theme.
+- Modular, testable, and previewable SwiftUI views.
 
 ---
 
