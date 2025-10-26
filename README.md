@@ -8,12 +8,12 @@ RisenWiki helps players browse and search for information about creatures, locat
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/questsView.png" alt="Screenshot of the quests" width="300"/>
-  <img src="screenshots/questsDetailView.png" alt="Screenshot of a detailed quest" width="300"/>
-  <img src="screenshots/charactersView.png" alt="Screenshot of the characters" width="300"/>
-    <img src="screenshots/charactersDetailView.png" alt="Screenshot of a character's details" width="300"/>
-  <img src="screenshots/creaturesView.png" alt="Screenshot of the creatures" width="300"/>
-  <img src="screenshots/creaturesDetailView.png" alt="Screenshot of a creatures' details" width="300"/>
+  <img src="screenshots/questsView.PNG" alt="Screenshot of the quests" width="300"/>
+  <img src="screenshots/questsDetailView.PNG" alt="Screenshot of a detailed quest" width="300"/>
+  <img src="screenshots/charactersView.PNG" alt="Screenshot of the characters" width="300"/>
+    <img src="screenshots/charactersDetailView.PNG" alt="Screenshot of a character's details" width="300"/>
+  <img src="screenshots/creaturesView.PNG" alt="Screenshot of the creatures" width="300"/>
+  <img src="screenshots/creaturesDetailView.PNG" alt="Screenshot of a creatures' details" width="300"/>
 </p>
 
 ---
