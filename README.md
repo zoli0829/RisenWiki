@@ -5,7 +5,18 @@ RisenWiki helps players browse and search for information about creatures, locat
 
 ---
 
-![Screenshot of RisenWiki app](images/questViewModelReadme.png)
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/questsView.png" alt="Screenshot of the quests" width="300"/>
+  <img src="screenshots/questsDetailView.png" alt="Screenshot of a detailed quest" width="300"/>
+  <img src="screenshots/charactersView.png" alt="Screenshot of the characters" width="300"/>
+    <img src="screenshots/charactersDetailView.png" alt="Screenshot of a character's details" width="300"/>
+  <img src="screenshots/creaturesView.png" alt="Screenshot of the creatures" width="300"/>
+  <img src="screenshots/creaturesDetailView.png" alt="Screenshot of a creatures' details" width="300"/>
+</p>
+
+---
 
 ## Features
 
@@ -18,8 +29,6 @@ RisenWiki helps players browse and search for information about creatures, locat
   - Tactics
   - Statistics
   - Rewards
-
-![Screenshot of RisenWiki app](images/questDetailViewReadme.png)
 
 - Detailed view for each character with:
   - Description
@@ -38,8 +47,6 @@ RisenWiki helps players browse and search for information about creatures, locat
 - Modular, testable, and previewable SwiftUI views.
 
 ---
-
-![Screenshot of RisenWiki app](images/questReadme.png)
 
 ## Tech Stack
 

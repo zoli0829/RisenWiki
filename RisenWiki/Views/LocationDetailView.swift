@@ -12,17 +12,22 @@ struct LocationDetailView: View {
     
     var body: some View {
         ScrollView {
-            VStack(alignment: .leading, spacing: 16) {
-                Section {
-                    Text(location.name)
-                        .font(.largeTitle)
-                        .fontWeight(.bold)
-                    
-                    Text(location.safeDescription)
-                        .font(.body)
+            ZStack {
+                Color.parchment
+                    .ignoresSafeArea()
+                
+                VStack(alignment: .leading, spacing: 16) {
+                    Section {
+                        Text(location.name)
+                            .font(.largeTitle)
+                            .fontWeight(.bold)
+                        
+                        Text(location.safeDescription)
+                            .font(.body)
+                    }
                 }
+                .padding()
             }
-            .padding()
         }
         .background(Color.parchment)
     }

@@ -40,6 +40,7 @@ struct ContentView: View {
         }
         .navigationTitle("RisenWiki")
         .background(Color.parchment)
+        .tint(.black)
     }
 }
 
